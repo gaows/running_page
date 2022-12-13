@@ -7,11 +7,11 @@ module.exports = {
     description: 'Personal site and blog',
     navLinks: [
       {
-        name: 'Blog',
+        name: 'running',
         url: 'https://github.com/gaows/running_page',
       },
       {
-        name: 'About',
+        name: 'about',
         url: 'https://timothy.zcool.com.cn/',
       },
     ],
