@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'shan running',
-    siteUrl: 'https://github.com/gaows/running_page',
+    siteUrl: 'https://gaows.github.io/running_page/',
     logo: 'https://img.zcool.cn/community/01fc9a6243ba0b0002c4212c75cc37.jpg?x-oss-process=image/resize,m_fill,w_160,h_160,limit_0/auto-orient,1/sharpen,100/format,webp/quality,q_100',
     description: 'Personal site and blog',
     navLinks: [
