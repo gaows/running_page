@@ -63,7 +63,7 @@ export {
   LINE_OPACITY,
 };
 
-const nike = 'rgb(255,51,153)'; // if you want change the main color change here src/styles/variables.scss
+const nike = 'rgb(44, 166, 224)'; // if you want change the main color change here src/styles/variables.scss
 
 // If your map has an offset please change this line
 // issues #92 and #198
