@@ -20,7 +20,7 @@ const PeriodStat = ({ onClick }) => {
           />
         ))}
       </section>
-      <hr color="red" />
+      <hr color='rgb(44, 166, 224)' />
     </div>
   );
 };
