@@ -32,7 +32,7 @@ jobs:
           python run_page/gpx_sync.py
 
       - name: Check formatting (black)
-        run: black . --check
+        run: black . --diff --color && black . --check
 
       - name: Lint with Ruff
         run: |
@@ -54,7 +54,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node }}
-
       - name: Enable corepack
         run: npm install -g corepack@latest && corepack enable pnpm
 
