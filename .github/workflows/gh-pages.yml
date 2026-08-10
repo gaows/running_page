@@ -40,7 +40,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main  # 更改为 `main`，如果你的默认分支是 `main`
+          ref: master  # 更改为 `main`，如果你的默认分支是 `main`
           fetch-depth: 0
           persist-credentials: false
 
