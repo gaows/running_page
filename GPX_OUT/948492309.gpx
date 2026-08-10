@@ -1,0 +1,4781 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.brytonsport.com/BDX/2/2" version="2.2.0.3" creator="bryton">
+  <metadata>
+    <name>2014/11/13 19:57</name>
+    <time>2014-11-13T11:57:05Z</time>
+    <bounds minlat="35.949188" maxlon="120.209874" minlon="120.198236" maxlat="35.956757"/>
+    <extensions>
+      <user>
+        <bike>0<wheel>204.00</wheel></bike>
+        <weight>70</weight>
+        <gender>1</gender>
+        <height>172</height>
+        <age>27</age>
+        <mhr>190</mhr>
+        <lthr>172</lthr>
+        <map>0</map>
+        <ftp>0</ftp>
+        <zonedef type="1">
+          <zone high="74" id="1" low="0"/>
+          <zone high="80" id="2" low="74"/>
+          <zone high="85" id="3" low="80"/>
+          <zone high="91" id="4" low="85"/>
+          <zone high="93" id="5" low="91"/>
+          <zone high="95" id="6" low="93"/>
+          <zone high="0" id="7" low="95"/>
+        </zonedef>
+        <zonedef type="2">
+          <zone high="80" id="1" low="0"/>
+          <zone high="87" id="2" low="80"/>
+          <zone high="91" id="3" low="87"/>
+          <zone high="100" id="4" low="91"/>
+          <zone high="101" id="5" low="100"/>
+          <zone high="105" id="6" low="101"/>
+          <zone high="0" id="7" low="105"/>
+        </zonedef>
+        <zonedef type="3">
+          <zone high="40" id="1" low="17"/>
+          <zone high="55" id="2" low="40"/>
+          <zone high="65" id="3" low="55"/>
+          <zone high="75" id="4" low="65"/>
+          <zone high="85" id="5" low="75"/>
+          <zone high="110" id="6" low="85"/>
+          <zone high="65535" id="7" low="110"/>
+        </zonedef>
+        <zonedef type="4">
+          <zone high="55" id="1" low="23"/>
+          <zone high="75" id="2" low="55"/>
+          <zone high="90" id="3" low="75"/>
+          <zone high="105" id="4" low="90"/>
+          <zone high="120" id="5" low="105"/>
+          <zone high="150" id="6" low="120"/>
+          <zone high="65535" id="7" low="150"/>
+        </zonedef>
+      </user>
+      <sys version="1.0.0.R039 BB2.8.0.14">Cardio60<apps><app version="148" name="bc"/></apps></sys>
+      <sharetype>2</sharetype>
+      <acttype subtype="0">1</acttype>
+      <trvTime>39</trvTime>
+      <trvDist>4895</trvDist>
+      <stime>1415879825</stime>
+      <etime>1415882180</etime>
+    </extensions>
+  </metadata>
+  <rte>
+    <number>2</number>
+    <rtept lat="35.956757" lon="120.209874">
+      <type>1</type>
+    </rtept>
+    <rtept lat="35.954182" lon="120.205452">
+      <type>2</type>
+    </rtept>
+  </rte>
+  <trk>
+    <trkseg>
+      <trkpt lat="35.956757" lon="120.209874">
+        <ele>11.1</ele>
+        <time>2014-11-13T11:57:20Z</time>
+      </trkpt>
+      <trkpt lat="35.956693" lon="120.209687">
+        <ele>11.1</ele>
+        <time>2014-11-13T11:57:24Z</time>
+      </trkpt>
+      <trkpt lat="35.956685" lon="120.209572">
+        <ele>11.2</ele>
+        <time>2014-11-13T11:57:28Z</time>
+      </trkpt>
+      <trkpt lat="35.956679" lon="120.209477">
+        <ele>11.2</ele>
+        <time>2014-11-13T11:57:32Z</time>
+      </trkpt>
+      <trkpt lat="35.956656" lon="120.209386">
+        <ele>11.2</ele>
+        <time>2014-11-13T11:57:36Z</time>
+      </trkpt>
+      <trkpt lat="35.956652" lon="120.209308">
+        <ele>11.3</ele>
+        <time>2014-11-13T11:57:40Z</time>
+      </trkpt>
+      <trkpt lat="35.95665" lon="120.209229">
+        <ele>11.3</ele>
+        <time>2014-11-13T11:57:44Z</time>
+      </trkpt>
+      <trkpt lat="35.95665" lon="120.209141">
+        <ele>11.4</ele>
+        <time>2014-11-13T11:57:48Z</time>
+      </trkpt>
+      <trkpt lat="35.956649" lon="120.20905">
+        <ele>11.4</ele>
+        <time>2014-11-13T11:57:52Z</time>
+      </trkpt>
+      <trkpt lat="35.95664" lon="120.208945">
+        <ele>11.5</ele>
+        <time>2014-11-13T11:57:56Z</time>
+      </trkpt>
+      <trkpt lat="35.956638" lon="120.208843">
+        <ele>11.5</ele>
+        <time>2014-11-13T11:58:00Z</time>
+      </trkpt>
+      <trkpt lat="35.956633" lon="120.208753">
+        <ele>11.6</ele>
+        <time>2014-11-13T11:58:04Z</time>
+      </trkpt>
+      <trkpt lat="35.956618" lon="120.208675">
+        <ele>11.7</ele>
+        <time>2014-11-13T11:58:08Z</time>
+      </trkpt>
+      <trkpt lat="35.956604" lon="120.208607">
+        <ele>11.8</ele>
+        <time>2014-11-13T11:58:12Z</time>
+      </trkpt>
+      <trkpt lat="35.95659" lon="120.208535">
+        <ele>11.9</ele>
+        <time>2014-11-13T11:58:16Z</time>
+      </trkpt>
+      <trkpt lat="35.956584" lon="120.208467">
+        <ele>12.0</ele>
+        <time>2014-11-13T11:58:20Z</time>
+      </trkpt>
+      <trkpt lat="35.956574" lon="120.208398">
+        <ele>12.0</ele>
+        <time>2014-11-13T11:58:24Z</time>
+      </trkpt>
+      <trkpt lat="35.956567" lon="120.208314">
+        <ele>12.1</ele>
+        <time>2014-11-13T11:58:28Z</time>
+      </trkpt>
+      <trkpt lat="35.956561" lon="120.208223">
+        <ele>12.2</ele>
+        <time>2014-11-13T11:58:32Z</time>
+      </trkpt>
+      <trkpt lat="35.956521" lon="120.208124">
+        <ele>12.2</ele>
+        <time>2014-11-13T11:58:36Z</time>
+      </trkpt>
+      <trkpt lat="35.956484" lon="120.208037">
+        <ele>12.2</ele>
+        <time>2014-11-13T11:58:40Z</time>
+      </trkpt>
+      <trkpt lat="35.956459" lon="120.207946">
+        <ele>12.3</ele>
+        <time>2014-11-13T11:58:44Z</time>
+      </trkpt>
+      <trkpt lat="35.956442" lon="120.207854">
+        <ele>12.2</ele>
+        <time>2014-11-13T11:58:48Z</time>
+      </trkpt>
+      <trkpt lat="35.956416" lon="120.207767">
+        <ele>12.2</ele>
+        <time>2014-11-13T11:58:52Z</time>
+      </trkpt>
+      <trkpt lat="35.956399" lon="120.207665">
+        <ele>12.2</ele>
+        <time>2014-11-13T11:58:56Z</time>
+      </trkpt>
+      <trkpt lat="35.956388" lon="120.207572">
+        <ele>12.1</ele>
+        <time>2014-11-13T11:59:00Z</time>
+      </trkpt>
+      <trkpt lat="35.956357" lon="120.207512">
+        <ele>12.0</ele>
+        <time>2014-11-13T11:59:04Z</time>
+      </trkpt>
+      <trkpt lat="35.956298" lon="120.2075">
+        <ele>11.9</ele>
+        <time>2014-11-13T11:59:08Z</time>
+      </trkpt>
+      <trkpt lat="35.956232" lon="120.207505">
+        <ele>11.8</ele>
+        <time>2014-11-13T11:59:12Z</time>
+      </trkpt>
+      <trkpt lat="35.956157" lon="120.207529">
+        <ele>11.6</ele>
+        <time>2014-11-13T11:59:16Z</time>
+      </trkpt>
+      <trkpt lat="35.956087" lon="120.207546">
+        <ele>11.4</ele>
+        <time>2014-11-13T11:59:20Z</time>
+      </trkpt>
+      <trkpt lat="35.956011" lon="120.207563">
+        <ele>11.2</ele>
+        <time>2014-11-13T11:59:24Z</time>
+      </trkpt>
+      <trkpt lat="35.955933" lon="120.207587">
+        <ele>10.9</ele>
+        <time>2014-11-13T11:59:28Z</time>
+      </trkpt>
+      <trkpt lat="35.95586" lon="120.207599">
+        <ele>10.6</ele>
+        <time>2014-11-13T11:59:32Z</time>
+      </trkpt>
+      <trkpt lat="35.955785" lon="120.20761">
+        <ele>10.3</ele>
+        <time>2014-11-13T11:59:36Z</time>
+      </trkpt>
+      <trkpt lat="35.955717" lon="120.207617">
+        <ele>9.9</ele>
+        <time>2014-11-13T11:59:40Z</time>
+      </trkpt>
+      <trkpt lat="35.955651" lon="120.207625">
+        <ele>9.6</ele>
+        <time>2014-11-13T11:59:44Z</time>
+      </trkpt>
+      <trkpt lat="35.955581" lon="120.207634">
+        <ele>9.2</ele>
+        <time>2014-11-13T11:59:48Z</time>
+      </trkpt>
+      <trkpt lat="35.955511" lon="120.207654">
+        <ele>8.8</ele>
+        <time>2014-11-13T11:59:52Z</time>
+      </trkpt>
+      <trkpt lat="35.955426" lon="120.2077">
+        <ele>8.3</ele>
+        <time>2014-11-13T12:00:00Z</time>
+      </trkpt>
+      <trkpt lat="35.955357" lon="120.207744">
+        <ele>7.9</ele>
+        <time>2014-11-13T12:00:04Z</time>
+      </trkpt>
+      <trkpt lat="35.955291" lon="120.207769">
+        <ele>7.5</ele>
+        <time>2014-11-13T12:00:08Z</time>
+      </trkpt>
+      <trkpt lat="35.955228" lon="120.207809">
+        <ele>7.1</ele>
+        <time>2014-11-13T12:00:12Z</time>
+      </trkpt>
+      <trkpt lat="35.95516" lon="120.207854">
+        <ele>6.7</ele>
+        <time>2014-11-13T12:00:16Z</time>
+      </trkpt>
+      <trkpt lat="35.955091" lon="120.207898">
+        <ele>6.3</ele>
+        <time>2014-11-13T12:00:20Z</time>
+      </trkpt>
+      <trkpt lat="35.955015" lon="120.207935">
+        <ele>5.9</ele>
+        <time>2014-11-13T12:00:24Z</time>
+      </trkpt>
+      <trkpt lat="35.95494" lon="120.207961">
+        <ele>5.5</ele>
+        <time>2014-11-13T12:00:28Z</time>
+      </trkpt>
+      <trkpt lat="35.954868" lon="120.207986">
+        <ele>5.1</ele>
+        <time>2014-11-13T12:00:32Z</time>
+      </trkpt>
+      <trkpt lat="35.954794" lon="120.208011">
+        <ele>4.8</ele>
+        <time>2014-11-13T12:00:36Z</time>
+      </trkpt>
+      <trkpt lat="35.954726" lon="120.208028">
+        <ele>4.4</ele>
+        <time>2014-11-13T12:00:40Z</time>
+      </trkpt>
+      <trkpt lat="35.954658" lon="120.208037">
+        <ele>4.1</ele>
+        <time>2014-11-13T12:00:44Z</time>
+      </trkpt>
+      <trkpt lat="35.954585" lon="120.208046">
+        <ele>3.8</ele>
+        <time>2014-11-13T12:00:48Z</time>
+      </trkpt>
+      <trkpt lat="35.954514" lon="120.208059">
+        <ele>3.5</ele>
+        <time>2014-11-13T12:00:52Z</time>
+      </trkpt>
+      <trkpt lat="35.954445" lon="120.20807">
+        <ele>3.2</ele>
+        <time>2014-11-13T12:00:56Z</time>
+      </trkpt>
+      <trkpt lat="35.954379" lon="120.208083">
+        <ele>2.9</ele>
+        <time>2014-11-13T12:01:00Z</time>
+      </trkpt>
+      <trkpt lat="35.954316" lon="120.208102">
+        <ele>2.7</ele>
+        <time>2014-11-13T12:01:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954253" lon="120.208116">
+        <ele>2.5</ele>
+        <time>2014-11-13T12:01:08Z</time>
+      </trkpt>
+      <trkpt lat="35.954187" lon="120.208134">
+        <ele>2.3</ele>
+        <time>2014-11-13T12:01:12Z</time>
+      </trkpt>
+      <trkpt lat="35.954121" lon="120.208151">
+        <ele>2.2</ele>
+        <time>2014-11-13T12:01:16Z</time>
+      </trkpt>
+      <trkpt lat="35.954055" lon="120.20816">
+        <ele>2.0</ele>
+        <time>2014-11-13T12:01:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953981" lon="120.208181">
+        <ele>1.9</ele>
+        <time>2014-11-13T12:01:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953903" lon="120.208197">
+        <ele>1.9</ele>
+        <time>2014-11-13T12:01:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953825" lon="120.208217">
+        <ele>1.8</ele>
+        <time>2014-11-13T12:01:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953748" lon="120.20824">
+        <ele>1.8</ele>
+        <time>2014-11-13T12:01:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953674" lon="120.208265">
+        <ele>1.8</ele>
+        <time>2014-11-13T12:01:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953602" lon="120.208291">
+        <ele>1.7</ele>
+        <time>2014-11-13T12:01:44Z</time>
+      </trkpt>
+      <trkpt lat="35.953533" lon="120.20831">
+        <ele>1.7</ele>
+        <time>2014-11-13T12:01:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953462" lon="120.208293">
+        <ele>1.7</ele>
+        <time>2014-11-13T12:01:52Z</time>
+      </trkpt>
+      <trkpt lat="35.95339" lon="120.208272">
+        <ele>1.7</ele>
+        <time>2014-11-13T12:01:56Z</time>
+      </trkpt>
+      <trkpt lat="35.953323" lon="120.208252">
+        <ele>1.6</ele>
+        <time>2014-11-13T12:02:00Z</time>
+      </trkpt>
+      <trkpt lat="35.953266" lon="120.208203">
+        <ele>1.6</ele>
+        <time>2014-11-13T12:02:04Z</time>
+      </trkpt>
+      <trkpt lat="35.953239" lon="120.208109">
+        <ele>1.6</ele>
+        <time>2014-11-13T12:02:08Z</time>
+      </trkpt>
+      <trkpt lat="35.953213" lon="120.20801">
+        <ele>1.6</ele>
+        <time>2014-11-13T12:02:12Z</time>
+      </trkpt>
+      <trkpt lat="35.95319" lon="120.207916">
+        <ele>1.6</ele>
+        <time>2014-11-13T12:02:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953173" lon="120.207827">
+        <ele>1.6</ele>
+        <time>2014-11-13T12:02:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953156" lon="120.207733">
+        <ele>1.5</ele>
+        <time>2014-11-13T12:02:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953155" lon="120.207654">
+        <ele>1.5</ele>
+        <time>2014-11-13T12:02:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953144" lon="120.20757">
+        <ele>1.5</ele>
+        <time>2014-11-13T12:02:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953118" lon="120.207485">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:02:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953096" lon="120.207395">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:02:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953069" lon="120.207305">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:02:44Z</time>
+      </trkpt>
+      <trkpt lat="35.953036" lon="120.207218">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:02:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953002" lon="120.207125">
+        <ele>1.2</ele>
+        <time>2014-11-13T12:02:52Z</time>
+      </trkpt>
+      <trkpt lat="35.952973" lon="120.207029">
+        <ele>1.1</ele>
+        <time>2014-11-13T12:02:56Z</time>
+      </trkpt>
+      <trkpt lat="35.952951" lon="120.206938">
+        <ele>1.0</ele>
+        <time>2014-11-13T12:03:00Z</time>
+      </trkpt>
+      <trkpt lat="35.952927" lon="120.206847">
+        <ele>0.9</ele>
+        <time>2014-11-13T12:03:04Z</time>
+      </trkpt>
+      <trkpt lat="35.952892" lon="120.20676">
+        <ele>0.9</ele>
+        <time>2014-11-13T12:03:08Z</time>
+      </trkpt>
+      <trkpt lat="35.952843" lon="120.206695">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:03:12Z</time>
+      </trkpt>
+      <trkpt lat="35.952786" lon="120.206671">
+        <ele>0.7</ele>
+        <time>2014-11-13T12:03:16Z</time>
+      </trkpt>
+      <trkpt lat="35.952721" lon="120.206694">
+        <ele>0.6</ele>
+        <time>2014-11-13T12:03:20Z</time>
+      </trkpt>
+      <trkpt lat="35.952648" lon="120.206711">
+        <ele>0.5</ele>
+        <time>2014-11-13T12:03:24Z</time>
+      </trkpt>
+      <trkpt lat="35.952566" lon="120.206706">
+        <ele>0.4</ele>
+        <time>2014-11-13T12:03:28Z</time>
+      </trkpt>
+      <trkpt lat="35.952479" lon="120.206703">
+        <ele>0.3</ele>
+        <time>2014-11-13T12:03:32Z</time>
+      </trkpt>
+      <trkpt lat="35.952394" lon="120.206702">
+        <ele>0.2</ele>
+        <time>2014-11-13T12:03:36Z</time>
+      </trkpt>
+      <trkpt lat="35.952309" lon="120.206713">
+        <ele>0.1</ele>
+        <time>2014-11-13T12:03:40Z</time>
+      </trkpt>
+      <trkpt lat="35.952224" lon="120.206725">
+        <ele>-0.0</ele>
+        <time>2014-11-13T12:03:44Z</time>
+      </trkpt>
+      <trkpt lat="35.952135" lon="120.206739">
+        <ele>-0.2</ele>
+        <time>2014-11-13T12:03:48Z</time>
+      </trkpt>
+      <trkpt lat="35.952048" lon="120.206747">
+        <ele>-0.3</ele>
+        <time>2014-11-13T12:03:52Z</time>
+      </trkpt>
+      <trkpt lat="35.951979" lon="120.20676">
+        <ele>-0.4</ele>
+        <time>2014-11-13T12:03:56Z</time>
+      </trkpt>
+      <trkpt lat="35.95192" lon="120.206792">
+        <ele>-0.4</ele>
+        <time>2014-11-13T12:04:00Z</time>
+      </trkpt>
+      <trkpt lat="35.951852" lon="120.206836">
+        <ele>-0.5</ele>
+        <time>2014-11-13T12:04:04Z</time>
+      </trkpt>
+      <trkpt lat="35.951803" lon="120.206881">
+        <ele>-0.6</ele>
+        <time>2014-11-13T12:04:08Z</time>
+      </trkpt>
+      <trkpt lat="35.951746" lon="120.206906">
+        <ele>-0.7</ele>
+        <time>2014-11-13T12:04:12Z</time>
+      </trkpt>
+      <trkpt lat="35.951682" lon="120.206905">
+        <ele>-0.7</ele>
+        <time>2014-11-13T12:04:16Z</time>
+      </trkpt>
+      <trkpt lat="35.951608" lon="120.206896">
+        <ele>-0.8</ele>
+        <time>2014-11-13T12:04:20Z</time>
+      </trkpt>
+      <trkpt lat="35.951533" lon="120.206893">
+        <ele>-0.8</ele>
+        <time>2014-11-13T12:04:24Z</time>
+      </trkpt>
+      <trkpt lat="35.951478" lon="120.206873">
+        <ele>-0.8</ele>
+        <time>2014-11-13T12:04:28Z</time>
+      </trkpt>
+      <trkpt lat="35.95146" lon="120.206786">
+        <ele>-0.8</ele>
+        <time>2014-11-13T12:04:32Z</time>
+      </trkpt>
+      <trkpt lat="35.951448" lon="120.206691">
+        <ele>-0.7</ele>
+        <time>2014-11-13T12:04:36Z</time>
+      </trkpt>
+      <trkpt lat="35.951434" lon="120.206593">
+        <ele>-0.7</ele>
+        <time>2014-11-13T12:04:40Z</time>
+      </trkpt>
+      <trkpt lat="35.951409" lon="120.206481">
+        <ele>-0.7</ele>
+        <time>2014-11-13T12:04:44Z</time>
+      </trkpt>
+      <trkpt lat="35.951378" lon="120.206389">
+        <ele>-0.6</ele>
+        <time>2014-11-13T12:04:48Z</time>
+      </trkpt>
+      <trkpt lat="35.951348" lon="120.206295">
+        <ele>-0.6</ele>
+        <time>2014-11-13T12:04:52Z</time>
+      </trkpt>
+      <trkpt lat="35.951317" lon="120.206206">
+        <ele>-0.5</ele>
+        <time>2014-11-13T12:04:56Z</time>
+      </trkpt>
+      <trkpt lat="35.951282" lon="120.206125">
+        <ele>-0.4</ele>
+        <time>2014-11-13T12:05:00Z</time>
+      </trkpt>
+      <trkpt lat="35.951251" lon="120.206041">
+        <ele>-0.2</ele>
+        <time>2014-11-13T12:05:04Z</time>
+      </trkpt>
+      <trkpt lat="35.951223" lon="120.20596">
+        <ele>-0.0</ele>
+        <time>2014-11-13T12:05:08Z</time>
+      </trkpt>
+      <trkpt lat="35.9512" lon="120.205877">
+        <ele>0.2</ele>
+        <time>2014-11-13T12:05:12Z</time>
+      </trkpt>
+      <trkpt lat="35.951178" lon="120.205799">
+        <ele>0.4</ele>
+        <time>2014-11-13T12:05:16Z</time>
+      </trkpt>
+      <trkpt lat="35.951147" lon="120.205747">
+        <ele>0.6</ele>
+        <time>2014-11-13T12:05:20Z</time>
+      </trkpt>
+      <trkpt lat="35.951096" lon="120.205747">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:05:24Z</time>
+      </trkpt>
+      <trkpt lat="35.951081" lon="120.205672">
+        <ele>1.0</ele>
+        <time>2014-11-13T12:05:28Z</time>
+      </trkpt>
+      <trkpt lat="35.951066" lon="120.205581">
+        <ele>1.1</ele>
+        <time>2014-11-13T12:05:32Z</time>
+      </trkpt>
+      <trkpt lat="35.951046" lon="120.205487">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:05:36Z</time>
+      </trkpt>
+      <trkpt lat="35.951013" lon="120.205388">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:05:40Z</time>
+      </trkpt>
+      <trkpt lat="35.950985" lon="120.205292">
+        <ele>1.5</ele>
+        <time>2014-11-13T12:05:44Z</time>
+      </trkpt>
+      <trkpt lat="35.950964" lon="120.205202">
+        <ele>1.6</ele>
+        <time>2014-11-13T12:05:48Z</time>
+      </trkpt>
+      <trkpt lat="35.950937" lon="120.205116">
+        <ele>1.7</ele>
+        <time>2014-11-13T12:05:52Z</time>
+      </trkpt>
+      <trkpt lat="35.950904" lon="120.205006">
+        <ele>1.8</ele>
+        <time>2014-11-13T12:05:56Z</time>
+      </trkpt>
+      <trkpt lat="35.950889" lon="120.204913">
+        <ele>1.9</ele>
+        <time>2014-11-13T12:06:00Z</time>
+      </trkpt>
+      <trkpt lat="35.950867" lon="120.20482">
+        <ele>1.9</ele>
+        <time>2014-11-13T12:06:04Z</time>
+      </trkpt>
+      <trkpt lat="35.950847" lon="120.204731">
+        <ele>2.0</ele>
+        <time>2014-11-13T12:06:08Z</time>
+      </trkpt>
+      <trkpt lat="35.950811" lon="120.204639">
+        <ele>2.1</ele>
+        <time>2014-11-13T12:06:12Z</time>
+      </trkpt>
+      <trkpt lat="35.950788" lon="120.204538">
+        <ele>2.2</ele>
+        <time>2014-11-13T12:06:16Z</time>
+      </trkpt>
+      <trkpt lat="35.950762" lon="120.204437">
+        <ele>2.3</ele>
+        <time>2014-11-13T12:06:20Z</time>
+      </trkpt>
+      <trkpt lat="35.950747" lon="120.204329">
+        <ele>2.3</ele>
+        <time>2014-11-13T12:06:24Z</time>
+      </trkpt>
+      <trkpt lat="35.950734" lon="120.204224">
+        <ele>2.3</ele>
+        <time>2014-11-13T12:06:28Z</time>
+      </trkpt>
+      <trkpt lat="35.950718" lon="120.204125">
+        <ele>2.4</ele>
+        <time>2014-11-13T12:06:32Z</time>
+      </trkpt>
+      <trkpt lat="35.950694" lon="120.204031">
+        <ele>2.5</ele>
+        <time>2014-11-13T12:06:36Z</time>
+      </trkpt>
+      <trkpt lat="35.950675" lon="120.203943">
+        <ele>2.6</ele>
+        <time>2014-11-13T12:06:40Z</time>
+      </trkpt>
+      <trkpt lat="35.95065" lon="120.203864">
+        <ele>2.7</ele>
+        <time>2014-11-13T12:06:44Z</time>
+      </trkpt>
+      <trkpt lat="35.950624" lon="120.203772">
+        <ele>2.7</ele>
+        <time>2014-11-13T12:06:48Z</time>
+      </trkpt>
+      <trkpt lat="35.950598" lon="120.203678">
+        <ele>2.6</ele>
+        <time>2014-11-13T12:06:52Z</time>
+      </trkpt>
+      <trkpt lat="35.950576" lon="120.203567">
+        <ele>2.6</ele>
+        <time>2014-11-13T12:06:56Z</time>
+      </trkpt>
+      <trkpt lat="35.950552" lon="120.203455">
+        <ele>2.6</ele>
+        <time>2014-11-13T12:07:00Z</time>
+      </trkpt>
+      <trkpt lat="35.950534" lon="120.203357">
+        <ele>2.6</ele>
+        <time>2014-11-13T12:07:04Z</time>
+      </trkpt>
+      <trkpt lat="35.950512" lon="120.203259">
+        <ele>2.6</ele>
+        <time>2014-11-13T12:07:08Z</time>
+      </trkpt>
+      <trkpt lat="35.950488" lon="120.203164">
+        <ele>2.6</ele>
+        <time>2014-11-13T12:07:12Z</time>
+      </trkpt>
+      <trkpt lat="35.950463" lon="120.203072">
+        <ele>2.6</ele>
+        <time>2014-11-13T12:07:16Z</time>
+      </trkpt>
+      <trkpt lat="35.950441" lon="120.202977">
+        <ele>2.5</ele>
+        <time>2014-11-13T12:07:20Z</time>
+      </trkpt>
+      <trkpt lat="35.950417" lon="120.202885">
+        <ele>2.4</ele>
+        <time>2014-11-13T12:07:24Z</time>
+      </trkpt>
+      <trkpt lat="35.950396" lon="120.202793">
+        <ele>2.3</ele>
+        <time>2014-11-13T12:07:28Z</time>
+      </trkpt>
+      <trkpt lat="35.950374" lon="120.202698">
+        <ele>2.2</ele>
+        <time>2014-11-13T12:07:32Z</time>
+      </trkpt>
+      <trkpt lat="35.95035" lon="120.202608">
+        <ele>2.1</ele>
+        <time>2014-11-13T12:07:40Z</time>
+      </trkpt>
+      <trkpt lat="35.950324" lon="120.202518">
+        <ele>2.0</ele>
+        <time>2014-11-13T12:07:44Z</time>
+      </trkpt>
+      <trkpt lat="35.950299" lon="120.202425">
+        <ele>1.9</ele>
+        <time>2014-11-13T12:07:48Z</time>
+      </trkpt>
+      <trkpt lat="35.950276" lon="120.202333">
+        <ele>1.8</ele>
+        <time>2014-11-13T12:07:52Z</time>
+      </trkpt>
+      <trkpt lat="35.950258" lon="120.202235">
+        <ele>1.6</ele>
+        <time>2014-11-13T12:07:56Z</time>
+      </trkpt>
+      <trkpt lat="35.950236" lon="120.202138">
+        <ele>1.5</ele>
+        <time>2014-11-13T12:08:00Z</time>
+      </trkpt>
+      <trkpt lat="35.950211" lon="120.202041">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:08:04Z</time>
+      </trkpt>
+      <trkpt lat="35.950187" lon="120.201944">
+        <ele>1.1</ele>
+        <time>2014-11-13T12:08:08Z</time>
+      </trkpt>
+      <trkpt lat="35.950165" lon="120.201851">
+        <ele>1.0</ele>
+        <time>2014-11-13T12:08:12Z</time>
+      </trkpt>
+      <trkpt lat="35.950136" lon="120.201765">
+        <ele>0.9</ele>
+        <time>2014-11-13T12:08:16Z</time>
+      </trkpt>
+      <trkpt lat="35.950116" lon="120.201681">
+        <ele>0.9</ele>
+        <time>2014-11-13T12:08:20Z</time>
+      </trkpt>
+      <trkpt lat="35.950103" lon="120.201604">
+        <ele>0.9</ele>
+        <time>2014-11-13T12:08:24Z</time>
+      </trkpt>
+      <trkpt lat="35.950083" lon="120.201533">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:08:28Z</time>
+      </trkpt>
+      <trkpt lat="35.950064" lon="120.201462">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:08:32Z</time>
+      </trkpt>
+      <trkpt lat="35.950045" lon="120.20139">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:08:36Z</time>
+      </trkpt>
+      <trkpt lat="35.950008" lon="120.201244">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:08:40Z</time>
+      </trkpt>
+      <trkpt lat="35.949993" lon="120.201165">
+        <ele>0.7</ele>
+        <time>2014-11-13T12:08:44Z</time>
+      </trkpt>
+      <trkpt lat="35.949974" lon="120.201088">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:08:48Z</time>
+      </trkpt>
+      <trkpt lat="35.94996" lon="120.201011">
+        <ele>0.9</ele>
+        <time>2014-11-13T12:08:52Z</time>
+      </trkpt>
+      <trkpt lat="35.94995" lon="120.200947">
+        <ele>1.0</ele>
+        <time>2014-11-13T12:08:56Z</time>
+      </trkpt>
+      <trkpt lat="35.949935" lon="120.200888">
+        <ele>1.1</ele>
+        <time>2014-11-13T12:09:00Z</time>
+      </trkpt>
+      <trkpt lat="35.949913" lon="120.200824">
+        <ele>1.1</ele>
+        <time>2014-11-13T12:09:04Z</time>
+      </trkpt>
+      <trkpt lat="35.94989" lon="120.200755">
+        <ele>1.2</ele>
+        <time>2014-11-13T12:09:08Z</time>
+      </trkpt>
+      <trkpt lat="35.94987" lon="120.200681">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:09:12Z</time>
+      </trkpt>
+      <trkpt lat="35.94985" lon="120.200604">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:09:16Z</time>
+      </trkpt>
+      <trkpt lat="35.949828" lon="120.200528">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:09:20Z</time>
+      </trkpt>
+      <trkpt lat="35.949807" lon="120.200457">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:09:24Z</time>
+      </trkpt>
+      <trkpt lat="35.94978" lon="120.200387">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:09:28Z</time>
+      </trkpt>
+      <trkpt lat="35.949743" lon="120.200313">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:09:32Z</time>
+      </trkpt>
+      <trkpt lat="35.949706" lon="120.200235">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:09:36Z</time>
+      </trkpt>
+      <trkpt lat="35.949685" lon="120.200165">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:09:40Z</time>
+      </trkpt>
+      <trkpt lat="35.94966" lon="120.200091">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:09:44Z</time>
+      </trkpt>
+      <trkpt lat="35.949633" lon="120.200015">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:09:48Z</time>
+      </trkpt>
+      <trkpt lat="35.949609" lon="120.19994">
+        <ele>1.2</ele>
+        <time>2014-11-13T12:09:52Z</time>
+      </trkpt>
+      <trkpt lat="35.949587" lon="120.199865">
+        <ele>1.1</ele>
+        <time>2014-11-13T12:09:56Z</time>
+      </trkpt>
+      <trkpt lat="35.949573" lon="120.199785">
+        <ele>1.0</ele>
+        <time>2014-11-13T12:10:00Z</time>
+      </trkpt>
+      <trkpt lat="35.949572" lon="120.199703">
+        <ele>1.0</ele>
+        <time>2014-11-13T12:10:04Z</time>
+      </trkpt>
+      <trkpt lat="35.949563" lon="120.19962">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:10:08Z</time>
+      </trkpt>
+      <trkpt lat="35.949546" lon="120.199541">
+        <ele>0.7</ele>
+        <time>2014-11-13T12:10:12Z</time>
+      </trkpt>
+      <trkpt lat="35.949528" lon="120.199465">
+        <ele>0.6</ele>
+        <time>2014-11-13T12:10:16Z</time>
+      </trkpt>
+      <trkpt lat="35.949517" lon="120.199398">
+        <ele>0.5</ele>
+        <time>2014-11-13T12:10:20Z</time>
+      </trkpt>
+      <trkpt lat="35.949503" lon="120.199327">
+        <ele>0.4</ele>
+        <time>2014-11-13T12:10:24Z</time>
+      </trkpt>
+      <trkpt lat="35.949483" lon="120.199247">
+        <ele>0.3</ele>
+        <time>2014-11-13T12:10:28Z</time>
+      </trkpt>
+      <trkpt lat="35.949459" lon="120.199165">
+        <ele>0.2</ele>
+        <time>2014-11-13T12:10:32Z</time>
+      </trkpt>
+      <trkpt lat="35.949435" lon="120.199085">
+        <ele>0.1</ele>
+        <time>2014-11-13T12:10:36Z</time>
+      </trkpt>
+      <trkpt lat="35.949413" lon="120.199011">
+        <ele>0.0</ele>
+        <time>2014-11-13T12:10:40Z</time>
+      </trkpt>
+      <trkpt lat="35.949395" lon="120.198937">
+        <ele>-0.1</ele>
+        <time>2014-11-13T12:10:44Z</time>
+      </trkpt>
+      <trkpt lat="35.949377" lon="120.198866">
+        <ele>-0.2</ele>
+        <time>2014-11-13T12:10:48Z</time>
+      </trkpt>
+      <trkpt lat="35.949359" lon="120.198794">
+        <ele>-0.3</ele>
+        <time>2014-11-13T12:10:52Z</time>
+      </trkpt>
+      <trkpt lat="35.949338" lon="120.198723">
+        <ele>-0.3</ele>
+        <time>2014-11-13T12:10:56Z</time>
+      </trkpt>
+      <trkpt lat="35.949317" lon="120.198652">
+        <ele>-0.4</ele>
+        <time>2014-11-13T12:11:00Z</time>
+      </trkpt>
+      <trkpt lat="35.949294" lon="120.198582">
+        <ele>-0.4</ele>
+        <time>2014-11-13T12:11:04Z</time>
+      </trkpt>
+      <trkpt lat="35.949275" lon="120.19851">
+        <ele>-0.5</ele>
+        <time>2014-11-13T12:11:08Z</time>
+      </trkpt>
+      <trkpt lat="35.949253" lon="120.198443">
+        <ele>-0.5</ele>
+        <time>2014-11-13T12:11:12Z</time>
+      </trkpt>
+      <trkpt lat="35.949229" lon="120.19838">
+        <ele>-0.6</ele>
+        <time>2014-11-13T12:11:16Z</time>
+      </trkpt>
+      <trkpt lat="35.949205" lon="120.198302">
+        <ele>-0.6</ele>
+        <time>2014-11-13T12:11:20Z</time>
+      </trkpt>
+      <trkpt lat="35.949188" lon="120.198236">
+        <ele>-0.6</ele>
+        <time>2014-11-13T12:11:24Z</time>
+      </trkpt>
+      <trkpt lat="35.949189" lon="120.198247">
+        <ele>-0.6</ele>
+        <time>2014-11-13T12:11:28Z</time>
+      </trkpt>
+      <trkpt lat="35.949197" lon="120.198315">
+        <ele>-0.6</ele>
+        <time>2014-11-13T12:11:32Z</time>
+      </trkpt>
+      <trkpt lat="35.949223" lon="120.198394">
+        <ele>-0.5</ele>
+        <time>2014-11-13T12:11:36Z</time>
+      </trkpt>
+      <trkpt lat="35.949245" lon="120.198468">
+        <ele>-0.5</ele>
+        <time>2014-11-13T12:11:40Z</time>
+      </trkpt>
+      <trkpt lat="35.94926" lon="120.198537">
+        <ele>-0.5</ele>
+        <time>2014-11-13T12:11:44Z</time>
+      </trkpt>
+      <trkpt lat="35.949277" lon="120.198603">
+        <ele>-0.4</ele>
+        <time>2014-11-13T12:11:48Z</time>
+      </trkpt>
+      <trkpt lat="35.949309" lon="120.19868">
+        <ele>-0.4</ele>
+        <time>2014-11-13T12:11:52Z</time>
+      </trkpt>
+      <trkpt lat="35.949329" lon="120.198754">
+        <ele>-0.3</ele>
+        <time>2014-11-13T12:11:56Z</time>
+      </trkpt>
+      <trkpt lat="35.949345" lon="120.198827">
+        <ele>-0.2</ele>
+        <time>2014-11-13T12:12:00Z</time>
+      </trkpt>
+      <trkpt lat="35.949358" lon="120.1989">
+        <ele>-0.2</ele>
+        <time>2014-11-13T12:12:04Z</time>
+      </trkpt>
+      <trkpt lat="35.949375" lon="120.198972">
+        <ele>-0.1</ele>
+        <time>2014-11-13T12:12:08Z</time>
+      </trkpt>
+      <trkpt lat="35.949388" lon="120.199046">
+        <ele>-0.0</ele>
+        <time>2014-11-13T12:12:12Z</time>
+      </trkpt>
+      <trkpt lat="35.949402" lon="120.199122">
+        <ele>0.1</ele>
+        <time>2014-11-13T12:12:16Z</time>
+      </trkpt>
+      <trkpt lat="35.949434" lon="120.199196">
+        <ele>0.2</ele>
+        <time>2014-11-13T12:12:20Z</time>
+      </trkpt>
+      <trkpt lat="35.949457" lon="120.199273">
+        <ele>0.3</ele>
+        <time>2014-11-13T12:12:24Z</time>
+      </trkpt>
+      <trkpt lat="35.949462" lon="120.199345">
+        <ele>0.4</ele>
+        <time>2014-11-13T12:12:28Z</time>
+      </trkpt>
+      <trkpt lat="35.949485" lon="120.199416">
+        <ele>0.4</ele>
+        <time>2014-11-13T12:12:32Z</time>
+      </trkpt>
+      <trkpt lat="35.949538" lon="120.199484">
+        <ele>0.6</ele>
+        <time>2014-11-13T12:12:36Z</time>
+      </trkpt>
+      <trkpt lat="35.949575" lon="120.19955">
+        <ele>0.7</ele>
+        <time>2014-11-13T12:12:40Z</time>
+      </trkpt>
+      <trkpt lat="35.949597" lon="120.199619">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:12:44Z</time>
+      </trkpt>
+      <trkpt lat="35.949615" lon="120.199687">
+        <ele>0.9</ele>
+        <time>2014-11-13T12:12:48Z</time>
+      </trkpt>
+      <trkpt lat="35.949628" lon="120.199754">
+        <ele>1.0</ele>
+        <time>2014-11-13T12:12:52Z</time>
+      </trkpt>
+      <trkpt lat="35.949639" lon="120.199821">
+        <ele>1.1</ele>
+        <time>2014-11-13T12:12:56Z</time>
+      </trkpt>
+      <trkpt lat="35.949651" lon="120.199895">
+        <ele>1.1</ele>
+        <time>2014-11-13T12:13:00Z</time>
+      </trkpt>
+      <trkpt lat="35.94967" lon="120.199971">
+        <ele>1.2</ele>
+        <time>2014-11-13T12:13:04Z</time>
+      </trkpt>
+      <trkpt lat="35.949691" lon="120.200043">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:13:08Z</time>
+      </trkpt>
+      <trkpt lat="35.949705" lon="120.200113">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:13:12Z</time>
+      </trkpt>
+      <trkpt lat="35.949711" lon="120.200174">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:13:16Z</time>
+      </trkpt>
+      <trkpt lat="35.949723" lon="120.20022">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:13:20Z</time>
+      </trkpt>
+      <trkpt lat="35.949741" lon="120.200278">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:13:24Z</time>
+      </trkpt>
+      <trkpt lat="35.949759" lon="120.200343">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:13:28Z</time>
+      </trkpt>
+      <trkpt lat="35.949773" lon="120.200417">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:13:32Z</time>
+      </trkpt>
+      <trkpt lat="35.949789" lon="120.200485">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:13:36Z</time>
+      </trkpt>
+      <trkpt lat="35.94981" lon="120.200543">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:13:40Z</time>
+      </trkpt>
+      <trkpt lat="35.949831" lon="120.200601">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:13:44Z</time>
+      </trkpt>
+      <trkpt lat="35.949841" lon="120.200661">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:13:48Z</time>
+      </trkpt>
+      <trkpt lat="35.949854" lon="120.200726">
+        <ele>1.2</ele>
+        <time>2014-11-13T12:13:52Z</time>
+      </trkpt>
+      <trkpt lat="35.949881" lon="120.200798">
+        <ele>1.1</ele>
+        <time>2014-11-13T12:13:56Z</time>
+      </trkpt>
+      <trkpt lat="35.949901" lon="120.200869">
+        <ele>1.1</ele>
+        <time>2014-11-13T12:14:00Z</time>
+      </trkpt>
+      <trkpt lat="35.949914" lon="120.200943">
+        <ele>1.0</ele>
+        <time>2014-11-13T12:14:04Z</time>
+      </trkpt>
+      <trkpt lat="35.949939" lon="120.201021">
+        <ele>0.9</ele>
+        <time>2014-11-13T12:14:08Z</time>
+      </trkpt>
+      <trkpt lat="35.949962" lon="120.201091">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:14:12Z</time>
+      </trkpt>
+      <trkpt lat="35.949976" lon="120.201164">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:14:16Z</time>
+      </trkpt>
+      <trkpt lat="35.94999" lon="120.201233">
+        <ele>0.7</ele>
+        <time>2014-11-13T12:14:20Z</time>
+      </trkpt>
+      <trkpt lat="35.950032" lon="120.201368">
+        <ele>0.6</ele>
+        <time>2014-11-13T12:14:28Z</time>
+      </trkpt>
+      <trkpt lat="35.950053" lon="120.201435">
+        <ele>0.6</ele>
+        <time>2014-11-13T12:14:32Z</time>
+      </trkpt>
+      <trkpt lat="35.950076" lon="120.201502">
+        <ele>0.6</ele>
+        <time>2014-11-13T12:14:36Z</time>
+      </trkpt>
+      <trkpt lat="35.950101" lon="120.201565">
+        <ele>0.7</ele>
+        <time>2014-11-13T12:14:40Z</time>
+      </trkpt>
+      <trkpt lat="35.950119" lon="120.201625">
+        <ele>0.7</ele>
+        <time>2014-11-13T12:14:44Z</time>
+      </trkpt>
+      <trkpt lat="35.95014" lon="120.201695">
+        <ele>0.7</ele>
+        <time>2014-11-13T12:14:48Z</time>
+      </trkpt>
+      <trkpt lat="35.950162" lon="120.201765">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:14:52Z</time>
+      </trkpt>
+      <trkpt lat="35.950178" lon="120.201835">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:14:56Z</time>
+      </trkpt>
+      <trkpt lat="35.950194" lon="120.201901">
+        <ele>0.9</ele>
+        <time>2014-11-13T12:15:00Z</time>
+      </trkpt>
+      <trkpt lat="35.950211" lon="120.201963">
+        <ele>0.9</ele>
+        <time>2014-11-13T12:15:04Z</time>
+      </trkpt>
+      <trkpt lat="35.950227" lon="120.202026">
+        <ele>1.0</ele>
+        <time>2014-11-13T12:15:08Z</time>
+      </trkpt>
+      <trkpt lat="35.950244" lon="120.202093">
+        <ele>1.0</ele>
+        <time>2014-11-13T12:15:12Z</time>
+      </trkpt>
+      <trkpt lat="35.950261" lon="120.202161">
+        <ele>1.2</ele>
+        <time>2014-11-13T12:15:16Z</time>
+      </trkpt>
+      <trkpt lat="35.950278" lon="120.202229">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:15:20Z</time>
+      </trkpt>
+      <trkpt lat="35.950295" lon="120.2023">
+        <ele>1.7</ele>
+        <time>2014-11-13T12:15:24Z</time>
+      </trkpt>
+      <trkpt lat="35.950313" lon="120.20237">
+        <ele>1.9</ele>
+        <time>2014-11-13T12:15:28Z</time>
+      </trkpt>
+      <trkpt lat="35.950331" lon="120.202437">
+        <ele>2.0</ele>
+        <time>2014-11-13T12:15:32Z</time>
+      </trkpt>
+      <trkpt lat="35.950342" lon="120.202502">
+        <ele>2.2</ele>
+        <time>2014-11-13T12:15:36Z</time>
+      </trkpt>
+      <trkpt lat="35.950362" lon="120.202567">
+        <ele>2.4</ele>
+        <time>2014-11-13T12:15:40Z</time>
+      </trkpt>
+      <trkpt lat="35.950378" lon="120.202636">
+        <ele>2.5</ele>
+        <time>2014-11-13T12:15:44Z</time>
+      </trkpt>
+      <trkpt lat="35.950391" lon="120.202702">
+        <ele>2.7</ele>
+        <time>2014-11-13T12:15:48Z</time>
+      </trkpt>
+      <trkpt lat="35.950403" lon="120.202766">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:15:52Z</time>
+      </trkpt>
+      <trkpt lat="35.950417" lon="120.202831">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:15:56Z</time>
+      </trkpt>
+      <trkpt lat="35.950434" lon="120.202897">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:16:00Z</time>
+      </trkpt>
+      <trkpt lat="35.950453" lon="120.202963">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:16:04Z</time>
+      </trkpt>
+      <trkpt lat="35.950479" lon="120.203035">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:16:12Z</time>
+      </trkpt>
+      <trkpt lat="35.950502" lon="120.203115">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:16:16Z</time>
+      </trkpt>
+      <trkpt lat="35.950513" lon="120.203174">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:16:20Z</time>
+      </trkpt>
+      <trkpt lat="35.950534" lon="120.203235">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:16:24Z</time>
+      </trkpt>
+      <trkpt lat="35.950558" lon="120.203298">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:16:28Z</time>
+      </trkpt>
+      <trkpt lat="35.950577" lon="120.203367">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:16:32Z</time>
+      </trkpt>
+      <trkpt lat="35.950594" lon="120.203434">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:16:36Z</time>
+      </trkpt>
+      <trkpt lat="35.950621" lon="120.203492">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:16:40Z</time>
+      </trkpt>
+      <trkpt lat="35.95065" lon="120.203541">
+        <ele>2.7</ele>
+        <time>2014-11-13T12:16:44Z</time>
+      </trkpt>
+      <trkpt lat="35.950672" lon="120.203602">
+        <ele>2.6</ele>
+        <time>2014-11-13T12:16:48Z</time>
+      </trkpt>
+      <trkpt lat="35.950687" lon="120.203663">
+        <ele>2.5</ele>
+        <time>2014-11-13T12:16:52Z</time>
+      </trkpt>
+      <trkpt lat="35.950682" lon="120.203725">
+        <ele>2.4</ele>
+        <time>2014-11-13T12:16:56Z</time>
+      </trkpt>
+      <trkpt lat="35.950681" lon="120.203779">
+        <ele>2.3</ele>
+        <time>2014-11-13T12:17:00Z</time>
+      </trkpt>
+      <trkpt lat="35.950688" lon="120.203847">
+        <ele>2.2</ele>
+        <time>2014-11-13T12:17:04Z</time>
+      </trkpt>
+      <trkpt lat="35.950699" lon="120.203916">
+        <ele>2.2</ele>
+        <time>2014-11-13T12:17:08Z</time>
+      </trkpt>
+      <trkpt lat="35.950713" lon="120.203986">
+        <ele>2.1</ele>
+        <time>2014-11-13T12:17:12Z</time>
+      </trkpt>
+      <trkpt lat="35.950726" lon="120.204059">
+        <ele>2.1</ele>
+        <time>2014-11-13T12:17:16Z</time>
+      </trkpt>
+      <trkpt lat="35.950744" lon="120.204134">
+        <ele>2.1</ele>
+        <time>2014-11-13T12:17:20Z</time>
+      </trkpt>
+      <trkpt lat="35.950754" lon="120.20421">
+        <ele>2.1</ele>
+        <time>2014-11-13T12:17:24Z</time>
+      </trkpt>
+      <trkpt lat="35.950766" lon="120.204287">
+        <ele>2.1</ele>
+        <time>2014-11-13T12:17:28Z</time>
+      </trkpt>
+      <trkpt lat="35.950782" lon="120.204362">
+        <ele>2.1</ele>
+        <time>2014-11-13T12:17:32Z</time>
+      </trkpt>
+      <trkpt lat="35.9508" lon="120.204433">
+        <ele>2.2</ele>
+        <time>2014-11-13T12:17:36Z</time>
+      </trkpt>
+      <trkpt lat="35.950818" lon="120.204505">
+        <ele>2.2</ele>
+        <time>2014-11-13T12:17:40Z</time>
+      </trkpt>
+      <trkpt lat="35.950829" lon="120.204575">
+        <ele>2.2</ele>
+        <time>2014-11-13T12:17:44Z</time>
+      </trkpt>
+      <trkpt lat="35.950846" lon="120.20464">
+        <ele>2.3</ele>
+        <time>2014-11-13T12:17:48Z</time>
+      </trkpt>
+      <trkpt lat="35.950864" lon="120.204702">
+        <ele>2.3</ele>
+        <time>2014-11-13T12:17:52Z</time>
+      </trkpt>
+      <trkpt lat="35.950876" lon="120.20476">
+        <ele>2.2</ele>
+        <time>2014-11-13T12:17:56Z</time>
+      </trkpt>
+      <trkpt lat="35.950894" lon="120.204827">
+        <ele>2.1</ele>
+        <time>2014-11-13T12:18:00Z</time>
+      </trkpt>
+      <trkpt lat="35.950913" lon="120.204896">
+        <ele>2.1</ele>
+        <time>2014-11-13T12:18:04Z</time>
+      </trkpt>
+      <trkpt lat="35.950929" lon="120.204965">
+        <ele>2.0</ele>
+        <time>2014-11-13T12:18:08Z</time>
+      </trkpt>
+      <trkpt lat="35.950947" lon="120.205033">
+        <ele>1.9</ele>
+        <time>2014-11-13T12:18:12Z</time>
+      </trkpt>
+      <trkpt lat="35.950966" lon="120.205109">
+        <ele>1.9</ele>
+        <time>2014-11-13T12:18:16Z</time>
+      </trkpt>
+      <trkpt lat="35.950985" lon="120.205183">
+        <ele>1.8</ele>
+        <time>2014-11-13T12:18:20Z</time>
+      </trkpt>
+      <trkpt lat="35.951" lon="120.205253">
+        <ele>1.7</ele>
+        <time>2014-11-13T12:18:24Z</time>
+      </trkpt>
+      <trkpt lat="35.951018" lon="120.205325">
+        <ele>1.6</ele>
+        <time>2014-11-13T12:18:28Z</time>
+      </trkpt>
+      <trkpt lat="35.951036" lon="120.205398">
+        <ele>1.5</ele>
+        <time>2014-11-13T12:18:32Z</time>
+      </trkpt>
+      <trkpt lat="35.951048" lon="120.20547">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:18:36Z</time>
+      </trkpt>
+      <trkpt lat="35.951059" lon="120.205536">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:18:40Z</time>
+      </trkpt>
+      <trkpt lat="35.951072" lon="120.2056">
+        <ele>1.1</ele>
+        <time>2014-11-13T12:18:44Z</time>
+      </trkpt>
+      <trkpt lat="35.951089" lon="120.20567">
+        <ele>1.0</ele>
+        <time>2014-11-13T12:18:48Z</time>
+      </trkpt>
+      <trkpt lat="35.951114" lon="120.205728">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:18:52Z</time>
+      </trkpt>
+      <trkpt lat="35.951168" lon="120.205735">
+        <ele>0.6</ele>
+        <time>2014-11-13T12:18:56Z</time>
+      </trkpt>
+      <trkpt lat="35.951213" lon="120.20575">
+        <ele>0.4</ele>
+        <time>2014-11-13T12:19:00Z</time>
+      </trkpt>
+      <trkpt lat="35.951235" lon="120.205803">
+        <ele>0.3</ele>
+        <time>2014-11-13T12:19:04Z</time>
+      </trkpt>
+      <trkpt lat="35.95125" lon="120.205865">
+        <ele>0.1</ele>
+        <time>2014-11-13T12:19:08Z</time>
+      </trkpt>
+      <trkpt lat="35.951271" lon="120.205931">
+        <ele>-0.1</ele>
+        <time>2014-11-13T12:19:12Z</time>
+      </trkpt>
+      <trkpt lat="35.95129" lon="120.205998">
+        <ele>-0.3</ele>
+        <time>2014-11-13T12:19:16Z</time>
+      </trkpt>
+      <trkpt lat="35.951316" lon="120.206061">
+        <ele>-0.4</ele>
+        <time>2014-11-13T12:19:20Z</time>
+      </trkpt>
+      <trkpt lat="35.951343" lon="120.206128">
+        <ele>-0.5</ele>
+        <time>2014-11-13T12:19:24Z</time>
+      </trkpt>
+      <trkpt lat="35.951374" lon="120.206194">
+        <ele>-0.6</ele>
+        <time>2014-11-13T12:19:28Z</time>
+      </trkpt>
+      <trkpt lat="35.951401" lon="120.206261">
+        <ele>-0.7</ele>
+        <time>2014-11-13T12:19:32Z</time>
+      </trkpt>
+      <trkpt lat="35.951428" lon="120.206326">
+        <ele>-0.8</ele>
+        <time>2014-11-13T12:19:36Z</time>
+      </trkpt>
+      <trkpt lat="35.951453" lon="120.206395">
+        <ele>-0.8</ele>
+        <time>2014-11-13T12:19:40Z</time>
+      </trkpt>
+      <trkpt lat="35.951469" lon="120.206461">
+        <ele>-0.9</ele>
+        <time>2014-11-13T12:19:44Z</time>
+      </trkpt>
+      <trkpt lat="35.95148" lon="120.206525">
+        <ele>-1.0</ele>
+        <time>2014-11-13T12:19:48Z</time>
+      </trkpt>
+      <trkpt lat="35.951485" lon="120.206597">
+        <ele>-1.0</ele>
+        <time>2014-11-13T12:19:52Z</time>
+      </trkpt>
+      <trkpt lat="35.951488" lon="120.206674">
+        <ele>-1.0</ele>
+        <time>2014-11-13T12:19:56Z</time>
+      </trkpt>
+      <trkpt lat="35.95149" lon="120.206746">
+        <ele>-1.0</ele>
+        <time>2014-11-13T12:20:00Z</time>
+      </trkpt>
+      <trkpt lat="35.951492" lon="120.206811">
+        <ele>-1.0</ele>
+        <time>2014-11-13T12:20:04Z</time>
+      </trkpt>
+      <trkpt lat="35.951511" lon="120.206864">
+        <ele>-1.0</ele>
+        <time>2014-11-13T12:20:08Z</time>
+      </trkpt>
+      <trkpt lat="35.951558" lon="120.20685">
+        <ele>-0.9</ele>
+        <time>2014-11-13T12:20:12Z</time>
+      </trkpt>
+      <trkpt lat="35.9516" lon="120.206852">
+        <ele>-0.8</ele>
+        <time>2014-11-13T12:20:16Z</time>
+      </trkpt>
+      <trkpt lat="35.951643" lon="120.206866">
+        <ele>-0.8</ele>
+        <time>2014-11-13T12:20:20Z</time>
+      </trkpt>
+      <trkpt lat="35.951694" lon="120.206859">
+        <ele>-0.7</ele>
+        <time>2014-11-13T12:20:24Z</time>
+      </trkpt>
+      <trkpt lat="35.951745" lon="120.206859">
+        <ele>-0.6</ele>
+        <time>2014-11-13T12:20:28Z</time>
+      </trkpt>
+      <trkpt lat="35.951817" lon="120.20686">
+        <ele>-0.6</ele>
+        <time>2014-11-13T12:20:32Z</time>
+      </trkpt>
+      <trkpt lat="35.951891" lon="120.206836">
+        <ele>-0.5</ele>
+        <time>2014-11-13T12:20:36Z</time>
+      </trkpt>
+      <trkpt lat="35.951959" lon="120.206802">
+        <ele>-0.4</ele>
+        <time>2014-11-13T12:20:40Z</time>
+      </trkpt>
+      <trkpt lat="35.952016" lon="120.206774">
+        <ele>-0.3</ele>
+        <time>2014-11-13T12:20:44Z</time>
+      </trkpt>
+      <trkpt lat="35.952068" lon="120.206751">
+        <ele>-0.2</ele>
+        <time>2014-11-13T12:20:48Z</time>
+      </trkpt>
+      <trkpt lat="35.952115" lon="120.206732">
+        <ele>-0.1</ele>
+        <time>2014-11-13T12:20:52Z</time>
+      </trkpt>
+      <trkpt lat="35.952174" lon="120.206722">
+        <ele>-0.0</ele>
+        <time>2014-11-13T12:20:56Z</time>
+      </trkpt>
+      <trkpt lat="35.952243" lon="120.206721">
+        <ele>0.0</ele>
+        <time>2014-11-13T12:21:00Z</time>
+      </trkpt>
+      <trkpt lat="35.952304" lon="120.206711">
+        <ele>0.1</ele>
+        <time>2014-11-13T12:21:04Z</time>
+      </trkpt>
+      <trkpt lat="35.952356" lon="120.206699">
+        <ele>0.2</ele>
+        <time>2014-11-13T12:21:08Z</time>
+      </trkpt>
+      <trkpt lat="35.952411" lon="120.2067">
+        <ele>0.2</ele>
+        <time>2014-11-13T12:21:12Z</time>
+      </trkpt>
+      <trkpt lat="35.952474" lon="120.206702">
+        <ele>0.3</ele>
+        <time>2014-11-13T12:21:16Z</time>
+      </trkpt>
+      <trkpt lat="35.952532" lon="120.206699">
+        <ele>0.3</ele>
+        <time>2014-11-13T12:21:20Z</time>
+      </trkpt>
+      <trkpt lat="35.95259" lon="120.206702">
+        <ele>0.4</ele>
+        <time>2014-11-13T12:21:24Z</time>
+      </trkpt>
+      <trkpt lat="35.952649" lon="120.206707">
+        <ele>0.4</ele>
+        <time>2014-11-13T12:21:28Z</time>
+      </trkpt>
+      <trkpt lat="35.952709" lon="120.206697">
+        <ele>0.5</ele>
+        <time>2014-11-13T12:21:32Z</time>
+      </trkpt>
+      <trkpt lat="35.952762" lon="120.206681">
+        <ele>0.5</ele>
+        <time>2014-11-13T12:21:36Z</time>
+      </trkpt>
+      <trkpt lat="35.952812" lon="120.206654">
+        <ele>0.6</ele>
+        <time>2014-11-13T12:21:40Z</time>
+      </trkpt>
+      <trkpt lat="35.952863" lon="120.206628">
+        <ele>0.6</ele>
+        <time>2014-11-13T12:21:44Z</time>
+      </trkpt>
+      <trkpt lat="35.952911" lon="120.20659">
+        <ele>0.7</ele>
+        <time>2014-11-13T12:21:48Z</time>
+      </trkpt>
+      <trkpt lat="35.952958" lon="120.206552">
+        <ele>0.8</ele>
+        <time>2014-11-13T12:21:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953009" lon="120.206521">
+        <ele>0.9</ele>
+        <time>2014-11-13T12:21:56Z</time>
+      </trkpt>
+      <trkpt lat="35.953061" lon="120.206488">
+        <ele>1.0</ele>
+        <time>2014-11-13T12:22:00Z</time>
+      </trkpt>
+      <trkpt lat="35.953114" lon="120.206448">
+        <ele>1.1</ele>
+        <time>2014-11-13T12:22:04Z</time>
+      </trkpt>
+      <trkpt lat="35.953159" lon="120.206399">
+        <ele>1.2</ele>
+        <time>2014-11-13T12:22:08Z</time>
+      </trkpt>
+      <trkpt lat="35.953198" lon="120.206349">
+        <ele>1.3</ele>
+        <time>2014-11-13T12:22:12Z</time>
+      </trkpt>
+      <trkpt lat="35.953241" lon="120.2063">
+        <ele>1.4</ele>
+        <time>2014-11-13T12:22:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953287" lon="120.206258">
+        <ele>1.5</ele>
+        <time>2014-11-13T12:22:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953337" lon="120.206217">
+        <ele>1.6</ele>
+        <time>2014-11-13T12:22:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953387" lon="120.206177">
+        <ele>1.7</ele>
+        <time>2014-11-13T12:22:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953435" lon="120.206137">
+        <ele>1.8</ele>
+        <time>2014-11-13T12:22:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953487" lon="120.206102">
+        <ele>2.0</ele>
+        <time>2014-11-13T12:22:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953539" lon="120.206076">
+        <ele>2.1</ele>
+        <time>2014-11-13T12:22:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953591" lon="120.206057">
+        <ele>2.2</ele>
+        <time>2014-11-13T12:22:44Z</time>
+      </trkpt>
+      <trkpt lat="35.95364" lon="120.20603">
+        <ele>2.3</ele>
+        <time>2014-11-13T12:22:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953662" lon="120.205978">
+        <ele>2.5</ele>
+        <time>2014-11-13T12:22:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953669" lon="120.205916">
+        <ele>2.6</ele>
+        <time>2014-11-13T12:22:56Z</time>
+      </trkpt>
+      <trkpt lat="35.95367" lon="120.205854">
+        <ele>2.8</ele>
+        <time>2014-11-13T12:23:00Z</time>
+      </trkpt>
+      <trkpt lat="35.953663" lon="120.205788">
+        <ele>3.0</ele>
+        <time>2014-11-13T12:23:04Z</time>
+      </trkpt>
+      <trkpt lat="35.953663" lon="120.205721">
+        <ele>3.2</ele>
+        <time>2014-11-13T12:23:08Z</time>
+      </trkpt>
+      <trkpt lat="35.953682" lon="120.205656">
+        <ele>3.4</ele>
+        <time>2014-11-13T12:23:12Z</time>
+      </trkpt>
+      <trkpt lat="35.953713" lon="120.205601">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:23:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953757" lon="120.205552">
+        <ele>3.8</ele>
+        <time>2014-11-13T12:23:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953841" lon="120.205512">
+        <ele>4.1</ele>
+        <time>2014-11-13T12:23:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953947" lon="120.205468">
+        <ele>4.3</ele>
+        <time>2014-11-13T12:23:28Z</time>
+      </trkpt>
+      <trkpt lat="35.954057" lon="120.205433">
+        <ele>4.5</ele>
+        <time>2014-11-13T12:23:32Z</time>
+      </trkpt>
+      <trkpt lat="35.954172" lon="120.205403">
+        <ele>4.6</ele>
+        <time>2014-11-13T12:23:36Z</time>
+      </trkpt>
+      <trkpt lat="35.954286" lon="120.205372">
+        <ele>4.8</ele>
+        <time>2014-11-13T12:23:40Z</time>
+      </trkpt>
+      <trkpt lat="35.954402" lon="120.205345">
+        <ele>4.9</ele>
+        <time>2014-11-13T12:23:44Z</time>
+      </trkpt>
+      <trkpt lat="35.95451" lon="120.20532">
+        <ele>5.0</ele>
+        <time>2014-11-13T12:23:48Z</time>
+      </trkpt>
+      <trkpt lat="35.954616" lon="120.205292">
+        <ele>5.1</ele>
+        <time>2014-11-13T12:23:52Z</time>
+      </trkpt>
+      <trkpt lat="35.954713" lon="120.205237">
+        <ele>5.2</ele>
+        <time>2014-11-13T12:23:56Z</time>
+      </trkpt>
+      <trkpt lat="35.95479" lon="120.20515">
+        <ele>5.3</ele>
+        <time>2014-11-13T12:24:00Z</time>
+      </trkpt>
+      <trkpt lat="35.954836" lon="120.205035">
+        <ele>5.4</ele>
+        <time>2014-11-13T12:24:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954854" lon="120.204914">
+        <ele>5.5</ele>
+        <time>2014-11-13T12:24:08Z</time>
+      </trkpt>
+      <trkpt lat="35.954839" lon="120.204805">
+        <ele>5.5</ele>
+        <time>2014-11-13T12:24:12Z</time>
+      </trkpt>
+      <trkpt lat="35.954792" lon="120.204715">
+        <ele>5.6</ele>
+        <time>2014-11-13T12:24:16Z</time>
+      </trkpt>
+      <trkpt lat="35.954719" lon="120.204639">
+        <ele>5.6</ele>
+        <time>2014-11-13T12:24:20Z</time>
+      </trkpt>
+      <trkpt lat="35.954625" lon="120.204586">
+        <ele>5.5</ele>
+        <time>2014-11-13T12:24:24Z</time>
+      </trkpt>
+      <trkpt lat="35.954521" lon="120.204564">
+        <ele>5.5</ele>
+        <time>2014-11-13T12:24:28Z</time>
+      </trkpt>
+      <trkpt lat="35.954416" lon="120.204571">
+        <ele>5.4</ele>
+        <time>2014-11-13T12:24:32Z</time>
+      </trkpt>
+      <trkpt lat="35.954318" lon="120.204598">
+        <ele>5.2</ele>
+        <time>2014-11-13T12:24:36Z</time>
+      </trkpt>
+      <trkpt lat="35.954226" lon="120.204631">
+        <ele>5.1</ele>
+        <time>2014-11-13T12:24:40Z</time>
+      </trkpt>
+      <trkpt lat="35.954134" lon="120.204665">
+        <ele>4.9</ele>
+        <time>2014-11-13T12:24:44Z</time>
+      </trkpt>
+      <trkpt lat="35.954046" lon="120.204691">
+        <ele>4.6</ele>
+        <time>2014-11-13T12:24:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953973" lon="120.204705">
+        <ele>4.4</ele>
+        <time>2014-11-13T12:24:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953893" lon="120.204729">
+        <ele>4.2</ele>
+        <time>2014-11-13T12:24:56Z</time>
+      </trkpt>
+      <trkpt lat="35.953805" lon="120.204753">
+        <ele>4.1</ele>
+        <time>2014-11-13T12:25:00Z</time>
+      </trkpt>
+      <trkpt lat="35.95371" lon="120.204784">
+        <ele>3.9</ele>
+        <time>2014-11-13T12:25:04Z</time>
+      </trkpt>
+      <trkpt lat="35.953617" lon="120.204822">
+        <ele>3.8</ele>
+        <time>2014-11-13T12:25:08Z</time>
+      </trkpt>
+      <trkpt lat="35.953536" lon="120.20488">
+        <ele>3.8</ele>
+        <time>2014-11-13T12:25:12Z</time>
+      </trkpt>
+      <trkpt lat="35.953472" lon="120.204961">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:25:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953434" lon="120.205052">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:25:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953417" lon="120.205151">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:25:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953424" lon="120.205249">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:25:28Z</time>
+      </trkpt>
+      <trkpt lat="35.95347" lon="120.205336">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:25:32Z</time>
+      </trkpt>
+      <trkpt lat="35.95354" lon="120.205413">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:25:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953622" lon="120.205475">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:25:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953723" lon="120.205512">
+        <ele>3.8</ele>
+        <time>2014-11-13T12:25:44Z</time>
+      </trkpt>
+      <trkpt lat="35.953819" lon="120.205508">
+        <ele>3.9</ele>
+        <time>2014-11-13T12:25:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953897" lon="120.205479">
+        <ele>4.0</ele>
+        <time>2014-11-13T12:25:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953973" lon="120.205447">
+        <ele>4.1</ele>
+        <time>2014-11-13T12:25:56Z</time>
+      </trkpt>
+      <trkpt lat="35.954051" lon="120.205414">
+        <ele>4.3</ele>
+        <time>2014-11-13T12:26:00Z</time>
+      </trkpt>
+      <trkpt lat="35.95414" lon="120.205388">
+        <ele>4.5</ele>
+        <time>2014-11-13T12:26:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954237" lon="120.205371">
+        <ele>4.7</ele>
+        <time>2014-11-13T12:26:08Z</time>
+      </trkpt>
+      <trkpt lat="35.954329" lon="120.205345">
+        <ele>4.9</ele>
+        <time>2014-11-13T12:26:12Z</time>
+      </trkpt>
+      <trkpt lat="35.954415" lon="120.205322">
+        <ele>5.1</ele>
+        <time>2014-11-13T12:26:16Z</time>
+      </trkpt>
+      <trkpt lat="35.954504" lon="120.205299">
+        <ele>5.2</ele>
+        <time>2014-11-13T12:26:20Z</time>
+      </trkpt>
+      <trkpt lat="35.954593" lon="120.205283">
+        <ele>5.3</ele>
+        <time>2014-11-13T12:26:24Z</time>
+      </trkpt>
+      <trkpt lat="35.954676" lon="120.205268">
+        <ele>5.4</ele>
+        <time>2014-11-13T12:26:28Z</time>
+      </trkpt>
+      <trkpt lat="35.95475" lon="120.205213">
+        <ele>5.5</ele>
+        <time>2014-11-13T12:26:32Z</time>
+      </trkpt>
+      <trkpt lat="35.95482" lon="120.205111">
+        <ele>5.6</ele>
+        <time>2014-11-13T12:26:36Z</time>
+      </trkpt>
+      <trkpt lat="35.954852" lon="120.205011">
+        <ele>5.6</ele>
+        <time>2014-11-13T12:26:40Z</time>
+      </trkpt>
+      <trkpt lat="35.954866" lon="120.20491">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:26:44Z</time>
+      </trkpt>
+      <trkpt lat="35.954846" lon="120.204806">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:26:48Z</time>
+      </trkpt>
+      <trkpt lat="35.954802" lon="120.204711">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:26:52Z</time>
+      </trkpt>
+      <trkpt lat="35.954745" lon="120.20463">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:26:56Z</time>
+      </trkpt>
+      <trkpt lat="35.954671" lon="120.204575">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:27:00Z</time>
+      </trkpt>
+      <trkpt lat="35.954585" lon="120.204547">
+        <ele>5.6</ele>
+        <time>2014-11-13T12:27:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954495" lon="120.204553">
+        <ele>5.5</ele>
+        <time>2014-11-13T12:27:08Z</time>
+      </trkpt>
+      <trkpt lat="35.954404" lon="120.20457">
+        <ele>5.4</ele>
+        <time>2014-11-13T12:27:12Z</time>
+      </trkpt>
+      <trkpt lat="35.95432" lon="120.20459">
+        <ele>5.3</ele>
+        <time>2014-11-13T12:27:16Z</time>
+      </trkpt>
+      <trkpt lat="35.954238" lon="120.204612">
+        <ele>5.1</ele>
+        <time>2014-11-13T12:27:20Z</time>
+      </trkpt>
+      <trkpt lat="35.954155" lon="120.204633">
+        <ele>4.9</ele>
+        <time>2014-11-13T12:27:24Z</time>
+      </trkpt>
+      <trkpt lat="35.954072" lon="120.204656">
+        <ele>4.7</ele>
+        <time>2014-11-13T12:27:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953986" lon="120.204675">
+        <ele>4.5</ele>
+        <time>2014-11-13T12:27:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953903" lon="120.204694">
+        <ele>4.3</ele>
+        <time>2014-11-13T12:27:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953818" lon="120.204711">
+        <ele>4.1</ele>
+        <time>2014-11-13T12:27:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953731" lon="120.204732">
+        <ele>4.0</ele>
+        <time>2014-11-13T12:27:44Z</time>
+      </trkpt>
+      <trkpt lat="35.953646" lon="120.204765">
+        <ele>3.9</ele>
+        <time>2014-11-13T12:27:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953571" lon="120.204818">
+        <ele>3.8</ele>
+        <time>2014-11-13T12:27:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953513" lon="120.204884">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:27:56Z</time>
+      </trkpt>
+      <trkpt lat="35.953465" lon="120.204961">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:28:00Z</time>
+      </trkpt>
+      <trkpt lat="35.953432" lon="120.205045">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:28:04Z</time>
+      </trkpt>
+      <trkpt lat="35.953419" lon="120.205144">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:28:08Z</time>
+      </trkpt>
+      <trkpt lat="35.953433" lon="120.205243">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:28:12Z</time>
+      </trkpt>
+      <trkpt lat="35.953476" lon="120.205335">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:28:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953533" lon="120.205414">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:28:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953604" lon="120.205478">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:28:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953688" lon="120.205517">
+        <ele>3.8</ele>
+        <time>2014-11-13T12:28:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953776" lon="120.205515">
+        <ele>3.9</ele>
+        <time>2014-11-13T12:28:32Z</time>
+      </trkpt>
+      <trkpt lat="35.95387" lon="120.20549">
+        <ele>4.0</ele>
+        <time>2014-11-13T12:28:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953967" lon="120.205465">
+        <ele>4.2</ele>
+        <time>2014-11-13T12:28:40Z</time>
+      </trkpt>
+      <trkpt lat="35.954062" lon="120.205431">
+        <ele>4.4</ele>
+        <time>2014-11-13T12:28:44Z</time>
+      </trkpt>
+      <trkpt lat="35.954159" lon="120.205407">
+        <ele>4.6</ele>
+        <time>2014-11-13T12:28:48Z</time>
+      </trkpt>
+      <trkpt lat="35.95425" lon="120.20538">
+        <ele>4.7</ele>
+        <time>2014-11-13T12:28:52Z</time>
+      </trkpt>
+      <trkpt lat="35.954346" lon="120.205354">
+        <ele>4.9</ele>
+        <time>2014-11-13T12:28:56Z</time>
+      </trkpt>
+      <trkpt lat="35.954442" lon="120.20535">
+        <ele>5.1</ele>
+        <time>2014-11-13T12:29:00Z</time>
+      </trkpt>
+      <trkpt lat="35.954559" lon="120.205323">
+        <ele>5.2</ele>
+        <time>2014-11-13T12:29:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954648" lon="120.205291">
+        <ele>5.4</ele>
+        <time>2014-11-13T12:29:08Z</time>
+      </trkpt>
+      <trkpt lat="35.95472" lon="120.205242">
+        <ele>5.5</ele>
+        <time>2014-11-13T12:29:12Z</time>
+      </trkpt>
+      <trkpt lat="35.954777" lon="120.205169">
+        <ele>5.5</ele>
+        <time>2014-11-13T12:29:16Z</time>
+      </trkpt>
+      <trkpt lat="35.954816" lon="120.205083">
+        <ele>5.6</ele>
+        <time>2014-11-13T12:29:20Z</time>
+      </trkpt>
+      <trkpt lat="35.954841" lon="120.204995">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:29:24Z</time>
+      </trkpt>
+      <trkpt lat="35.954846" lon="120.204897">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:29:28Z</time>
+      </trkpt>
+      <trkpt lat="35.95483" lon="120.204797">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:29:32Z</time>
+      </trkpt>
+      <trkpt lat="35.954792" lon="120.204709">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:29:36Z</time>
+      </trkpt>
+      <trkpt lat="35.954737" lon="120.204634">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:29:40Z</time>
+      </trkpt>
+      <trkpt lat="35.954674" lon="120.204575">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:29:44Z</time>
+      </trkpt>
+      <trkpt lat="35.9546" lon="120.204536">
+        <ele>5.6</ele>
+        <time>2014-11-13T12:29:48Z</time>
+      </trkpt>
+      <trkpt lat="35.954516" lon="120.20452">
+        <ele>5.5</ele>
+        <time>2014-11-13T12:29:52Z</time>
+      </trkpt>
+      <trkpt lat="35.954431" lon="120.20453">
+        <ele>5.4</ele>
+        <time>2014-11-13T12:29:56Z</time>
+      </trkpt>
+      <trkpt lat="35.954348" lon="120.204551">
+        <ele>5.3</ele>
+        <time>2014-11-13T12:30:00Z</time>
+      </trkpt>
+      <trkpt lat="35.954266" lon="120.204574">
+        <ele>5.1</ele>
+        <time>2014-11-13T12:30:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954183" lon="120.204598">
+        <ele>4.9</ele>
+        <time>2014-11-13T12:30:08Z</time>
+      </trkpt>
+      <trkpt lat="35.954096" lon="120.20462">
+        <ele>4.7</ele>
+        <time>2014-11-13T12:30:12Z</time>
+      </trkpt>
+      <trkpt lat="35.954013" lon="120.20464">
+        <ele>4.5</ele>
+        <time>2014-11-13T12:30:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953912" lon="120.204671">
+        <ele>4.3</ele>
+        <time>2014-11-13T12:30:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953828" lon="120.204697">
+        <ele>4.2</ele>
+        <time>2014-11-13T12:30:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953749" lon="120.204717">
+        <ele>4.0</ele>
+        <time>2014-11-13T12:30:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953669" lon="120.204739">
+        <ele>3.9</ele>
+        <time>2014-11-13T12:30:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953592" lon="120.204782">
+        <ele>3.8</ele>
+        <time>2014-11-13T12:30:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953526" lon="120.204842">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:30:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953476" lon="120.204911">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:30:44Z</time>
+      </trkpt>
+      <trkpt lat="35.953441" lon="120.204985">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:30:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953423" lon="120.205074">
+        <ele>3.5</ele>
+        <time>2014-11-13T12:30:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953422" lon="120.205168">
+        <ele>3.5</ele>
+        <time>2014-11-13T12:30:56Z</time>
+      </trkpt>
+      <trkpt lat="35.953444" lon="120.205257">
+        <ele>3.4</ele>
+        <time>2014-11-13T12:31:00Z</time>
+      </trkpt>
+      <trkpt lat="35.953483" lon="120.20534">
+        <ele>3.4</ele>
+        <time>2014-11-13T12:31:04Z</time>
+      </trkpt>
+      <trkpt lat="35.95353" lon="120.205414">
+        <ele>3.5</ele>
+        <time>2014-11-13T12:31:08Z</time>
+      </trkpt>
+      <trkpt lat="35.953589" lon="120.205469">
+        <ele>3.5</ele>
+        <time>2014-11-13T12:31:12Z</time>
+      </trkpt>
+      <trkpt lat="35.953661" lon="120.205506">
+        <ele>3.5</ele>
+        <time>2014-11-13T12:31:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953741" lon="120.205516">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:31:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953826" lon="120.205492">
+        <ele>3.8</ele>
+        <time>2014-11-13T12:31:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953908" lon="120.205465">
+        <ele>3.9</ele>
+        <time>2014-11-13T12:31:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953983" lon="120.205446">
+        <ele>4.1</ele>
+        <time>2014-11-13T12:31:36Z</time>
+      </trkpt>
+      <trkpt lat="35.954067" lon="120.205424">
+        <ele>4.3</ele>
+        <time>2014-11-13T12:31:40Z</time>
+      </trkpt>
+      <trkpt lat="35.954149" lon="120.205407">
+        <ele>4.5</ele>
+        <time>2014-11-13T12:31:44Z</time>
+      </trkpt>
+      <trkpt lat="35.954229" lon="120.205377">
+        <ele>4.7</ele>
+        <time>2014-11-13T12:31:48Z</time>
+      </trkpt>
+      <trkpt lat="35.954327" lon="120.205337">
+        <ele>4.9</ele>
+        <time>2014-11-13T12:31:52Z</time>
+      </trkpt>
+      <trkpt lat="35.954407" lon="120.205314">
+        <ele>5.1</ele>
+        <time>2014-11-13T12:31:56Z</time>
+      </trkpt>
+      <trkpt lat="35.954489" lon="120.2053">
+        <ele>5.3</ele>
+        <time>2014-11-13T12:32:00Z</time>
+      </trkpt>
+      <trkpt lat="35.954575" lon="120.205283">
+        <ele>5.4</ele>
+        <time>2014-11-13T12:32:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954659" lon="120.205253">
+        <ele>5.5</ele>
+        <time>2014-11-13T12:32:08Z</time>
+      </trkpt>
+      <trkpt lat="35.954731" lon="120.205204">
+        <ele>5.6</ele>
+        <time>2014-11-13T12:32:12Z</time>
+      </trkpt>
+      <trkpt lat="35.954788" lon="120.205135">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:32:16Z</time>
+      </trkpt>
+      <trkpt lat="35.954825" lon="120.205052">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:32:20Z</time>
+      </trkpt>
+      <trkpt lat="35.95485" lon="120.204965">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:32:24Z</time>
+      </trkpt>
+      <trkpt lat="35.954854" lon="120.204871">
+        <ele>5.8</ele>
+        <time>2014-11-13T12:32:28Z</time>
+      </trkpt>
+      <trkpt lat="35.954836" lon="120.204776">
+        <ele>5.8</ele>
+        <time>2014-11-13T12:32:32Z</time>
+      </trkpt>
+      <trkpt lat="35.954805" lon="120.204695">
+        <ele>5.8</ele>
+        <time>2014-11-13T12:32:36Z</time>
+      </trkpt>
+      <trkpt lat="35.954753" lon="120.204627">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:32:40Z</time>
+      </trkpt>
+      <trkpt lat="35.954688" lon="120.204568">
+        <ele>5.7</ele>
+        <time>2014-11-13T12:32:44Z</time>
+      </trkpt>
+      <trkpt lat="35.954606" lon="120.204533">
+        <ele>5.6</ele>
+        <time>2014-11-13T12:32:48Z</time>
+      </trkpt>
+      <trkpt lat="35.954523" lon="120.204524">
+        <ele>5.5</ele>
+        <time>2014-11-13T12:32:52Z</time>
+      </trkpt>
+      <trkpt lat="35.954438" lon="120.204536">
+        <ele>5.4</ele>
+        <time>2014-11-13T12:32:56Z</time>
+      </trkpt>
+      <trkpt lat="35.954353" lon="120.204562">
+        <ele>5.3</ele>
+        <time>2014-11-13T12:33:00Z</time>
+      </trkpt>
+      <trkpt lat="35.954269" lon="120.204588">
+        <ele>5.1</ele>
+        <time>2014-11-13T12:33:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954184" lon="120.204616">
+        <ele>4.9</ele>
+        <time>2014-11-13T12:33:08Z</time>
+      </trkpt>
+      <trkpt lat="35.954105" lon="120.204646">
+        <ele>4.7</ele>
+        <time>2014-11-13T12:33:12Z</time>
+      </trkpt>
+      <trkpt lat="35.954017" lon="120.204683">
+        <ele>4.5</ele>
+        <time>2014-11-13T12:33:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953924" lon="120.204715">
+        <ele>4.3</ele>
+        <time>2014-11-13T12:33:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953834" lon="120.20474">
+        <ele>4.1</ele>
+        <time>2014-11-13T12:33:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953751" lon="120.204756">
+        <ele>4.0</ele>
+        <time>2014-11-13T12:33:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953665" lon="120.204782">
+        <ele>3.9</ele>
+        <time>2014-11-13T12:33:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953585" lon="120.204823">
+        <ele>3.8</ele>
+        <time>2014-11-13T12:33:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953516" lon="120.20489">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:33:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953464" lon="120.204974">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:33:44Z</time>
+      </trkpt>
+      <trkpt lat="35.95343" lon="120.205064">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:33:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953423" lon="120.205162">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:33:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953441" lon="120.20526">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:33:56Z</time>
+      </trkpt>
+      <trkpt lat="35.953485" lon="120.205355">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:34:00Z</time>
+      </trkpt>
+      <trkpt lat="35.95355" lon="120.205435">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:34:04Z</time>
+      </trkpt>
+      <trkpt lat="35.953624" lon="120.205492">
+        <ele>3.8</ele>
+        <time>2014-11-13T12:34:08Z</time>
+      </trkpt>
+      <trkpt lat="35.95372" lon="120.205512">
+        <ele>3.9</ele>
+        <time>2014-11-13T12:34:12Z</time>
+      </trkpt>
+      <trkpt lat="35.953826" lon="120.205487">
+        <ele>4.1</ele>
+        <time>2014-11-13T12:34:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953922" lon="120.205448">
+        <ele>4.2</ele>
+        <time>2014-11-13T12:34:20Z</time>
+      </trkpt>
+      <trkpt lat="35.954027" lon="120.205417">
+        <ele>4.3</ele>
+        <time>2014-11-13T12:34:24Z</time>
+      </trkpt>
+      <trkpt lat="35.954133" lon="120.205399">
+        <ele>4.4</ele>
+        <time>2014-11-13T12:34:28Z</time>
+      </trkpt>
+      <trkpt lat="35.954229" lon="120.205375">
+        <ele>4.5</ele>
+        <time>2014-11-13T12:34:32Z</time>
+      </trkpt>
+      <trkpt lat="35.954335" lon="120.205343">
+        <ele>4.6</ele>
+        <time>2014-11-13T12:34:36Z</time>
+      </trkpt>
+      <trkpt lat="35.95447" lon="120.20531">
+        <ele>4.7</ele>
+        <time>2014-11-13T12:34:40Z</time>
+      </trkpt>
+      <trkpt lat="35.954619" lon="120.205262">
+        <ele>4.8</ele>
+        <time>2014-11-13T12:34:44Z</time>
+      </trkpt>
+      <trkpt lat="35.954732" lon="120.205184">
+        <ele>4.9</ele>
+        <time>2014-11-13T12:34:48Z</time>
+      </trkpt>
+      <trkpt lat="35.954815" lon="120.20505">
+        <ele>5.0</ele>
+        <time>2014-11-13T12:34:52Z</time>
+      </trkpt>
+      <trkpt lat="35.95484" lon="120.20487">
+        <ele>5.0</ele>
+        <time>2014-11-13T12:34:56Z</time>
+      </trkpt>
+      <trkpt lat="35.954801" lon="120.204694">
+        <ele>5.0</ele>
+        <time>2014-11-13T12:35:00Z</time>
+      </trkpt>
+      <trkpt lat="35.954695" lon="120.204569">
+        <ele>4.9</ele>
+        <time>2014-11-13T12:35:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954564" lon="120.204516">
+        <ele>4.8</ele>
+        <time>2014-11-13T12:35:08Z</time>
+      </trkpt>
+      <trkpt lat="35.954417" lon="120.204546">
+        <ele>4.7</ele>
+        <time>2014-11-13T12:35:12Z</time>
+      </trkpt>
+      <trkpt lat="35.954247" lon="120.204609">
+        <ele>4.7</ele>
+        <time>2014-11-13T12:35:16Z</time>
+      </trkpt>
+      <trkpt lat="35.954085" lon="120.204664">
+        <ele>4.6</ele>
+        <time>2014-11-13T12:35:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953929" lon="120.204718">
+        <ele>4.5</ele>
+        <time>2014-11-13T12:35:24Z</time>
+      </trkpt>
+      <trkpt lat="35.95378" lon="120.204763">
+        <ele>4.4</ele>
+        <time>2014-11-13T12:35:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953615" lon="120.204837">
+        <ele>4.3</ele>
+        <time>2014-11-13T12:35:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953489" lon="120.204937">
+        <ele>4.2</ele>
+        <time>2014-11-13T12:35:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953421" lon="120.205058">
+        <ele>4.0</ele>
+        <time>2014-11-13T12:35:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953411" lon="120.2052">
+        <ele>3.9</ele>
+        <time>2014-11-13T12:35:44Z</time>
+      </trkpt>
+      <trkpt lat="35.953459" lon="120.205333">
+        <ele>3.8</ele>
+        <time>2014-11-13T12:35:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953529" lon="120.205451">
+        <ele>3.7</ele>
+        <time>2014-11-13T12:35:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953634" lon="120.205523">
+        <ele>3.6</ele>
+        <time>2014-11-13T12:35:56Z</time>
+      </trkpt>
+      <trkpt lat="35.953771" lon="120.205534">
+        <ele>3.5</ele>
+        <time>2014-11-13T12:36:00Z</time>
+      </trkpt>
+      <trkpt lat="35.953909" lon="120.205496">
+        <ele>3.4</ele>
+        <time>2014-11-13T12:36:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954039" lon="120.20547">
+        <ele>3.3</ele>
+        <time>2014-11-13T12:36:08Z</time>
+      </trkpt>
+      <trkpt lat="35.954182" lon="120.205452">
+        <ele>3.2</ele>
+        <time>2014-11-13T12:36:12Z</time>
+      </trkpt>
+      <extensions>
+        <breaktype>2</breaktype>
+      </extensions>
+    </trkseg>
+  </trk>
+  <extensions>
+    <ssrlog>
+      <logseg>
+        <logpt time="2014-11-13T11:57:05Z">
+          <spd>3.6</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:09Z">
+          <spd>3.6</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:13Z">
+          <spd>3.1</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:20Z">
+          <spd>3.6</spd>
+          <str>52.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:21Z">
+          <spd>5.8</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:24Z">
+          <spd>7.2</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:28Z">
+          <spd>8.1</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:32Z">
+          <spd>7.7</spd>
+          <str>75.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:36Z">
+          <spd>6.8</spd>
+          <str>76.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:40Z">
+          <spd>6.8</spd>
+          <str>77.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:44Z">
+          <spd>6.3</spd>
+          <str>78.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:48Z">
+          <spd>6.8</spd>
+          <str>78.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:52Z">
+          <spd>7.2</spd>
+          <str>79.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:57:56Z">
+          <spd>7.7</spd>
+          <str>80.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:00Z">
+          <spd>8.1</spd>
+          <str>81.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:04Z">
+          <spd>7.7</spd>
+          <str>81.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:08Z">
+          <spd>7.2</spd>
+          <str>81.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:12Z">
+          <spd>6.8</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:16Z">
+          <spd>6.3</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:20Z">
+          <spd>6.3</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:24Z">
+          <spd>6.3</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:28Z">
+          <spd>6.3</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:32Z">
+          <spd>6.3</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:36Z">
+          <spd>6.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:40Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:44Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:48Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:52Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:58:56Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:00Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:04Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:08Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:12Z">
+          <spd>6.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:16Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:20Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:24Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:28Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:32Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:36Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:40Z">
+          <spd>7.2</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:44Z">
+          <spd>7.2</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:48Z">
+          <spd>7.2</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:52Z">
+          <spd>7.2</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T11:59:56Z">
+          <spd>7.2</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:00Z">
+          <spd>7.2</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:04Z">
+          <spd>7.2</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:08Z">
+          <spd>7.2</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:12Z">
+          <spd>7.2</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:16Z">
+          <spd>7.2</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:20Z">
+          <spd>7.7</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:24Z">
+          <spd>7.7</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:28Z">
+          <spd>7.7</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:32Z">
+          <spd>7.7</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:36Z">
+          <spd>7.7</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:40Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:44Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:48Z">
+          <spd>7.2</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:52Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:00:56Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:00Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:04Z">
+          <spd>6.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:08Z">
+          <spd>6.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:12Z">
+          <spd>6.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:16Z">
+          <spd>6.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:20Z">
+          <spd>6.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:24Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:28Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:32Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:36Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:40Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:44Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:48Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:52Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:01:56Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:00Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:04Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:08Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:12Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:16Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:20Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:24Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:28Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:32Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:36Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:40Z">
+          <spd>7.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:44Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:48Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:52Z">
+          <spd>7.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:02:56Z">
+          <spd>7.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:00Z">
+          <spd>7.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:04Z">
+          <spd>7.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:08Z">
+          <spd>7.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:12Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:16Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:20Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:24Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:28Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:32Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:36Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:40Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:44Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:48Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:52Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:03:56Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:00Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:04Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:08Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:12Z">
+          <spd>6.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:16Z">
+          <spd>6.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:20Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:24Z">
+          <spd>6.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:28Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:32Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:36Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:40Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:44Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:48Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:52Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:04:56Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:00Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:04Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:08Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:12Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:16Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:20Z">
+          <spd>6.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:24Z">
+          <spd>6.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:28Z">
+          <spd>6.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:32Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:36Z">
+          <spd>7.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:40Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:44Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:48Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:52Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:05:56Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:00Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:04Z">
+          <spd>7.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:08Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:12Z">
+          <spd>7.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:16Z">
+          <spd>8.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:20Z">
+          <spd>8.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:24Z">
+          <spd>8.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:28Z">
+          <spd>8.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:32Z">
+          <spd>8.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:36Z">
+          <spd>8.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:40Z">
+          <spd>8.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:44Z">
+          <spd>7.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:48Z">
+          <spd>7.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:52Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:06:56Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:00Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:04Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:08Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:12Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:16Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:20Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:24Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:28Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:32Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:36Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:40Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:44Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:48Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:52Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:07:56Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:00Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:04Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:08Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:12Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:16Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:20Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:24Z">
+          <spd>7.2</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:28Z">
+          <spd>6.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:32Z">
+          <spd>6.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:36Z">
+          <spd>6.8</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:40Z">
+          <spd>6.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:44Z">
+          <spd>6.3</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:48Z">
+          <spd>6.8</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:52Z">
+          <spd>6.3</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:08:56Z">
+          <spd>6.3</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:00Z">
+          <spd>5.8</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:04Z">
+          <spd>5.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:08Z">
+          <spd>5.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:12Z">
+          <spd>5.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:16Z">
+          <spd>5.8</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:20Z">
+          <spd>6.3</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:24Z">
+          <spd>6.3</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:28Z">
+          <spd>6.3</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:32Z">
+          <spd>6.3</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:36Z">
+          <spd>6.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:40Z">
+          <spd>6.3</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:44Z">
+          <spd>6.3</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:48Z">
+          <spd>6.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:52Z">
+          <spd>6.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:09:56Z">
+          <spd>6.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:00Z">
+          <spd>6.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:04Z">
+          <spd>6.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:08Z">
+          <spd>6.8</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:12Z">
+          <spd>6.8</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:16Z">
+          <spd>6.8</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:20Z">
+          <spd>6.3</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:24Z">
+          <spd>6.3</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:28Z">
+          <spd>6.3</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:32Z">
+          <spd>6.3</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:36Z">
+          <spd>6.8</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:40Z">
+          <spd>6.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:44Z">
+          <spd>6.3</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:48Z">
+          <spd>6.3</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:52Z">
+          <spd>6.3</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:10:56Z">
+          <spd>6.3</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:00Z">
+          <spd>6.3</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:04Z">
+          <spd>6.3</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:08Z">
+          <spd>6.3</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:12Z">
+          <spd>6.3</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:16Z">
+          <spd>5.8</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:20Z">
+          <spd>6.3</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:24Z">
+          <spd>6.3</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:28Z">
+          <spd>5.4</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:32Z">
+          <spd>5.4</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:36Z">
+          <spd>5.8</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:40Z">
+          <spd>5.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:44Z">
+          <spd>5.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:48Z">
+          <spd>5.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:52Z">
+          <spd>5.8</spd>
+          <str>82.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:11:56Z">
+          <spd>5.8</spd>
+          <str>81.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:00Z">
+          <spd>5.8</spd>
+          <str>80.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:04Z">
+          <spd>5.8</spd>
+          <str>79.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:08Z">
+          <spd>5.8</spd>
+          <str>78.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:12Z">
+          <spd>5.8</spd>
+          <str>77.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:16Z">
+          <spd>5.8</spd>
+          <str>75.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:20Z">
+          <spd>6.3</spd>
+          <str>74.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:24Z">
+          <spd>6.3</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:28Z">
+          <spd>6.3</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:32Z">
+          <spd>6.3</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:36Z">
+          <spd>6.3</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:40Z">
+          <spd>6.8</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:44Z">
+          <spd>6.3</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:48Z">
+          <spd>6.3</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:52Z">
+          <spd>6.3</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:12:56Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:00Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:04Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:08Z">
+          <spd>6.3</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:12Z">
+          <spd>6.3</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:16Z">
+          <spd>5.8</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:20Z">
+          <spd>5.8</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:24Z">
+          <spd>5.4</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:28Z">
+          <spd>5.4</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:32Z">
+          <spd>5.4</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:36Z">
+          <spd>5.8</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:40Z">
+          <spd>5.4</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:44Z">
+          <spd>5.4</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:48Z">
+          <spd>5.4</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:52Z">
+          <spd>5.4</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:13:56Z">
+          <spd>5.4</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:00Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:04Z">
+          <spd>5.8</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:08Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:12Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:16Z">
+          <spd>5.8</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:20Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:24Z">
+          <spd>5.8</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:28Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:32Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:36Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:40Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:44Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:48Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:52Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:14:56Z">
+          <spd>5.8</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:00Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:04Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:08Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:12Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:16Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:20Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:24Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:28Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:32Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:36Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:40Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:44Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:48Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:52Z">
+          <spd>5.8</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:15:56Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:00Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:04Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:08Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:12Z">
+          <spd>5.8</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:16Z">
+          <spd>5.8</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:20Z">
+          <spd>5.4</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:24Z">
+          <spd>5.4</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:28Z">
+          <spd>5.4</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:32Z">
+          <spd>5.8</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:36Z">
+          <spd>5.8</spd>
+          <str>74.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:40Z">
+          <spd>5.4</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:44Z">
+          <spd>5.4</spd>
+          <str>75.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:48Z">
+          <spd>5.4</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:52Z">
+          <spd>5.4</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:16:56Z">
+          <spd>5.4</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:00Z">
+          <spd>5.4</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:04Z">
+          <spd>5.4</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:08Z">
+          <spd>5.4</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:12Z">
+          <spd>5.4</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:16Z">
+          <spd>5.4</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:20Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:24Z">
+          <spd>5.8</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:28Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:32Z">
+          <spd>5.8</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:36Z">
+          <spd>5.8</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:40Z">
+          <spd>5.8</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:44Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:48Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:52Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:17:56Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:00Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:04Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:08Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:12Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:16Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:20Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:24Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:28Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:32Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:36Z">
+          <spd>5.8</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:40Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:44Z">
+          <spd>5.8</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:48Z">
+          <spd>5.8</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:52Z">
+          <spd>5.8</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:18:56Z">
+          <spd>5.8</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:00Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:04Z">
+          <spd>5.4</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:08Z">
+          <spd>5.4</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:12Z">
+          <spd>5.8</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:16Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:20Z">
+          <spd>5.8</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:24Z">
+          <spd>5.8</spd>
+          <str>64.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:28Z">
+          <spd>5.8</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:32Z">
+          <spd>5.8</spd>
+          <str>64.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:36Z">
+          <spd>5.8</spd>
+          <str>63.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:40Z">
+          <spd>5.8</spd>
+          <str>64.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:44Z">
+          <spd>5.8</spd>
+          <str>64.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:48Z">
+          <spd>5.8</spd>
+          <str>64.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:52Z">
+          <spd>5.8</spd>
+          <str>64.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:19:56Z">
+          <spd>5.8</spd>
+          <str>63.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:00Z">
+          <spd>5.8</spd>
+          <str>63.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:04Z">
+          <spd>5.8</spd>
+          <str>63.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:08Z">
+          <spd>5.8</spd>
+          <str>64.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:12Z">
+          <spd>5.8</spd>
+          <str>64.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:16Z">
+          <spd>5.8</spd>
+          <str>64.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:20Z">
+          <spd>5.4</spd>
+          <str>64.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:24Z">
+          <spd>5.4</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:28Z">
+          <spd>5.4</spd>
+          <str>63.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:32Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:36Z">
+          <spd>5.8</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:40Z">
+          <spd>6.3</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:44Z">
+          <spd>5.8</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:48Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:52Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:20:56Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:00Z">
+          <spd>5.8</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:04Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:08Z">
+          <spd>5.8</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:12Z">
+          <spd>5.8</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:16Z">
+          <spd>5.8</spd>
+          <str>74.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:20Z">
+          <spd>5.8</spd>
+          <str>74.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:24Z">
+          <spd>5.8</spd>
+          <str>76.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:28Z">
+          <spd>5.8</spd>
+          <str>75.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:32Z">
+          <spd>5.8</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:36Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:40Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:44Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:48Z">
+          <spd>5.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:52Z">
+          <spd>5.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:21:56Z">
+          <spd>5.8</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:00Z">
+          <spd>5.8</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:04Z">
+          <spd>5.8</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:08Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:12Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:16Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:20Z">
+          <spd>5.8</spd>
+          <str>64.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:24Z">
+          <spd>5.8</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:28Z">
+          <spd>5.8</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:32Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:36Z">
+          <spd>5.8</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:40Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:44Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:48Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:52Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:22:56Z">
+          <spd>5.8</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:00Z">
+          <spd>5.4</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:04Z">
+          <spd>5.4</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:08Z">
+          <spd>5.4</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:12Z">
+          <spd>5.4</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:16Z">
+          <spd>5.4</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:20Z">
+          <spd>5.8</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:24Z">
+          <spd>8.6</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:28Z">
+          <spd>9.9</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:32Z">
+          <spd>10.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:36Z">
+          <spd>11.3</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:40Z">
+          <spd>11.7</spd>
+          <str>74.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:44Z">
+          <spd>11.7</spd>
+          <str>76.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:48Z">
+          <spd>11.3</spd>
+          <str>78.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:52Z">
+          <spd>11.3</spd>
+          <str>80.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:23:56Z">
+          <spd>10.8</spd>
+          <str>82.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:00Z">
+          <spd>10.8</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:04Z">
+          <spd>10.8</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:08Z">
+          <spd>10.3</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:12Z">
+          <spd>9.9</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:16Z">
+          <spd>9.9</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:20Z">
+          <spd>9.9</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:24Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:28Z">
+          <spd>10.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:32Z">
+          <spd>10.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:36Z">
+          <spd>9.9</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:40Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:44Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:48Z">
+          <spd>9.4</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:52Z">
+          <spd>9.0</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:24:56Z">
+          <spd>9.0</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:00Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:04Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:08Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:12Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:16Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:20Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:24Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:28Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:32Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:36Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:40Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:44Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:48Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:52Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:25:56Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:00Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:04Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:08Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:12Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:16Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:20Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:24Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:28Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:32Z">
+          <spd>9.0</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:36Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:40Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:44Z">
+          <spd>8.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:48Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:52Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:26:56Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:00Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:04Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:08Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:12Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:16Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:20Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:24Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:28Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:32Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:36Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:40Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:44Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:48Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:52Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:27:56Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:00Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:04Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:08Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:12Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:16Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:20Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:24Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:28Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:32Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:36Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:40Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:44Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:48Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:52Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:28:56Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:00Z">
+          <spd>9.4</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:04Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:08Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:12Z">
+          <spd>9.0</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:16Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:20Z">
+          <spd>8.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:24Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:28Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:32Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:36Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:40Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:44Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:48Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:52Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:29:56Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:00Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:04Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:08Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:12Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:16Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:20Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:24Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:28Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:32Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:36Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:40Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:44Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:48Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:52Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:30:56Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:00Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:04Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:08Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:12Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:16Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:20Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:24Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:28Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:32Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:36Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:40Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:44Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:48Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:52Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:31:56Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:00Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:04Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:08Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:12Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:16Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:20Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:24Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:28Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:32Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:36Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:40Z">
+          <spd>7.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:44Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:48Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:52Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:32:56Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:00Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:04Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:08Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:12Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:16Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:20Z">
+          <spd>9.0</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:24Z">
+          <spd>9.0</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:28Z">
+          <spd>9.0</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:32Z">
+          <spd>9.0</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:36Z">
+          <spd>9.0</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:40Z">
+          <spd>9.0</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:44Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:48Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:52Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:33:56Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:00Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:04Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:08Z">
+          <spd>8.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:12Z">
+          <spd>9.0</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:16Z">
+          <spd>9.0</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:20Z">
+          <spd>9.4</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:24Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:28Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:32Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:36Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:40Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:44Z">
+          <spd>13.9</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:48Z">
+          <spd>13.5</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:52Z">
+          <spd>13.9</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:34:56Z">
+          <spd>14.4</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:00Z">
+          <spd>14.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:04Z">
+          <spd>14.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:08Z">
+          <spd>14.4</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:12Z">
+          <spd>14.8</spd>
+          <str>91.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:16Z">
+          <spd>15.3</spd>
+          <str>91.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:20Z">
+          <spd>15.8</spd>
+          <str>91.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:24Z">
+          <spd>15.8</spd>
+          <str>91.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:28Z">
+          <spd>15.8</spd>
+          <str>91.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:32Z">
+          <spd>16.2</spd>
+          <str>91.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:36Z">
+          <spd>15.3</spd>
+          <str>91.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:40Z">
+          <spd>14.4</spd>
+          <str>91.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:44Z">
+          <spd>13.9</spd>
+          <str>91.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:48Z">
+          <spd>13.9</spd>
+          <str>91.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:52Z">
+          <spd>13.5</spd>
+          <str>91.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:35:56Z">
+          <spd>13.5</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:36:00Z">
+          <spd>13.9</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:36:04Z">
+          <spd>13.9</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:36:08Z">
+          <spd>13.9</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2014-11-13T12:36:12Z">
+          <spd>13.9</spd>
+          <str>90.0</str>
+        </logpt>
+        <breaktype>2</breaktype>
+      </logseg>
+    </ssrlog>
+    <laps>
+      <lap start="2014-11-13T11:57:05Z" type="1" end="2014-11-13T12:05:43Z" order="1" isautolap="0">
+        <distance>1035</distance>
+        <calorie>45</calorie>
+        <speed max="7.65" avg="7.2"/>
+        <cad max="90" avg="85"/>
+        <rtime>517</rtime>
+        <acttype subtype="0">1</acttype>
+      </lap>
+      <lap start="2014-11-13T12:05:43Z" type="1" end="2014-11-13T12:36:20Z" order="2" isautolap="0">
+        <distance>3860</distance>
+        <calorie>177</calorie>
+        <speed max="12.6" avg="7.65"/>
+        <cad max="91" avg="79"/>
+        <rtime>1828</rtime>
+        <acttype subtype="0">1</acttype>
+      </lap>
+      <summary start="2014-11-13T11:57:05Z" type="0" end="2014-11-13T12:36:20Z" isautolap="0">
+        <distance>4895</distance>
+        <calorie>222</calorie>
+        <speed max="12.6" avg="7.65"/>
+        <cad max="91" avg="81"/>
+        <rtime>2345</rtime>
+        <acttype subtype="0">1</acttype>
+      </summary>
+    </laps>
+  </extensions>
+</gpx>

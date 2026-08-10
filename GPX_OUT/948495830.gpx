@@ -1,0 +1,3341 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.brytonsport.com/BDX/2/2" version="2.2.0.3" creator="bryton">
+  <metadata>
+    <name>2015/06/06 05:41</name>
+    <time>2015-06-05T21:41:54Z</time>
+    <bounds minlat="35.952574" maxlon="120.226911" minlon="120.20742" maxlat="35.96557"/>
+    <extensions>
+      <user>
+        <bike>0<wheel>204.00</wheel></bike>
+        <weight>68</weight>
+        <gender>1</gender>
+        <height>172</height>
+        <age>28</age>
+        <mhr>190</mhr>
+        <lthr>172</lthr>
+        <map>0</map>
+        <ftp>0</ftp>
+        <zonedef type="1">
+          <zone high="74" id="1" low="0"/>
+          <zone high="80" id="2" low="74"/>
+          <zone high="85" id="3" low="80"/>
+          <zone high="91" id="4" low="85"/>
+          <zone high="93" id="5" low="91"/>
+          <zone high="95" id="6" low="93"/>
+          <zone high="0" id="7" low="95"/>
+        </zonedef>
+        <zonedef type="2">
+          <zone high="80" id="1" low="0"/>
+          <zone high="87" id="2" low="80"/>
+          <zone high="91" id="3" low="87"/>
+          <zone high="100" id="4" low="91"/>
+          <zone high="101" id="5" low="100"/>
+          <zone high="105" id="6" low="101"/>
+          <zone high="0" id="7" low="105"/>
+        </zonedef>
+        <zonedef type="3">
+          <zone high="40" id="1" low="17"/>
+          <zone high="55" id="2" low="40"/>
+          <zone high="65" id="3" low="55"/>
+          <zone high="75" id="4" low="65"/>
+          <zone high="85" id="5" low="75"/>
+          <zone high="110" id="6" low="85"/>
+          <zone high="65535" id="7" low="110"/>
+        </zonedef>
+        <zonedef type="4">
+          <zone high="55" id="1" low="23"/>
+          <zone high="75" id="2" low="55"/>
+          <zone high="90" id="3" low="75"/>
+          <zone high="105" id="4" low="90"/>
+          <zone high="120" id="5" low="105"/>
+          <zone high="150" id="6" low="120"/>
+          <zone high="65535" id="7" low="150"/>
+        </zonedef>
+      </user>
+      <sys version="1.0.0.R041 BB2.8.0.14">Cardio60<apps><app version="148" name="bc"/></apps></sys>
+      <sharetype>2</sharetype>
+      <acttype subtype="0">1</acttype>
+      <trvTime>27</trvTime>
+      <trvDist>5116</trvDist>
+      <stime>1433540514</stime>
+      <etime>1433542143</etime>
+    </extensions>
+  </metadata>
+  <rte>
+    <number>2</number>
+    <rtept lat="35.957076" lon="120.209906">
+      <type>1</type>
+    </rtept>
+    <rtept lat="35.956723" lon="120.20832">
+      <type>2</type>
+    </rtept>
+  </rte>
+  <trk>
+    <trkseg>
+      <trkpt lat="35.957076" lon="120.209906">
+        <ele>13.0</ele>
+        <time>2015-06-05T21:42:08Z</time>
+      </trkpt>
+      <trkpt lat="35.957183" lon="120.209794">
+        <ele>13.0</ele>
+        <time>2015-06-05T21:42:12Z</time>
+      </trkpt>
+      <trkpt lat="35.957275" lon="120.209751">
+        <ele>13.0</ele>
+        <time>2015-06-05T21:42:20Z</time>
+      </trkpt>
+      <trkpt lat="35.95737" lon="120.209702">
+        <ele>13.0</ele>
+        <time>2015-06-05T21:42:24Z</time>
+      </trkpt>
+      <trkpt lat="35.957451" lon="120.20967">
+        <ele>13.1</ele>
+        <time>2015-06-05T21:42:28Z</time>
+      </trkpt>
+      <trkpt lat="35.957578" lon="120.209641">
+        <ele>13.1</ele>
+        <time>2015-06-05T21:42:32Z</time>
+      </trkpt>
+      <trkpt lat="35.957718" lon="120.209768">
+        <ele>13.2</ele>
+        <time>2015-06-05T21:42:36Z</time>
+      </trkpt>
+      <trkpt lat="35.957824" lon="120.209945">
+        <ele>13.3</ele>
+        <time>2015-06-05T21:42:40Z</time>
+      </trkpt>
+      <trkpt lat="35.957902" lon="120.210146">
+        <ele>13.5</ele>
+        <time>2015-06-05T21:42:44Z</time>
+      </trkpt>
+      <trkpt lat="35.95796" lon="120.210342">
+        <ele>13.7</ele>
+        <time>2015-06-05T21:42:48Z</time>
+      </trkpt>
+      <trkpt lat="35.957998" lon="120.21051">
+        <ele>13.9</ele>
+        <time>2015-06-05T21:42:52Z</time>
+      </trkpt>
+      <trkpt lat="35.958048" lon="120.2106">
+        <ele>14.2</ele>
+        <time>2015-06-05T21:42:56Z</time>
+      </trkpt>
+      <trkpt lat="35.958088" lon="120.210633">
+        <ele>14.6</ele>
+        <time>2015-06-05T21:43:00Z</time>
+      </trkpt>
+      <trkpt lat="35.958105" lon="120.210614">
+        <ele>14.9</ele>
+        <time>2015-06-05T21:43:04Z</time>
+      </trkpt>
+      <trkpt lat="35.958137" lon="120.21057">
+        <ele>15.3</ele>
+        <time>2015-06-05T21:43:08Z</time>
+      </trkpt>
+      <trkpt lat="35.958199" lon="120.210523">
+        <ele>15.7</ele>
+        <time>2015-06-05T21:43:12Z</time>
+      </trkpt>
+      <trkpt lat="35.958271" lon="120.210466">
+        <ele>16.0</ele>
+        <time>2015-06-05T21:43:16Z</time>
+      </trkpt>
+      <trkpt lat="35.958324" lon="120.21041">
+        <ele>16.5</ele>
+        <time>2015-06-05T21:43:20Z</time>
+      </trkpt>
+      <trkpt lat="35.958438" lon="120.210415">
+        <ele>16.9</ele>
+        <time>2015-06-05T21:43:24Z</time>
+      </trkpt>
+      <trkpt lat="35.958561" lon="120.210434">
+        <ele>17.4</ele>
+        <time>2015-06-05T21:43:28Z</time>
+      </trkpt>
+      <trkpt lat="35.958676" lon="120.210469">
+        <ele>17.9</ele>
+        <time>2015-06-05T21:43:32Z</time>
+      </trkpt>
+      <trkpt lat="35.958791" lon="120.21048">
+        <ele>18.4</ele>
+        <time>2015-06-05T21:43:36Z</time>
+      </trkpt>
+      <trkpt lat="35.958939" lon="120.210427">
+        <ele>18.9</ele>
+        <time>2015-06-05T21:43:40Z</time>
+      </trkpt>
+      <trkpt lat="35.959096" lon="120.210329">
+        <ele>19.4</ele>
+        <time>2015-06-05T21:43:44Z</time>
+      </trkpt>
+      <trkpt lat="35.959202" lon="120.21024">
+        <ele>19.9</ele>
+        <time>2015-06-05T21:43:48Z</time>
+      </trkpt>
+      <trkpt lat="35.959319" lon="120.210177">
+        <ele>20.4</ele>
+        <time>2015-06-05T21:43:52Z</time>
+      </trkpt>
+      <trkpt lat="35.959445" lon="120.210138">
+        <ele>20.8</ele>
+        <time>2015-06-05T21:43:56Z</time>
+      </trkpt>
+      <trkpt lat="35.959562" lon="120.210112">
+        <ele>21.2</ele>
+        <time>2015-06-05T21:44:00Z</time>
+      </trkpt>
+      <trkpt lat="35.959658" lon="120.21008">
+        <ele>21.5</ele>
+        <time>2015-06-05T21:44:04Z</time>
+      </trkpt>
+      <trkpt lat="35.959766" lon="120.210058">
+        <ele>21.7</ele>
+        <time>2015-06-05T21:44:08Z</time>
+      </trkpt>
+      <trkpt lat="35.959862" lon="120.210011">
+        <ele>21.9</ele>
+        <time>2015-06-05T21:44:12Z</time>
+      </trkpt>
+      <trkpt lat="35.95997" lon="120.209961">
+        <ele>22.1</ele>
+        <time>2015-06-05T21:44:16Z</time>
+      </trkpt>
+      <trkpt lat="35.960047" lon="120.209904">
+        <ele>22.2</ele>
+        <time>2015-06-05T21:44:20Z</time>
+      </trkpt>
+      <trkpt lat="35.960159" lon="120.209989">
+        <ele>22.2</ele>
+        <time>2015-06-05T21:44:24Z</time>
+      </trkpt>
+      <trkpt lat="35.960298" lon="120.210158">
+        <ele>22.2</ele>
+        <time>2015-06-05T21:44:28Z</time>
+      </trkpt>
+      <trkpt lat="35.960412" lon="120.210328">
+        <ele>22.1</ele>
+        <time>2015-06-05T21:44:32Z</time>
+      </trkpt>
+      <trkpt lat="35.960477" lon="120.210491">
+        <ele>22.0</ele>
+        <time>2015-06-05T21:44:36Z</time>
+      </trkpt>
+      <trkpt lat="35.960545" lon="120.210647">
+        <ele>21.8</ele>
+        <time>2015-06-05T21:44:40Z</time>
+      </trkpt>
+      <trkpt lat="35.960582" lon="120.210793">
+        <ele>21.6</ele>
+        <time>2015-06-05T21:44:44Z</time>
+      </trkpt>
+      <trkpt lat="35.960644" lon="120.210937">
+        <ele>21.4</ele>
+        <time>2015-06-05T21:44:48Z</time>
+      </trkpt>
+      <trkpt lat="35.960711" lon="120.21108">
+        <ele>21.2</ele>
+        <time>2015-06-05T21:44:52Z</time>
+      </trkpt>
+      <trkpt lat="35.960783" lon="120.211226">
+        <ele>21.0</ele>
+        <time>2015-06-05T21:44:56Z</time>
+      </trkpt>
+      <trkpt lat="35.960872" lon="120.211385">
+        <ele>20.7</ele>
+        <time>2015-06-05T21:45:00Z</time>
+      </trkpt>
+      <trkpt lat="35.960976" lon="120.211544">
+        <ele>20.4</ele>
+        <time>2015-06-05T21:45:04Z</time>
+      </trkpt>
+      <trkpt lat="35.961058" lon="120.2117">
+        <ele>20.1</ele>
+        <time>2015-06-05T21:45:08Z</time>
+      </trkpt>
+      <trkpt lat="35.961002" lon="120.211841">
+        <ele>19.8</ele>
+        <time>2015-06-05T21:45:12Z</time>
+      </trkpt>
+      <trkpt lat="35.960935" lon="120.211963">
+        <ele>19.5</ele>
+        <time>2015-06-05T21:45:16Z</time>
+      </trkpt>
+      <trkpt lat="35.960962" lon="120.2121">
+        <ele>19.3</ele>
+        <time>2015-06-05T21:45:20Z</time>
+      </trkpt>
+      <trkpt lat="35.960976" lon="120.212235">
+        <ele>19.0</ele>
+        <time>2015-06-05T21:45:24Z</time>
+      </trkpt>
+      <trkpt lat="35.960972" lon="120.21235">
+        <ele>18.7</ele>
+        <time>2015-06-05T21:45:28Z</time>
+      </trkpt>
+      <trkpt lat="35.960973" lon="120.212482">
+        <ele>18.5</ele>
+        <time>2015-06-05T21:45:32Z</time>
+      </trkpt>
+      <trkpt lat="35.960964" lon="120.21262">
+        <ele>18.3</ele>
+        <time>2015-06-05T21:45:36Z</time>
+      </trkpt>
+      <trkpt lat="35.960981" lon="120.212739">
+        <ele>18.1</ele>
+        <time>2015-06-05T21:45:40Z</time>
+      </trkpt>
+      <trkpt lat="35.961008" lon="120.212869">
+        <ele>18.0</ele>
+        <time>2015-06-05T21:45:44Z</time>
+      </trkpt>
+      <trkpt lat="35.961045" lon="120.213002">
+        <ele>17.9</ele>
+        <time>2015-06-05T21:45:48Z</time>
+      </trkpt>
+      <trkpt lat="35.961082" lon="120.213142">
+        <ele>17.8</ele>
+        <time>2015-06-05T21:45:52Z</time>
+      </trkpt>
+      <trkpt lat="35.961137" lon="120.213271">
+        <ele>17.7</ele>
+        <time>2015-06-05T21:45:56Z</time>
+      </trkpt>
+      <trkpt lat="35.961189" lon="120.213399">
+        <ele>17.7</ele>
+        <time>2015-06-05T21:46:00Z</time>
+      </trkpt>
+      <trkpt lat="35.961263" lon="120.213531">
+        <ele>17.8</ele>
+        <time>2015-06-05T21:46:04Z</time>
+      </trkpt>
+      <trkpt lat="35.96133" lon="120.213658">
+        <ele>17.8</ele>
+        <time>2015-06-05T21:46:08Z</time>
+      </trkpt>
+      <trkpt lat="35.961349" lon="120.213783">
+        <ele>17.9</ele>
+        <time>2015-06-05T21:46:12Z</time>
+      </trkpt>
+      <trkpt lat="35.961343" lon="120.213912">
+        <ele>18.0</ele>
+        <time>2015-06-05T21:46:16Z</time>
+      </trkpt>
+      <trkpt lat="35.961378" lon="120.214059">
+        <ele>18.0</ele>
+        <time>2015-06-05T21:46:20Z</time>
+      </trkpt>
+      <trkpt lat="35.961374" lon="120.214194">
+        <ele>18.2</ele>
+        <time>2015-06-05T21:46:24Z</time>
+      </trkpt>
+      <trkpt lat="35.961356" lon="120.214314">
+        <ele>18.3</ele>
+        <time>2015-06-05T21:46:28Z</time>
+      </trkpt>
+      <trkpt lat="35.961348" lon="120.214433">
+        <ele>18.4</ele>
+        <time>2015-06-05T21:46:32Z</time>
+      </trkpt>
+      <trkpt lat="35.961356" lon="120.214563">
+        <ele>18.6</ele>
+        <time>2015-06-05T21:46:36Z</time>
+      </trkpt>
+      <trkpt lat="35.961379" lon="120.214719">
+        <ele>18.8</ele>
+        <time>2015-06-05T21:46:40Z</time>
+      </trkpt>
+      <trkpt lat="35.961405" lon="120.214863">
+        <ele>19.0</ele>
+        <time>2015-06-05T21:46:44Z</time>
+      </trkpt>
+      <trkpt lat="35.961427" lon="120.215004">
+        <ele>19.2</ele>
+        <time>2015-06-05T21:46:48Z</time>
+      </trkpt>
+      <trkpt lat="35.96147" lon="120.215146">
+        <ele>19.3</ele>
+        <time>2015-06-05T21:46:52Z</time>
+      </trkpt>
+      <trkpt lat="35.961522" lon="120.215277">
+        <ele>19.5</ele>
+        <time>2015-06-05T21:46:56Z</time>
+      </trkpt>
+      <trkpt lat="35.961546" lon="120.215409">
+        <ele>19.6</ele>
+        <time>2015-06-05T21:47:00Z</time>
+      </trkpt>
+      <trkpt lat="35.961573" lon="120.215529">
+        <ele>19.7</ele>
+        <time>2015-06-05T21:47:04Z</time>
+      </trkpt>
+      <trkpt lat="35.961616" lon="120.215665">
+        <ele>19.8</ele>
+        <time>2015-06-05T21:47:08Z</time>
+      </trkpt>
+      <trkpt lat="35.961658" lon="120.215811">
+        <ele>19.8</ele>
+        <time>2015-06-05T21:47:12Z</time>
+      </trkpt>
+      <trkpt lat="35.961687" lon="120.215965">
+        <ele>19.8</ele>
+        <time>2015-06-05T21:47:16Z</time>
+      </trkpt>
+      <trkpt lat="35.961729" lon="120.216109">
+        <ele>19.8</ele>
+        <time>2015-06-05T21:47:20Z</time>
+      </trkpt>
+      <trkpt lat="35.9618" lon="120.216258">
+        <ele>19.8</ele>
+        <time>2015-06-05T21:47:24Z</time>
+      </trkpt>
+      <trkpt lat="35.96185" lon="120.216428">
+        <ele>19.8</ele>
+        <time>2015-06-05T21:47:28Z</time>
+      </trkpt>
+      <trkpt lat="35.961895" lon="120.216561">
+        <ele>19.7</ele>
+        <time>2015-06-05T21:47:32Z</time>
+      </trkpt>
+      <trkpt lat="35.961933" lon="120.216689">
+        <ele>19.6</ele>
+        <time>2015-06-05T21:47:36Z</time>
+      </trkpt>
+      <trkpt lat="35.961962" lon="120.216822">
+        <ele>19.5</ele>
+        <time>2015-06-05T21:47:40Z</time>
+      </trkpt>
+      <trkpt lat="35.961996" lon="120.216967">
+        <ele>19.4</ele>
+        <time>2015-06-05T21:47:44Z</time>
+      </trkpt>
+      <trkpt lat="35.962058" lon="120.217092">
+        <ele>19.3</ele>
+        <time>2015-06-05T21:47:48Z</time>
+      </trkpt>
+      <trkpt lat="35.962127" lon="120.217215">
+        <ele>19.1</ele>
+        <time>2015-06-05T21:47:52Z</time>
+      </trkpt>
+      <trkpt lat="35.962195" lon="120.217333">
+        <ele>18.9</ele>
+        <time>2015-06-05T21:47:56Z</time>
+      </trkpt>
+      <trkpt lat="35.962252" lon="120.217446">
+        <ele>18.8</ele>
+        <time>2015-06-05T21:48:00Z</time>
+      </trkpt>
+      <trkpt lat="35.962323" lon="120.217574">
+        <ele>18.6</ele>
+        <time>2015-06-05T21:48:04Z</time>
+      </trkpt>
+      <trkpt lat="35.962362" lon="120.217718">
+        <ele>18.4</ele>
+        <time>2015-06-05T21:48:08Z</time>
+      </trkpt>
+      <trkpt lat="35.962402" lon="120.217864">
+        <ele>18.3</ele>
+        <time>2015-06-05T21:48:12Z</time>
+      </trkpt>
+      <trkpt lat="35.962462" lon="120.218006">
+        <ele>18.2</ele>
+        <time>2015-06-05T21:48:16Z</time>
+      </trkpt>
+      <trkpt lat="35.962512" lon="120.218133">
+        <ele>18.2</ele>
+        <time>2015-06-05T21:48:20Z</time>
+      </trkpt>
+      <trkpt lat="35.962584" lon="120.218246">
+        <ele>18.2</ele>
+        <time>2015-06-05T21:48:24Z</time>
+      </trkpt>
+      <trkpt lat="35.962642" lon="120.218371">
+        <ele>18.2</ele>
+        <time>2015-06-05T21:48:28Z</time>
+      </trkpt>
+      <trkpt lat="35.962723" lon="120.2185">
+        <ele>18.2</ele>
+        <time>2015-06-05T21:48:32Z</time>
+      </trkpt>
+      <trkpt lat="35.962819" lon="120.218649">
+        <ele>18.2</ele>
+        <time>2015-06-05T21:48:36Z</time>
+      </trkpt>
+      <trkpt lat="35.962907" lon="120.218806">
+        <ele>18.3</ele>
+        <time>2015-06-05T21:48:40Z</time>
+      </trkpt>
+      <trkpt lat="35.962969" lon="120.218965">
+        <ele>18.3</ele>
+        <time>2015-06-05T21:48:44Z</time>
+      </trkpt>
+      <trkpt lat="35.963051" lon="120.219114">
+        <ele>18.3</ele>
+        <time>2015-06-05T21:48:48Z</time>
+      </trkpt>
+      <trkpt lat="35.963107" lon="120.219255">
+        <ele>18.3</ele>
+        <time>2015-06-05T21:48:52Z</time>
+      </trkpt>
+      <trkpt lat="35.963138" lon="120.219393">
+        <ele>18.3</ele>
+        <time>2015-06-05T21:48:56Z</time>
+      </trkpt>
+      <trkpt lat="35.963218" lon="120.219532">
+        <ele>18.4</ele>
+        <time>2015-06-05T21:49:00Z</time>
+      </trkpt>
+      <trkpt lat="35.96332" lon="120.219676">
+        <ele>18.4</ele>
+        <time>2015-06-05T21:49:04Z</time>
+      </trkpt>
+      <trkpt lat="35.963388" lon="120.219784">
+        <ele>18.4</ele>
+        <time>2015-06-05T21:49:08Z</time>
+      </trkpt>
+      <trkpt lat="35.963431" lon="120.219901">
+        <ele>18.4</ele>
+        <time>2015-06-05T21:49:12Z</time>
+      </trkpt>
+      <trkpt lat="35.963458" lon="120.220024">
+        <ele>18.4</ele>
+        <time>2015-06-05T21:49:16Z</time>
+      </trkpt>
+      <trkpt lat="35.963464" lon="120.220132">
+        <ele>18.4</ele>
+        <time>2015-06-05T21:49:20Z</time>
+      </trkpt>
+      <trkpt lat="35.963527" lon="120.220243">
+        <ele>18.4</ele>
+        <time>2015-06-05T21:49:24Z</time>
+      </trkpt>
+      <trkpt lat="35.963607" lon="120.220353">
+        <ele>18.3</ele>
+        <time>2015-06-05T21:49:28Z</time>
+      </trkpt>
+      <trkpt lat="35.963692" lon="120.220497">
+        <ele>18.2</ele>
+        <time>2015-06-05T21:49:32Z</time>
+      </trkpt>
+      <trkpt lat="35.963746" lon="120.220635">
+        <ele>17.9</ele>
+        <time>2015-06-05T21:49:36Z</time>
+      </trkpt>
+      <trkpt lat="35.963822" lon="120.220762">
+        <ele>17.5</ele>
+        <time>2015-06-05T21:49:40Z</time>
+      </trkpt>
+      <trkpt lat="35.963912" lon="120.220894">
+        <ele>17.1</ele>
+        <time>2015-06-05T21:49:44Z</time>
+      </trkpt>
+      <trkpt lat="35.964005" lon="120.22104">
+        <ele>16.6</ele>
+        <time>2015-06-05T21:49:48Z</time>
+      </trkpt>
+      <trkpt lat="35.96406" lon="120.221162">
+        <ele>16.0</ele>
+        <time>2015-06-05T21:49:52Z</time>
+      </trkpt>
+      <trkpt lat="35.964142" lon="120.22129">
+        <ele>15.4</ele>
+        <time>2015-06-05T21:49:56Z</time>
+      </trkpt>
+      <trkpt lat="35.964308" lon="120.221425">
+        <ele>14.9</ele>
+        <time>2015-06-05T21:50:00Z</time>
+      </trkpt>
+      <trkpt lat="35.964473" lon="120.221547">
+        <ele>14.2</ele>
+        <time>2015-06-05T21:50:04Z</time>
+      </trkpt>
+      <trkpt lat="35.964685" lon="120.221694">
+        <ele>13.6</ele>
+        <time>2015-06-05T21:50:08Z</time>
+      </trkpt>
+      <trkpt lat="35.964882" lon="120.221833">
+        <ele>12.9</ele>
+        <time>2015-06-05T21:50:12Z</time>
+      </trkpt>
+      <trkpt lat="35.965011" lon="120.221966">
+        <ele>12.3</ele>
+        <time>2015-06-05T21:50:16Z</time>
+      </trkpt>
+      <trkpt lat="35.965139" lon="120.222147">
+        <ele>11.6</ele>
+        <time>2015-06-05T21:50:20Z</time>
+      </trkpt>
+      <trkpt lat="35.96526" lon="120.222335">
+        <ele>10.9</ele>
+        <time>2015-06-05T21:50:24Z</time>
+      </trkpt>
+      <trkpt lat="35.965337" lon="120.222479">
+        <ele>10.3</ele>
+        <time>2015-06-05T21:50:28Z</time>
+      </trkpt>
+      <trkpt lat="35.965403" lon="120.222617">
+        <ele>9.6</ele>
+        <time>2015-06-05T21:50:32Z</time>
+      </trkpt>
+      <trkpt lat="35.96545" lon="120.222752">
+        <ele>8.9</ele>
+        <time>2015-06-05T21:50:36Z</time>
+      </trkpt>
+      <trkpt lat="35.965472" lon="120.222898">
+        <ele>8.3</ele>
+        <time>2015-06-05T21:50:40Z</time>
+      </trkpt>
+      <trkpt lat="35.965538" lon="120.223082">
+        <ele>7.6</ele>
+        <time>2015-06-05T21:50:44Z</time>
+      </trkpt>
+      <trkpt lat="35.96557" lon="120.223243">
+        <ele>6.9</ele>
+        <time>2015-06-05T21:50:48Z</time>
+      </trkpt>
+      <trkpt lat="35.965563" lon="120.223387">
+        <ele>6.3</ele>
+        <time>2015-06-05T21:50:52Z</time>
+      </trkpt>
+      <trkpt lat="35.96553" lon="120.22352">
+        <ele>5.8</ele>
+        <time>2015-06-05T21:50:56Z</time>
+      </trkpt>
+      <trkpt lat="35.965393" lon="120.223658">
+        <ele>5.3</ele>
+        <time>2015-06-05T21:51:00Z</time>
+      </trkpt>
+      <trkpt lat="35.965291" lon="120.22379">
+        <ele>5.0</ele>
+        <time>2015-06-05T21:51:04Z</time>
+      </trkpt>
+      <trkpt lat="35.965233" lon="120.223891">
+        <ele>4.7</ele>
+        <time>2015-06-05T21:51:08Z</time>
+      </trkpt>
+      <trkpt lat="35.965124" lon="120.223991">
+        <ele>4.5</ele>
+        <time>2015-06-05T21:51:12Z</time>
+      </trkpt>
+      <trkpt lat="35.965003" lon="120.224104">
+        <ele>4.3</ele>
+        <time>2015-06-05T21:51:16Z</time>
+      </trkpt>
+      <trkpt lat="35.964897" lon="120.224202">
+        <ele>4.1</ele>
+        <time>2015-06-05T21:51:20Z</time>
+      </trkpt>
+      <trkpt lat="35.964789" lon="120.224281">
+        <ele>4.0</ele>
+        <time>2015-06-05T21:51:24Z</time>
+      </trkpt>
+      <trkpt lat="35.964686" lon="120.224326">
+        <ele>3.9</ele>
+        <time>2015-06-05T21:51:28Z</time>
+      </trkpt>
+      <trkpt lat="35.964585" lon="120.224354">
+        <ele>3.8</ele>
+        <time>2015-06-05T21:51:32Z</time>
+      </trkpt>
+      <trkpt lat="35.964478" lon="120.224395">
+        <ele>3.8</ele>
+        <time>2015-06-05T21:51:36Z</time>
+      </trkpt>
+      <trkpt lat="35.96437" lon="120.22443">
+        <ele>3.8</ele>
+        <time>2015-06-05T21:51:40Z</time>
+      </trkpt>
+      <trkpt lat="35.964254" lon="120.224479">
+        <ele>3.8</ele>
+        <time>2015-06-05T21:51:44Z</time>
+      </trkpt>
+      <trkpt lat="35.964145" lon="120.22452">
+        <ele>3.8</ele>
+        <time>2015-06-05T21:51:48Z</time>
+      </trkpt>
+      <trkpt lat="35.964043" lon="120.224564">
+        <ele>3.9</ele>
+        <time>2015-06-05T21:51:52Z</time>
+      </trkpt>
+      <trkpt lat="35.963938" lon="120.224609">
+        <ele>3.9</ele>
+        <time>2015-06-05T21:51:56Z</time>
+      </trkpt>
+      <trkpt lat="35.963839" lon="120.224654">
+        <ele>4.0</ele>
+        <time>2015-06-05T21:52:00Z</time>
+      </trkpt>
+      <trkpt lat="35.963745" lon="120.2247">
+        <ele>4.1</ele>
+        <time>2015-06-05T21:52:04Z</time>
+      </trkpt>
+      <trkpt lat="35.963644" lon="120.22475">
+        <ele>4.2</ele>
+        <time>2015-06-05T21:52:08Z</time>
+      </trkpt>
+      <trkpt lat="35.963543" lon="120.224798">
+        <ele>4.3</ele>
+        <time>2015-06-05T21:52:12Z</time>
+      </trkpt>
+      <trkpt lat="35.963445" lon="120.22486">
+        <ele>4.5</ele>
+        <time>2015-06-05T21:52:16Z</time>
+      </trkpt>
+      <trkpt lat="35.963347" lon="120.224909">
+        <ele>4.7</ele>
+        <time>2015-06-05T21:52:20Z</time>
+      </trkpt>
+      <trkpt lat="35.963243" lon="120.224951">
+        <ele>4.9</ele>
+        <time>2015-06-05T21:52:24Z</time>
+      </trkpt>
+      <trkpt lat="35.96314" lon="120.224992">
+        <ele>5.1</ele>
+        <time>2015-06-05T21:52:28Z</time>
+      </trkpt>
+      <trkpt lat="35.96303" lon="120.225028">
+        <ele>5.3</ele>
+        <time>2015-06-05T21:52:32Z</time>
+      </trkpt>
+      <trkpt lat="35.96292" lon="120.225064">
+        <ele>5.5</ele>
+        <time>2015-06-05T21:52:36Z</time>
+      </trkpt>
+      <trkpt lat="35.962818" lon="120.225105">
+        <ele>5.7</ele>
+        <time>2015-06-05T21:52:40Z</time>
+      </trkpt>
+      <trkpt lat="35.962724" lon="120.225133">
+        <ele>6.0</ele>
+        <time>2015-06-05T21:52:44Z</time>
+      </trkpt>
+      <trkpt lat="35.96263" lon="120.225171">
+        <ele>6.2</ele>
+        <time>2015-06-05T21:52:48Z</time>
+      </trkpt>
+      <trkpt lat="35.962536" lon="120.225208">
+        <ele>6.4</ele>
+        <time>2015-06-05T21:52:52Z</time>
+      </trkpt>
+      <trkpt lat="35.96244" lon="120.225256">
+        <ele>6.7</ele>
+        <time>2015-06-05T21:52:56Z</time>
+      </trkpt>
+      <trkpt lat="35.962335" lon="120.225305">
+        <ele>6.9</ele>
+        <time>2015-06-05T21:53:00Z</time>
+      </trkpt>
+      <trkpt lat="35.962235" lon="120.225351">
+        <ele>7.2</ele>
+        <time>2015-06-05T21:53:04Z</time>
+      </trkpt>
+      <trkpt lat="35.962134" lon="120.225396">
+        <ele>7.5</ele>
+        <time>2015-06-05T21:53:08Z</time>
+      </trkpt>
+      <trkpt lat="35.962039" lon="120.225445">
+        <ele>7.8</ele>
+        <time>2015-06-05T21:53:12Z</time>
+      </trkpt>
+      <trkpt lat="35.961949" lon="120.225479">
+        <ele>8.2</ele>
+        <time>2015-06-05T21:53:16Z</time>
+      </trkpt>
+      <trkpt lat="35.961862" lon="120.22551">
+        <ele>8.6</ele>
+        <time>2015-06-05T21:53:20Z</time>
+      </trkpt>
+      <trkpt lat="35.961775" lon="120.225547">
+        <ele>9.0</ele>
+        <time>2015-06-05T21:53:24Z</time>
+      </trkpt>
+      <trkpt lat="35.961688" lon="120.225583">
+        <ele>9.5</ele>
+        <time>2015-06-05T21:53:28Z</time>
+      </trkpt>
+      <trkpt lat="35.961595" lon="120.225622">
+        <ele>9.9</ele>
+        <time>2015-06-05T21:53:32Z</time>
+      </trkpt>
+      <trkpt lat="35.961512" lon="120.225647">
+        <ele>10.4</ele>
+        <time>2015-06-05T21:53:36Z</time>
+      </trkpt>
+      <trkpt lat="35.961407" lon="120.225683">
+        <ele>10.8</ele>
+        <time>2015-06-05T21:53:40Z</time>
+      </trkpt>
+      <trkpt lat="35.961281" lon="120.225741">
+        <ele>11.2</ele>
+        <time>2015-06-05T21:53:44Z</time>
+      </trkpt>
+      <trkpt lat="35.961145" lon="120.225786">
+        <ele>11.7</ele>
+        <time>2015-06-05T21:53:48Z</time>
+      </trkpt>
+      <trkpt lat="35.96102" lon="120.225816">
+        <ele>12.2</ele>
+        <time>2015-06-05T21:53:52Z</time>
+      </trkpt>
+      <trkpt lat="35.960905" lon="120.225867">
+        <ele>12.6</ele>
+        <time>2015-06-05T21:53:56Z</time>
+      </trkpt>
+      <trkpt lat="35.960803" lon="120.225938">
+        <ele>13.1</ele>
+        <time>2015-06-05T21:54:00Z</time>
+      </trkpt>
+      <trkpt lat="35.9607" lon="120.225994">
+        <ele>13.6</ele>
+        <time>2015-06-05T21:54:04Z</time>
+      </trkpt>
+      <trkpt lat="35.960593" lon="120.226049">
+        <ele>14.1</ele>
+        <time>2015-06-05T21:54:08Z</time>
+      </trkpt>
+      <trkpt lat="35.960505" lon="120.226097">
+        <ele>14.7</ele>
+        <time>2015-06-05T21:54:12Z</time>
+      </trkpt>
+      <trkpt lat="35.960417" lon="120.226131">
+        <ele>15.2</ele>
+        <time>2015-06-05T21:54:16Z</time>
+      </trkpt>
+      <trkpt lat="35.96032" lon="120.226173">
+        <ele>15.7</ele>
+        <time>2015-06-05T21:54:20Z</time>
+      </trkpt>
+      <trkpt lat="35.960224" lon="120.226206">
+        <ele>16.3</ele>
+        <time>2015-06-05T21:54:24Z</time>
+      </trkpt>
+      <trkpt lat="35.960119" lon="120.226248">
+        <ele>16.8</ele>
+        <time>2015-06-05T21:54:28Z</time>
+      </trkpt>
+      <trkpt lat="35.960015" lon="120.226291">
+        <ele>17.3</ele>
+        <time>2015-06-05T21:54:32Z</time>
+      </trkpt>
+      <trkpt lat="35.959914" lon="120.22633">
+        <ele>17.7</ele>
+        <time>2015-06-05T21:54:36Z</time>
+      </trkpt>
+      <trkpt lat="35.95981" lon="120.226373">
+        <ele>18.2</ele>
+        <time>2015-06-05T21:54:40Z</time>
+      </trkpt>
+      <trkpt lat="35.959703" lon="120.22642">
+        <ele>18.6</ele>
+        <time>2015-06-05T21:54:44Z</time>
+      </trkpt>
+      <trkpt lat="35.959596" lon="120.226465">
+        <ele>19.0</ele>
+        <time>2015-06-05T21:54:48Z</time>
+      </trkpt>
+      <trkpt lat="35.959492" lon="120.226501">
+        <ele>19.4</ele>
+        <time>2015-06-05T21:54:52Z</time>
+      </trkpt>
+      <trkpt lat="35.959394" lon="120.226535">
+        <ele>19.7</ele>
+        <time>2015-06-05T21:54:56Z</time>
+      </trkpt>
+      <trkpt lat="35.959291" lon="120.226576">
+        <ele>20.0</ele>
+        <time>2015-06-05T21:55:00Z</time>
+      </trkpt>
+      <trkpt lat="35.959188" lon="120.226617">
+        <ele>20.3</ele>
+        <time>2015-06-05T21:55:04Z</time>
+      </trkpt>
+      <trkpt lat="35.959089" lon="120.226661">
+        <ele>20.5</ele>
+        <time>2015-06-05T21:55:08Z</time>
+      </trkpt>
+      <trkpt lat="35.958994" lon="120.226696">
+        <ele>20.8</ele>
+        <time>2015-06-05T21:55:12Z</time>
+      </trkpt>
+      <trkpt lat="35.958904" lon="120.226754">
+        <ele>21.0</ele>
+        <time>2015-06-05T21:55:16Z</time>
+      </trkpt>
+      <trkpt lat="35.958826" lon="120.226807">
+        <ele>21.2</ele>
+        <time>2015-06-05T21:55:20Z</time>
+      </trkpt>
+      <trkpt lat="35.958732" lon="120.22686">
+        <ele>21.3</ele>
+        <time>2015-06-05T21:55:24Z</time>
+      </trkpt>
+      <trkpt lat="35.958632" lon="120.226899">
+        <ele>21.5</ele>
+        <time>2015-06-05T21:55:28Z</time>
+      </trkpt>
+      <trkpt lat="35.958524" lon="120.226911">
+        <ele>21.6</ele>
+        <time>2015-06-05T21:55:32Z</time>
+      </trkpt>
+      <trkpt lat="35.958422" lon="120.226895">
+        <ele>21.7</ele>
+        <time>2015-06-05T21:55:36Z</time>
+      </trkpt>
+      <trkpt lat="35.958332" lon="120.226841">
+        <ele>21.8</ele>
+        <time>2015-06-05T21:55:40Z</time>
+      </trkpt>
+      <trkpt lat="35.958267" lon="120.226756">
+        <ele>21.9</ele>
+        <time>2015-06-05T21:55:44Z</time>
+      </trkpt>
+      <trkpt lat="35.958214" lon="120.226659">
+        <ele>21.9</ele>
+        <time>2015-06-05T21:55:48Z</time>
+      </trkpt>
+      <trkpt lat="35.958155" lon="120.226556">
+        <ele>21.9</ele>
+        <time>2015-06-05T21:55:52Z</time>
+      </trkpt>
+      <trkpt lat="35.958093" lon="120.22644">
+        <ele>21.9</ele>
+        <time>2015-06-05T21:55:56Z</time>
+      </trkpt>
+      <trkpt lat="35.958029" lon="120.226334">
+        <ele>21.9</ele>
+        <time>2015-06-05T21:56:00Z</time>
+      </trkpt>
+      <trkpt lat="35.957959" lon="120.226217">
+        <ele>21.9</ele>
+        <time>2015-06-05T21:56:04Z</time>
+      </trkpt>
+      <trkpt lat="35.957891" lon="120.226113">
+        <ele>21.8</ele>
+        <time>2015-06-05T21:56:08Z</time>
+      </trkpt>
+      <trkpt lat="35.957815" lon="120.226009">
+        <ele>21.8</ele>
+        <time>2015-06-05T21:56:12Z</time>
+      </trkpt>
+      <trkpt lat="35.957763" lon="120.225912">
+        <ele>21.7</ele>
+        <time>2015-06-05T21:56:16Z</time>
+      </trkpt>
+      <trkpt lat="35.957696" lon="120.225783">
+        <ele>21.7</ele>
+        <time>2015-06-05T21:56:20Z</time>
+      </trkpt>
+      <trkpt lat="35.957637" lon="120.225664">
+        <ele>21.6</ele>
+        <time>2015-06-05T21:56:24Z</time>
+      </trkpt>
+      <trkpt lat="35.957583" lon="120.225547">
+        <ele>21.6</ele>
+        <time>2015-06-05T21:56:28Z</time>
+      </trkpt>
+      <trkpt lat="35.957534" lon="120.22545">
+        <ele>21.5</ele>
+        <time>2015-06-05T21:56:32Z</time>
+      </trkpt>
+      <trkpt lat="35.957483" lon="120.22536">
+        <ele>21.4</ele>
+        <time>2015-06-05T21:56:36Z</time>
+      </trkpt>
+      <trkpt lat="35.9574" lon="120.225225">
+        <ele>21.3</ele>
+        <time>2015-06-05T21:56:40Z</time>
+      </trkpt>
+      <trkpt lat="35.957335" lon="120.225119">
+        <ele>21.2</ele>
+        <time>2015-06-05T21:56:44Z</time>
+      </trkpt>
+      <trkpt lat="35.957266" lon="120.225011">
+        <ele>21.1</ele>
+        <time>2015-06-05T21:56:48Z</time>
+      </trkpt>
+      <trkpt lat="35.957195" lon="120.224904">
+        <ele>20.9</ele>
+        <time>2015-06-05T21:56:52Z</time>
+      </trkpt>
+      <trkpt lat="35.957138" lon="120.224793">
+        <ele>20.8</ele>
+        <time>2015-06-05T21:56:56Z</time>
+      </trkpt>
+      <trkpt lat="35.957083" lon="120.224683">
+        <ele>20.6</ele>
+        <time>2015-06-05T21:57:00Z</time>
+      </trkpt>
+      <trkpt lat="35.957021" lon="120.22458">
+        <ele>20.4</ele>
+        <time>2015-06-05T21:57:04Z</time>
+      </trkpt>
+      <trkpt lat="35.956957" lon="120.224477">
+        <ele>20.2</ele>
+        <time>2015-06-05T21:57:08Z</time>
+      </trkpt>
+      <trkpt lat="35.956914" lon="120.224383">
+        <ele>20.0</ele>
+        <time>2015-06-05T21:57:12Z</time>
+      </trkpt>
+      <trkpt lat="35.956863" lon="120.224291">
+        <ele>19.8</ele>
+        <time>2015-06-05T21:57:16Z</time>
+      </trkpt>
+      <trkpt lat="35.956808" lon="120.224197">
+        <ele>19.5</ele>
+        <time>2015-06-05T21:57:20Z</time>
+      </trkpt>
+      <trkpt lat="35.956738" lon="120.224083">
+        <ele>19.3</ele>
+        <time>2015-06-05T21:57:24Z</time>
+      </trkpt>
+      <trkpt lat="35.956647" lon="120.223912">
+        <ele>19.1</ele>
+        <time>2015-06-05T21:57:28Z</time>
+      </trkpt>
+      <trkpt lat="35.956573" lon="120.223774">
+        <ele>18.9</ele>
+        <time>2015-06-05T21:57:32Z</time>
+      </trkpt>
+      <trkpt lat="35.956504" lon="120.223656">
+        <ele>18.7</ele>
+        <time>2015-06-05T21:57:36Z</time>
+      </trkpt>
+      <trkpt lat="35.956437" lon="120.223537">
+        <ele>18.4</ele>
+        <time>2015-06-05T21:57:40Z</time>
+      </trkpt>
+      <trkpt lat="35.956375" lon="120.223444">
+        <ele>18.2</ele>
+        <time>2015-06-05T21:57:44Z</time>
+      </trkpt>
+      <trkpt lat="35.956306" lon="120.223338">
+        <ele>17.9</ele>
+        <time>2015-06-05T21:57:48Z</time>
+      </trkpt>
+      <trkpt lat="35.95624" lon="120.223219">
+        <ele>17.7</ele>
+        <time>2015-06-05T21:57:52Z</time>
+      </trkpt>
+      <trkpt lat="35.956153" lon="120.223119">
+        <ele>17.4</ele>
+        <time>2015-06-05T21:57:56Z</time>
+      </trkpt>
+      <trkpt lat="35.956076" lon="120.223026">
+        <ele>17.2</ele>
+        <time>2015-06-05T21:58:00Z</time>
+      </trkpt>
+      <trkpt lat="35.956003" lon="120.222926">
+        <ele>17.0</ele>
+        <time>2015-06-05T21:58:04Z</time>
+      </trkpt>
+      <trkpt lat="35.955929" lon="120.222827">
+        <ele>16.8</ele>
+        <time>2015-06-05T21:58:08Z</time>
+      </trkpt>
+      <trkpt lat="35.955874" lon="120.222718">
+        <ele>16.6</ele>
+        <time>2015-06-05T21:58:12Z</time>
+      </trkpt>
+      <trkpt lat="35.955818" lon="120.222612">
+        <ele>16.5</ele>
+        <time>2015-06-05T21:58:16Z</time>
+      </trkpt>
+      <trkpt lat="35.955761" lon="120.222512">
+        <ele>16.4</ele>
+        <time>2015-06-05T21:58:20Z</time>
+      </trkpt>
+      <trkpt lat="35.955731" lon="120.222427">
+        <ele>16.3</ele>
+        <time>2015-06-05T21:58:24Z</time>
+      </trkpt>
+      <trkpt lat="35.955631" lon="120.222291">
+        <ele>16.2</ele>
+        <time>2015-06-05T21:58:28Z</time>
+      </trkpt>
+      <trkpt lat="35.955522" lon="120.222144">
+        <ele>16.2</ele>
+        <time>2015-06-05T21:58:32Z</time>
+      </trkpt>
+      <trkpt lat="35.955461" lon="120.22202">
+        <ele>16.2</ele>
+        <time>2015-06-05T21:58:36Z</time>
+      </trkpt>
+      <trkpt lat="35.955401" lon="120.221896">
+        <ele>16.2</ele>
+        <time>2015-06-05T21:58:40Z</time>
+      </trkpt>
+      <trkpt lat="35.955335" lon="120.22177">
+        <ele>16.3</ele>
+        <time>2015-06-05T21:58:44Z</time>
+      </trkpt>
+      <trkpt lat="35.955272" lon="120.22166">
+        <ele>16.3</ele>
+        <time>2015-06-05T21:58:48Z</time>
+      </trkpt>
+      <trkpt lat="35.955209" lon="120.221548">
+        <ele>16.4</ele>
+        <time>2015-06-05T21:58:52Z</time>
+      </trkpt>
+      <trkpt lat="35.955156" lon="120.221416">
+        <ele>16.4</ele>
+        <time>2015-06-05T21:58:56Z</time>
+      </trkpt>
+      <trkpt lat="35.955115" lon="120.221288">
+        <ele>16.5</ele>
+        <time>2015-06-05T21:59:00Z</time>
+      </trkpt>
+      <trkpt lat="35.955088" lon="120.221197">
+        <ele>16.5</ele>
+        <time>2015-06-05T21:59:04Z</time>
+      </trkpt>
+      <trkpt lat="35.955042" lon="120.221104">
+        <ele>16.6</ele>
+        <time>2015-06-05T21:59:08Z</time>
+      </trkpt>
+      <trkpt lat="35.954975" lon="120.220964">
+        <ele>16.7</ele>
+        <time>2015-06-05T21:59:12Z</time>
+      </trkpt>
+      <trkpt lat="35.954928" lon="120.220837">
+        <ele>16.8</ele>
+        <time>2015-06-05T21:59:16Z</time>
+      </trkpt>
+      <trkpt lat="35.954882" lon="120.22072">
+        <ele>16.9</ele>
+        <time>2015-06-05T21:59:20Z</time>
+      </trkpt>
+      <trkpt lat="35.954828" lon="120.220606">
+        <ele>16.9</ele>
+        <time>2015-06-05T21:59:24Z</time>
+      </trkpt>
+      <trkpt lat="35.95477" lon="120.220487">
+        <ele>17.0</ele>
+        <time>2015-06-05T21:59:28Z</time>
+      </trkpt>
+      <trkpt lat="35.954698" lon="120.220348">
+        <ele>17.0</ele>
+        <time>2015-06-05T21:59:32Z</time>
+      </trkpt>
+      <trkpt lat="35.954625" lon="120.220208">
+        <ele>17.0</ele>
+        <time>2015-06-05T21:59:36Z</time>
+      </trkpt>
+      <trkpt lat="35.954559" lon="120.220066">
+        <ele>17.0</ele>
+        <time>2015-06-05T21:59:40Z</time>
+      </trkpt>
+      <trkpt lat="35.954509" lon="120.219925">
+        <ele>17.0</ele>
+        <time>2015-06-05T21:59:44Z</time>
+      </trkpt>
+      <trkpt lat="35.954452" lon="120.219792">
+        <ele>16.9</ele>
+        <time>2015-06-05T21:59:48Z</time>
+      </trkpt>
+      <trkpt lat="35.954403" lon="120.219654">
+        <ele>16.8</ele>
+        <time>2015-06-05T21:59:52Z</time>
+      </trkpt>
+      <trkpt lat="35.954354" lon="120.219515">
+        <ele>16.6</ele>
+        <time>2015-06-05T21:59:56Z</time>
+      </trkpt>
+      <trkpt lat="35.954302" lon="120.219371">
+        <ele>16.4</ele>
+        <time>2015-06-05T22:00:00Z</time>
+      </trkpt>
+      <trkpt lat="35.954251" lon="120.219235">
+        <ele>16.1</ele>
+        <time>2015-06-05T22:00:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954203" lon="120.219104">
+        <ele>15.8</ele>
+        <time>2015-06-05T22:00:08Z</time>
+      </trkpt>
+      <trkpt lat="35.95416" lon="120.218974">
+        <ele>15.5</ele>
+        <time>2015-06-05T22:00:12Z</time>
+      </trkpt>
+      <trkpt lat="35.954113" lon="120.218841">
+        <ele>15.1</ele>
+        <time>2015-06-05T22:00:16Z</time>
+      </trkpt>
+      <trkpt lat="35.954076" lon="120.218711">
+        <ele>14.7</ele>
+        <time>2015-06-05T22:00:20Z</time>
+      </trkpt>
+      <trkpt lat="35.954034" lon="120.218583">
+        <ele>14.3</ele>
+        <time>2015-06-05T22:00:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953984" lon="120.218454">
+        <ele>13.9</ele>
+        <time>2015-06-05T22:00:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953939" lon="120.21831">
+        <ele>13.4</ele>
+        <time>2015-06-05T22:00:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953894" lon="120.218168">
+        <ele>13.0</ele>
+        <time>2015-06-05T22:00:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953839" lon="120.218045">
+        <ele>12.5</ele>
+        <time>2015-06-05T22:00:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953792" lon="120.21792">
+        <ele>12.0</ele>
+        <time>2015-06-05T22:00:44Z</time>
+      </trkpt>
+      <trkpt lat="35.953745" lon="120.217791">
+        <ele>11.5</ele>
+        <time>2015-06-05T22:00:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953704" lon="120.217659">
+        <ele>11.0</ele>
+        <time>2015-06-05T22:00:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953669" lon="120.21753">
+        <ele>10.4</ele>
+        <time>2015-06-05T22:00:56Z</time>
+      </trkpt>
+      <trkpt lat="35.953639" lon="120.217391">
+        <ele>9.9</ele>
+        <time>2015-06-05T22:01:00Z</time>
+      </trkpt>
+      <trkpt lat="35.953602" lon="120.217241">
+        <ele>9.4</ele>
+        <time>2015-06-05T22:01:04Z</time>
+      </trkpt>
+      <trkpt lat="35.953559" lon="120.217092">
+        <ele>8.8</ele>
+        <time>2015-06-05T22:01:08Z</time>
+      </trkpt>
+      <trkpt lat="35.953519" lon="120.217012">
+        <ele>8.3</ele>
+        <time>2015-06-05T22:01:12Z</time>
+      </trkpt>
+      <trkpt lat="35.953489" lon="120.216939">
+        <ele>7.8</ele>
+        <time>2015-06-05T22:01:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953451" lon="120.216825">
+        <ele>7.3</ele>
+        <time>2015-06-05T22:01:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953415" lon="120.21671">
+        <ele>6.8</ele>
+        <time>2015-06-05T22:01:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953383" lon="120.216587">
+        <ele>6.4</ele>
+        <time>2015-06-05T22:01:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953352" lon="120.216455">
+        <ele>5.9</ele>
+        <time>2015-06-05T22:01:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953315" lon="120.216321">
+        <ele>5.5</ele>
+        <time>2015-06-05T22:01:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953278" lon="120.216187">
+        <ele>5.1</ele>
+        <time>2015-06-05T22:01:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953257" lon="120.216062">
+        <ele>4.7</ele>
+        <time>2015-06-05T22:01:44Z</time>
+      </trkpt>
+      <trkpt lat="35.953227" lon="120.215923">
+        <ele>4.4</ele>
+        <time>2015-06-05T22:01:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953197" lon="120.215777">
+        <ele>4.0</ele>
+        <time>2015-06-05T22:01:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953171" lon="120.215617">
+        <ele>3.7</ele>
+        <time>2015-06-05T22:01:56Z</time>
+      </trkpt>
+      <trkpt lat="35.953142" lon="120.215451">
+        <ele>3.4</ele>
+        <time>2015-06-05T22:02:00Z</time>
+      </trkpt>
+      <trkpt lat="35.953117" lon="120.215294">
+        <ele>3.2</ele>
+        <time>2015-06-05T22:02:04Z</time>
+      </trkpt>
+      <trkpt lat="35.953091" lon="120.215155">
+        <ele>3.0</ele>
+        <time>2015-06-05T22:02:08Z</time>
+      </trkpt>
+      <trkpt lat="35.953062" lon="120.215042">
+        <ele>2.8</ele>
+        <time>2015-06-05T22:02:12Z</time>
+      </trkpt>
+      <trkpt lat="35.95304" lon="120.214911">
+        <ele>2.6</ele>
+        <time>2015-06-05T22:02:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953017" lon="120.21478">
+        <ele>2.4</ele>
+        <time>2015-06-05T22:02:20Z</time>
+      </trkpt>
+      <trkpt lat="35.952987" lon="120.214634">
+        <ele>2.3</ele>
+        <time>2015-06-05T22:02:24Z</time>
+      </trkpt>
+      <trkpt lat="35.952947" lon="120.214498">
+        <ele>2.2</ele>
+        <time>2015-06-05T22:02:28Z</time>
+      </trkpt>
+      <trkpt lat="35.952918" lon="120.214358">
+        <ele>2.1</ele>
+        <time>2015-06-05T22:02:32Z</time>
+      </trkpt>
+      <trkpt lat="35.952904" lon="120.214228">
+        <ele>2.1</ele>
+        <time>2015-06-05T22:02:36Z</time>
+      </trkpt>
+      <trkpt lat="35.95288" lon="120.214097">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:02:40Z</time>
+      </trkpt>
+      <trkpt lat="35.95286" lon="120.213966">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:02:44Z</time>
+      </trkpt>
+      <trkpt lat="35.95284" lon="120.213831">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:02:48Z</time>
+      </trkpt>
+      <trkpt lat="35.952818" lon="120.213713">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:02:52Z</time>
+      </trkpt>
+      <trkpt lat="35.952817" lon="120.213614">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:02:56Z</time>
+      </trkpt>
+      <trkpt lat="35.952801" lon="120.213487">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:03:00Z</time>
+      </trkpt>
+      <trkpt lat="35.952777" lon="120.213364">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:03:04Z</time>
+      </trkpt>
+      <trkpt lat="35.952755" lon="120.213239">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:03:08Z</time>
+      </trkpt>
+      <trkpt lat="35.952745" lon="120.213122">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:03:12Z</time>
+      </trkpt>
+      <trkpt lat="35.952725" lon="120.213007">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:03:16Z</time>
+      </trkpt>
+      <trkpt lat="35.952694" lon="120.212882">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:03:20Z</time>
+      </trkpt>
+      <trkpt lat="35.952666" lon="120.21276">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:03:24Z</time>
+      </trkpt>
+      <trkpt lat="35.952643" lon="120.212638">
+        <ele>2.1</ele>
+        <time>2015-06-05T22:03:28Z</time>
+      </trkpt>
+      <trkpt lat="35.95262" lon="120.212514">
+        <ele>2.1</ele>
+        <time>2015-06-05T22:03:32Z</time>
+      </trkpt>
+      <trkpt lat="35.952585" lon="120.212387">
+        <ele>2.1</ele>
+        <time>2015-06-05T22:03:36Z</time>
+      </trkpt>
+      <trkpt lat="35.952574" lon="120.212262">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:03:40Z</time>
+      </trkpt>
+      <trkpt lat="35.952586" lon="120.212125">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:03:44Z</time>
+      </trkpt>
+      <trkpt lat="35.952577" lon="120.211978">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:03:48Z</time>
+      </trkpt>
+      <trkpt lat="35.952584" lon="120.211838">
+        <ele>1.9</ele>
+        <time>2015-06-05T22:03:52Z</time>
+      </trkpt>
+      <trkpt lat="35.952618" lon="120.211745">
+        <ele>1.9</ele>
+        <time>2015-06-05T22:03:56Z</time>
+      </trkpt>
+      <trkpt lat="35.952662" lon="120.21172">
+        <ele>1.8</ele>
+        <time>2015-06-05T22:04:00Z</time>
+      </trkpt>
+      <trkpt lat="35.952728" lon="120.21173">
+        <ele>1.7</ele>
+        <time>2015-06-05T22:04:04Z</time>
+      </trkpt>
+      <trkpt lat="35.952828" lon="120.211743">
+        <ele>1.6</ele>
+        <time>2015-06-05T22:04:08Z</time>
+      </trkpt>
+      <trkpt lat="35.952932" lon="120.211761">
+        <ele>1.6</ele>
+        <time>2015-06-05T22:04:12Z</time>
+      </trkpt>
+      <trkpt lat="35.953049" lon="120.211774">
+        <ele>1.5</ele>
+        <time>2015-06-05T22:04:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953174" lon="120.211754">
+        <ele>1.5</ele>
+        <time>2015-06-05T22:04:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953296" lon="120.211745">
+        <ele>1.4</ele>
+        <time>2015-06-05T22:04:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953402" lon="120.211736">
+        <ele>1.4</ele>
+        <time>2015-06-05T22:04:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953495" lon="120.211718">
+        <ele>1.3</ele>
+        <time>2015-06-05T22:04:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953575" lon="120.211687">
+        <ele>1.3</ele>
+        <time>2015-06-05T22:04:36Z</time>
+      </trkpt>
+      <trkpt lat="35.95366" lon="120.211649">
+        <ele>1.3</ele>
+        <time>2015-06-05T22:04:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953747" lon="120.211626">
+        <ele>1.4</ele>
+        <time>2015-06-05T22:04:44Z</time>
+      </trkpt>
+      <trkpt lat="35.953852" lon="120.211604">
+        <ele>1.4</ele>
+        <time>2015-06-05T22:04:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953938" lon="120.211559">
+        <ele>1.4</ele>
+        <time>2015-06-05T22:04:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953954" lon="120.211473">
+        <ele>1.5</ele>
+        <time>2015-06-05T22:04:56Z</time>
+      </trkpt>
+      <trkpt lat="35.953938" lon="120.211356">
+        <ele>1.5</ele>
+        <time>2015-06-05T22:05:00Z</time>
+      </trkpt>
+      <trkpt lat="35.953935" lon="120.21124">
+        <ele>1.6</ele>
+        <time>2015-06-05T22:05:04Z</time>
+      </trkpt>
+      <trkpt lat="35.95394" lon="120.211133">
+        <ele>1.6</ele>
+        <time>2015-06-05T22:05:08Z</time>
+      </trkpt>
+      <trkpt lat="35.953948" lon="120.211013">
+        <ele>1.7</ele>
+        <time>2015-06-05T22:05:12Z</time>
+      </trkpt>
+      <trkpt lat="35.95399" lon="120.210884">
+        <ele>1.8</ele>
+        <time>2015-06-05T22:05:16Z</time>
+      </trkpt>
+      <trkpt lat="35.954023" lon="120.210769">
+        <ele>1.8</ele>
+        <time>2015-06-05T22:05:20Z</time>
+      </trkpt>
+      <trkpt lat="35.954029" lon="120.210651">
+        <ele>1.9</ele>
+        <time>2015-06-05T22:05:24Z</time>
+      </trkpt>
+      <trkpt lat="35.954015" lon="120.210529">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:05:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953984" lon="120.210413">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:05:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953949" lon="120.210299">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:05:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953921" lon="120.210177">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:05:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953892" lon="120.21005">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:05:44Z</time>
+      </trkpt>
+      <trkpt lat="35.953869" lon="120.209931">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:05:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953843" lon="120.209802">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:05:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953806" lon="120.209673">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:05:56Z</time>
+      </trkpt>
+      <trkpt lat="35.953773" lon="120.209554">
+        <ele>2.0</ele>
+        <time>2015-06-05T22:06:00Z</time>
+      </trkpt>
+      <trkpt lat="35.953744" lon="120.209435">
+        <ele>1.9</ele>
+        <time>2015-06-05T22:06:04Z</time>
+      </trkpt>
+      <trkpt lat="35.953718" lon="120.209312">
+        <ele>1.9</ele>
+        <time>2015-06-05T22:06:08Z</time>
+      </trkpt>
+      <trkpt lat="35.953698" lon="120.209184">
+        <ele>1.9</ele>
+        <time>2015-06-05T22:06:12Z</time>
+      </trkpt>
+      <trkpt lat="35.953675" lon="120.209061">
+        <ele>1.8</ele>
+        <time>2015-06-05T22:06:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953651" lon="120.208948">
+        <ele>1.8</ele>
+        <time>2015-06-05T22:06:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953635" lon="120.208825">
+        <ele>1.7</ele>
+        <time>2015-06-05T22:06:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953614" lon="120.208696">
+        <ele>1.7</ele>
+        <time>2015-06-05T22:06:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953587" lon="120.208573">
+        <ele>1.7</ele>
+        <time>2015-06-05T22:06:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953565" lon="120.208455">
+        <ele>1.7</ele>
+        <time>2015-06-05T22:06:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953559" lon="120.208336">
+        <ele>1.7</ele>
+        <time>2015-06-05T22:06:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953604" lon="120.208247">
+        <ele>1.7</ele>
+        <time>2015-06-05T22:06:44Z</time>
+      </trkpt>
+      <trkpt lat="35.953695" lon="120.208186">
+        <ele>1.8</ele>
+        <time>2015-06-05T22:06:48Z</time>
+      </trkpt>
+      <trkpt lat="35.953795" lon="120.208155">
+        <ele>1.9</ele>
+        <time>2015-06-05T22:06:52Z</time>
+      </trkpt>
+      <trkpt lat="35.953897" lon="120.208133">
+        <ele>2.1</ele>
+        <time>2015-06-05T22:06:56Z</time>
+      </trkpt>
+      <trkpt lat="35.954006" lon="120.208118">
+        <ele>2.4</ele>
+        <time>2015-06-05T22:07:00Z</time>
+      </trkpt>
+      <trkpt lat="35.954113" lon="120.208105">
+        <ele>2.7</ele>
+        <time>2015-06-05T22:07:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954204" lon="120.208094">
+        <ele>3.0</ele>
+        <time>2015-06-05T22:07:08Z</time>
+      </trkpt>
+      <trkpt lat="35.95431" lon="120.208068">
+        <ele>3.4</ele>
+        <time>2015-06-05T22:07:12Z</time>
+      </trkpt>
+      <trkpt lat="35.954423" lon="120.208037">
+        <ele>3.8</ele>
+        <time>2015-06-05T22:07:16Z</time>
+      </trkpt>
+      <trkpt lat="35.954536" lon="120.208009">
+        <ele>4.3</ele>
+        <time>2015-06-05T22:07:20Z</time>
+      </trkpt>
+      <trkpt lat="35.95466" lon="120.207979">
+        <ele>4.7</ele>
+        <time>2015-06-05T22:07:24Z</time>
+      </trkpt>
+      <trkpt lat="35.954778" lon="120.207941">
+        <ele>5.2</ele>
+        <time>2015-06-05T22:07:28Z</time>
+      </trkpt>
+      <trkpt lat="35.954888" lon="120.207909">
+        <ele>5.7</ele>
+        <time>2015-06-05T22:07:32Z</time>
+      </trkpt>
+      <trkpt lat="35.955004" lon="120.207886">
+        <ele>6.1</ele>
+        <time>2015-06-05T22:07:36Z</time>
+      </trkpt>
+      <trkpt lat="35.955122" lon="120.207853">
+        <ele>6.6</ele>
+        <time>2015-06-05T22:07:40Z</time>
+      </trkpt>
+      <trkpt lat="35.955232" lon="120.207818">
+        <ele>7.2</ele>
+        <time>2015-06-05T22:07:44Z</time>
+      </trkpt>
+      <trkpt lat="35.955337" lon="120.207774">
+        <ele>7.7</ele>
+        <time>2015-06-05T22:07:48Z</time>
+      </trkpt>
+      <trkpt lat="35.955443" lon="120.207718">
+        <ele>8.2</ele>
+        <time>2015-06-05T22:07:52Z</time>
+      </trkpt>
+      <trkpt lat="35.955554" lon="120.207658">
+        <ele>8.8</ele>
+        <time>2015-06-05T22:07:56Z</time>
+      </trkpt>
+      <trkpt lat="35.955656" lon="120.207593">
+        <ele>9.3</ele>
+        <time>2015-06-05T22:08:00Z</time>
+      </trkpt>
+      <trkpt lat="35.955758" lon="120.207537">
+        <ele>9.8</ele>
+        <time>2015-06-05T22:08:04Z</time>
+      </trkpt>
+      <trkpt lat="35.955858" lon="120.207503">
+        <ele>10.3</ele>
+        <time>2015-06-05T22:08:08Z</time>
+      </trkpt>
+      <trkpt lat="35.955965" lon="120.207488">
+        <ele>10.7</ele>
+        <time>2015-06-05T22:08:12Z</time>
+      </trkpt>
+      <trkpt lat="35.956069" lon="120.207475">
+        <ele>11.1</ele>
+        <time>2015-06-05T22:08:16Z</time>
+      </trkpt>
+      <trkpt lat="35.956167" lon="120.207486">
+        <ele>11.4</ele>
+        <time>2015-06-05T22:08:20Z</time>
+      </trkpt>
+      <trkpt lat="35.956268" lon="120.207455">
+        <ele>11.7</ele>
+        <time>2015-06-05T22:08:24Z</time>
+      </trkpt>
+      <trkpt lat="35.956368" lon="120.20742">
+        <ele>11.9</ele>
+        <time>2015-06-05T22:08:28Z</time>
+      </trkpt>
+      <trkpt lat="35.95646" lon="120.207425">
+        <ele>12.1</ele>
+        <time>2015-06-05T22:08:32Z</time>
+      </trkpt>
+      <trkpt lat="35.956531" lon="120.207545">
+        <ele>12.3</ele>
+        <time>2015-06-05T22:08:36Z</time>
+      </trkpt>
+      <trkpt lat="35.956582" lon="120.207675">
+        <ele>12.5</ele>
+        <time>2015-06-05T22:08:40Z</time>
+      </trkpt>
+      <trkpt lat="35.956624" lon="120.207802">
+        <ele>12.7</ele>
+        <time>2015-06-05T22:08:44Z</time>
+      </trkpt>
+      <trkpt lat="35.956654" lon="120.207923">
+        <ele>12.8</ele>
+        <time>2015-06-05T22:08:48Z</time>
+      </trkpt>
+      <trkpt lat="35.956686" lon="120.208051">
+        <ele>12.9</ele>
+        <time>2015-06-05T22:08:52Z</time>
+      </trkpt>
+      <trkpt lat="35.956713" lon="120.208182">
+        <ele>13.0</ele>
+        <time>2015-06-05T22:08:56Z</time>
+      </trkpt>
+      <trkpt lat="35.956723" lon="120.20832">
+        <ele>13.2</ele>
+        <time>2015-06-05T22:09:00Z</time>
+      </trkpt>
+      <extensions>
+        <breaktype>2</breaktype>
+      </extensions>
+    </trkseg>
+  </trk>
+  <extensions>
+    <ssrlog>
+      <logseg>
+        <logpt time="2015-06-05T21:41:54Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:41:58Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:02Z">
+          <spd>4.0</spd>
+          <str>45.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:06Z">
+          <spd>4.5</spd>
+          <str>60.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:08Z">
+          <spd>4.5</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:12Z">
+          <spd>5.0</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:16Z">
+          <spd>5.4</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:20Z">
+          <spd>7.2</spd>
+          <str>73.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:24Z">
+          <spd>8.6</spd>
+          <str>75.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:28Z">
+          <spd>8.6</spd>
+          <str>77.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:32Z">
+          <spd>9.9</spd>
+          <str>77.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:36Z">
+          <spd>11.3</spd>
+          <str>78.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:40Z">
+          <spd>11.3</spd>
+          <str>78.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:44Z">
+          <spd>11.7</spd>
+          <str>80.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:48Z">
+          <spd>14.4</spd>
+          <str>80.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:52Z">
+          <spd>13.9</spd>
+          <str>81.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:42:56Z">
+          <spd>11.3</spd>
+          <str>81.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:00Z">
+          <spd>9.0</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:04Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:08Z">
+          <spd>8.1</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:12Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:16Z">
+          <spd>8.1</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:20Z">
+          <spd>7.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:24Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:28Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:32Z">
+          <spd>9.0</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:36Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:40Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:44Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:48Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:52Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:43:56Z">
+          <spd>11.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:00Z">
+          <spd>11.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:04Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:08Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:12Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:16Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:20Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:24Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:28Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:32Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:36Z">
+          <spd>11.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:40Z">
+          <spd>12.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:44Z">
+          <spd>12.2</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:48Z">
+          <spd>12.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:52Z">
+          <spd>12.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:44:56Z">
+          <spd>13.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:00Z">
+          <spd>13.5</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:04Z">
+          <spd>13.9</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:08Z">
+          <spd>14.4</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:12Z">
+          <spd>13.9</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:16Z">
+          <spd>13.5</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:20Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:24Z">
+          <spd>12.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:28Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:32Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:36Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:40Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:44Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:48Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:52Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:45:56Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:00Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:04Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:08Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:12Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:16Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:20Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:24Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:28Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:32Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:36Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:40Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:44Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:48Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:52Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:46:56Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:00Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:04Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:08Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:12Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:16Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:20Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:24Z">
+          <spd>12.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:28Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:32Z">
+          <spd>12.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:36Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:40Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:44Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:48Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:52Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:47:56Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:00Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:04Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:08Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:12Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:16Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:20Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:24Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:28Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:32Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:36Z">
+          <spd>13.1</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:40Z">
+          <spd>13.5</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:44Z">
+          <spd>13.5</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:48Z">
+          <spd>13.5</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:52Z">
+          <spd>13.5</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:48:56Z">
+          <spd>13.1</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:00Z">
+          <spd>13.1</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:04Z">
+          <spd>13.5</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:08Z">
+          <spd>13.5</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:12Z">
+          <spd>12.6</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:16Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:20Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:24Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:28Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:32Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:36Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:40Z">
+          <spd>12.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:44Z">
+          <spd>12.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:48Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:52Z">
+          <spd>12.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:49:56Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:00Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:04Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:08Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:12Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:16Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:20Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:24Z">
+          <spd>13.5</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:28Z">
+          <spd>13.5</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:32Z">
+          <spd>13.5</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:36Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:40Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:44Z">
+          <spd>13.5</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:48Z">
+          <spd>13.5</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:52Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:50:56Z">
+          <spd>12.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:00Z">
+          <spd>13.5</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:04Z">
+          <spd>13.5</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:08Z">
+          <spd>12.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:12Z">
+          <spd>12.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:16Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:20Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:24Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:28Z">
+          <spd>12.6</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:32Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:36Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:40Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:44Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:48Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:52Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:51:56Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:00Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:04Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:08Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:12Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:16Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:20Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:24Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:28Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:32Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:36Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:40Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:44Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:48Z">
+          <spd>10.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:52Z">
+          <spd>10.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:52:56Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:00Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:04Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:08Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:12Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:16Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:20Z">
+          <spd>9.9</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:24Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:28Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:32Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:36Z">
+          <spd>9.4</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:40Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:44Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:48Z">
+          <spd>13.1</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:52Z">
+          <spd>12.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:53:56Z">
+          <spd>12.6</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:00Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:04Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:08Z">
+          <spd>11.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:12Z">
+          <spd>11.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:16Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:20Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:24Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:28Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:32Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:36Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:40Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:44Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:48Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:52Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:54:56Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:00Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:04Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:08Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:12Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:16Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:20Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:24Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:28Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:32Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:36Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:40Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:44Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:48Z">
+          <spd>9.9</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:52Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:55:56Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:00Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:04Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:08Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:12Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:16Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:20Z">
+          <spd>11.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:24Z">
+          <spd>11.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:28Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:32Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:36Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:40Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:44Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:48Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:52Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:56:56Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:00Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:04Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:08Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:12Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:16Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:20Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:24Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:28Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:32Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:36Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:40Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:44Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:48Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:52Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:57:56Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:00Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:04Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:08Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:12Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:16Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:20Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:24Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:28Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:32Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:36Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:40Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:44Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:48Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:52Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:58:56Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:00Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:04Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:08Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:12Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:16Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:20Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:24Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:28Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:32Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:36Z">
+          <spd>11.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:40Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:44Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:48Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:52Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T21:59:56Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:00Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:04Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:08Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:12Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:16Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:20Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:24Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:28Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:32Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:36Z">
+          <spd>12.2</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:40Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:44Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:48Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:52Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:00:56Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:00Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:04Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:08Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:12Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:16Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:20Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:24Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:28Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:32Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:36Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:40Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:44Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:48Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:52Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:01:56Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:00Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:04Z">
+          <spd>12.6</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:08Z">
+          <spd>12.2</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:12Z">
+          <spd>11.7</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:16Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:20Z">
+          <spd>11.3</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:24Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:28Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:32Z">
+          <spd>11.7</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:36Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:40Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:44Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:48Z">
+          <spd>11.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:52Z">
+          <spd>10.8</spd>
+          <str>90.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:02:56Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:00Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:04Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:08Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:12Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:16Z">
+          <spd>9.9</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:20Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:24Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:28Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:32Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:36Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:40Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:44Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:48Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:52Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:03:56Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:00Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:04Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:08Z">
+          <spd>10.3</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:12Z">
+          <spd>10.3</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:16Z">
+          <spd>10.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:20Z">
+          <spd>11.3</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:24Z">
+          <spd>11.3</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:28Z">
+          <spd>11.3</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:32Z">
+          <spd>10.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:36Z">
+          <spd>10.3</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:40Z">
+          <spd>9.9</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:44Z">
+          <spd>9.9</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:48Z">
+          <spd>9.9</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:52Z">
+          <spd>9.9</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:04:56Z">
+          <spd>9.4</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:00Z">
+          <spd>9.4</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:04Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:08Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:12Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:16Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:20Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:24Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:28Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:32Z">
+          <spd>9.9</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:36Z">
+          <spd>9.9</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:40Z">
+          <spd>9.9</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:44Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:48Z">
+          <spd>9.9</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:52Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:05:56Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:00Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:04Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:08Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:12Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:16Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:20Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:24Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:28Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:32Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:36Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:40Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:44Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:48Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:52Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:06:56Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:00Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:04Z">
+          <spd>10.3</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:08Z">
+          <spd>9.9</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:12Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:16Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:20Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:24Z">
+          <spd>11.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:28Z">
+          <spd>11.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:32Z">
+          <spd>11.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:36Z">
+          <spd>11.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:40Z">
+          <spd>11.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:44Z">
+          <spd>11.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:48Z">
+          <spd>11.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:52Z">
+          <spd>11.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:07:56Z">
+          <spd>11.7</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:00Z">
+          <spd>11.7</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:04Z">
+          <spd>11.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:08Z">
+          <spd>11.3</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:12Z">
+          <spd>11.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:16Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:20Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:24Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:28Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:32Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:36Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:40Z">
+          <spd>10.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:44Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:48Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:52Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:08:56Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-06-05T22:09:00Z">
+          <spd>10.8</spd>
+          <str>89.0</str>
+        </logpt>
+        <breaktype>2</breaktype>
+      </logseg>
+    </ssrlog>
+    <laps>
+      <summary start="2015-06-05T21:41:54Z" type="0" end="2015-06-05T22:09:03Z" isautolap="0">
+        <distance>5116</distance>
+        <calorie>345</calorie>
+        <speed max="15.3" avg="11.25"/>
+        <cad max="90" avg="88"/>
+        <rtime>1620</rtime>
+        <acttype subtype="0">1</acttype>
+      </summary>
+    </laps>
+  </extensions>
+</gpx>

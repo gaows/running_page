@@ -1,0 +1,2321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.brytonsport.com/BDX/2/2" version="2.2.0.3" creator="bryton">
+  <metadata>
+    <name>2015/11/01 14:01</name>
+    <time>2015-11-01T06:01:07Z</time>
+    <bounds minlat="35.949298" maxlon="120.21044" minlon="120.205648" maxlat="35.955367"/>
+    <extensions>
+      <user>
+        <bike>0<wheel>204.00</wheel></bike>
+        <weight>68</weight>
+        <gender>1</gender>
+        <height>172</height>
+        <age>28</age>
+        <mhr>190</mhr>
+        <lthr>172</lthr>
+        <map>0</map>
+        <ftp>0</ftp>
+        <zonedef type="1">
+          <zone high="74" id="1" low="0"/>
+          <zone high="80" id="2" low="74"/>
+          <zone high="85" id="3" low="80"/>
+          <zone high="91" id="4" low="85"/>
+          <zone high="93" id="5" low="91"/>
+          <zone high="95" id="6" low="93"/>
+          <zone high="0" id="7" low="95"/>
+        </zonedef>
+        <zonedef type="2">
+          <zone high="80" id="1" low="0"/>
+          <zone high="87" id="2" low="80"/>
+          <zone high="91" id="3" low="87"/>
+          <zone high="100" id="4" low="91"/>
+          <zone high="101" id="5" low="100"/>
+          <zone high="105" id="6" low="101"/>
+          <zone high="0" id="7" low="105"/>
+        </zonedef>
+        <zonedef type="3">
+          <zone high="40" id="1" low="17"/>
+          <zone high="55" id="2" low="40"/>
+          <zone high="65" id="3" low="55"/>
+          <zone high="75" id="4" low="65"/>
+          <zone high="85" id="5" low="75"/>
+          <zone high="110" id="6" low="85"/>
+          <zone high="65535" id="7" low="110"/>
+        </zonedef>
+        <zonedef type="4">
+          <zone high="55" id="1" low="23"/>
+          <zone high="75" id="2" low="55"/>
+          <zone high="90" id="3" low="75"/>
+          <zone high="105" id="4" low="90"/>
+          <zone high="120" id="5" low="105"/>
+          <zone high="150" id="6" low="120"/>
+          <zone high="65535" id="7" low="150"/>
+        </zonedef>
+      </user>
+      <sys version="1.0.0.R041 BB2.8.0.14">Cardio60<apps><app version="148" name="bc"/></apps></sys>
+      <sharetype>2</sharetype>
+      <acttype subtype="0">1</acttype>
+      <trvTime>29</trvTime>
+      <trvDist>1452</trvDist>
+      <stime>1446357667</stime>
+      <etime>1446359443</etime>
+    </extensions>
+  </metadata>
+  <rte>
+    <number>2</number>
+    <rtept lat="35.955367" lon="120.207898">
+      <type>1</type>
+    </rtept>
+    <rtept lat="35.949433" lon="120.205648">
+      <type>2</type>
+    </rtept>
+  </rte>
+  <trk>
+    <trkseg>
+      <trkpt lat="35.955367" lon="120.207898">
+        <ele>4.0</ele>
+        <time>2015-11-01T06:03:16Z</time>
+      </trkpt>
+      <trkpt lat="35.955153" lon="120.207934">
+        <ele>3.8</ele>
+        <time>2015-11-01T06:03:20Z</time>
+      </trkpt>
+      <trkpt lat="35.954968" lon="120.207989">
+        <ele>3.7</ele>
+        <time>2015-11-01T06:03:24Z</time>
+      </trkpt>
+      <trkpt lat="35.954874" lon="120.207998">
+        <ele>3.5</ele>
+        <time>2015-11-01T06:03:32Z</time>
+      </trkpt>
+      <trkpt lat="35.954773" lon="120.208014">
+        <ele>3.4</ele>
+        <time>2015-11-01T06:03:36Z</time>
+      </trkpt>
+      <trkpt lat="35.954672" lon="120.208027">
+        <ele>3.3</ele>
+        <time>2015-11-01T06:03:40Z</time>
+      </trkpt>
+      <trkpt lat="35.954578" lon="120.208035">
+        <ele>3.1</ele>
+        <time>2015-11-01T06:03:44Z</time>
+      </trkpt>
+      <trkpt lat="35.954483" lon="120.208048">
+        <ele>3.0</ele>
+        <time>2015-11-01T06:03:48Z</time>
+      </trkpt>
+      <trkpt lat="35.954389" lon="120.208065">
+        <ele>3.0</ele>
+        <time>2015-11-01T06:03:52Z</time>
+      </trkpt>
+      <trkpt lat="35.954299" lon="120.208084">
+        <ele>2.9</ele>
+        <time>2015-11-01T06:03:56Z</time>
+      </trkpt>
+      <trkpt lat="35.954207" lon="120.208108">
+        <ele>2.8</ele>
+        <time>2015-11-01T06:04:00Z</time>
+      </trkpt>
+      <trkpt lat="35.954115" lon="120.208133">
+        <ele>2.5</ele>
+        <time>2015-11-01T06:04:04Z</time>
+      </trkpt>
+      <trkpt lat="35.954021" lon="120.208156">
+        <ele>2.3</ele>
+        <time>2015-11-01T06:04:08Z</time>
+      </trkpt>
+      <trkpt lat="35.95392" lon="120.20818">
+        <ele>2.2</ele>
+        <time>2015-11-01T06:04:12Z</time>
+      </trkpt>
+      <trkpt lat="35.953815" lon="120.208205">
+        <ele>2.0</ele>
+        <time>2015-11-01T06:04:16Z</time>
+      </trkpt>
+      <trkpt lat="35.953714" lon="120.208236">
+        <ele>1.9</ele>
+        <time>2015-11-01T06:04:20Z</time>
+      </trkpt>
+      <trkpt lat="35.953614" lon="120.208268">
+        <ele>1.8</ele>
+        <time>2015-11-01T06:04:24Z</time>
+      </trkpt>
+      <trkpt lat="35.953518" lon="120.208301">
+        <ele>1.7</ele>
+        <time>2015-11-01T06:04:28Z</time>
+      </trkpt>
+      <trkpt lat="35.953421" lon="120.20832">
+        <ele>1.7</ele>
+        <time>2015-11-01T06:04:32Z</time>
+      </trkpt>
+      <trkpt lat="35.953325" lon="120.208327">
+        <ele>1.6</ele>
+        <time>2015-11-01T06:04:36Z</time>
+      </trkpt>
+      <trkpt lat="35.953232" lon="120.208331">
+        <ele>1.5</ele>
+        <time>2015-11-01T06:04:40Z</time>
+      </trkpt>
+      <trkpt lat="35.953149" lon="120.20834">
+        <ele>1.4</ele>
+        <time>2015-11-01T06:04:44Z</time>
+      </trkpt>
+      <trkpt lat="35.953065" lon="120.208356">
+        <ele>1.3</ele>
+        <time>2015-11-01T06:04:48Z</time>
+      </trkpt>
+      <trkpt lat="35.952888" lon="120.208404">
+        <ele>1.2</ele>
+        <time>2015-11-01T06:04:52Z</time>
+      </trkpt>
+      <trkpt lat="35.952792" lon="120.208421">
+        <ele>1.1</ele>
+        <time>2015-11-01T06:05:00Z</time>
+      </trkpt>
+      <trkpt lat="35.95269" lon="120.208439">
+        <ele>1.1</ele>
+        <time>2015-11-01T06:05:04Z</time>
+      </trkpt>
+      <trkpt lat="35.952591" lon="120.208433">
+        <ele>1.0</ele>
+        <time>2015-11-01T06:05:08Z</time>
+      </trkpt>
+      <trkpt lat="35.952485" lon="120.208438">
+        <ele>0.9</ele>
+        <time>2015-11-01T06:05:12Z</time>
+      </trkpt>
+      <trkpt lat="35.952374" lon="120.20845">
+        <ele>0.9</ele>
+        <time>2015-11-01T06:05:16Z</time>
+      </trkpt>
+      <trkpt lat="35.95227" lon="120.208453">
+        <ele>0.8</ele>
+        <time>2015-11-01T06:05:20Z</time>
+      </trkpt>
+      <trkpt lat="35.952172" lon="120.208474">
+        <ele>0.7</ele>
+        <time>2015-11-01T06:05:24Z</time>
+      </trkpt>
+      <trkpt lat="35.952072" lon="120.208504">
+        <ele>0.7</ele>
+        <time>2015-11-01T06:05:28Z</time>
+      </trkpt>
+      <trkpt lat="35.951993" lon="120.20854">
+        <ele>0.6</ele>
+        <time>2015-11-01T06:05:32Z</time>
+      </trkpt>
+      <trkpt lat="35.951934" lon="120.2086">
+        <ele>0.5</ele>
+        <time>2015-11-01T06:05:36Z</time>
+      </trkpt>
+      <trkpt lat="35.951902" lon="120.208705">
+        <ele>0.4</ele>
+        <time>2015-11-01T06:05:40Z</time>
+      </trkpt>
+      <trkpt lat="35.951896" lon="120.208803">
+        <ele>0.4</ele>
+        <time>2015-11-01T06:05:44Z</time>
+      </trkpt>
+      <trkpt lat="35.9519" lon="120.208915">
+        <ele>0.3</ele>
+        <time>2015-11-01T06:05:48Z</time>
+      </trkpt>
+      <trkpt lat="35.951897" lon="120.209027">
+        <ele>0.3</ele>
+        <time>2015-11-01T06:05:52Z</time>
+      </trkpt>
+      <trkpt lat="35.95188" lon="120.209145">
+        <ele>0.3</ele>
+        <time>2015-11-01T06:05:56Z</time>
+      </trkpt>
+      <trkpt lat="35.951846" lon="120.209261">
+        <ele>0.3</ele>
+        <time>2015-11-01T06:06:00Z</time>
+      </trkpt>
+      <trkpt lat="35.951825" lon="120.209381">
+        <ele>0.3</ele>
+        <time>2015-11-01T06:06:04Z</time>
+      </trkpt>
+      <trkpt lat="35.951818" lon="120.20949">
+        <ele>0.3</ele>
+        <time>2015-11-01T06:06:08Z</time>
+      </trkpt>
+      <trkpt lat="35.951845" lon="120.2096">
+        <ele>0.3</ele>
+        <time>2015-11-01T06:06:12Z</time>
+      </trkpt>
+      <trkpt lat="35.951871" lon="120.209712">
+        <ele>0.4</ele>
+        <time>2015-11-01T06:06:16Z</time>
+      </trkpt>
+      <trkpt lat="35.951902" lon="120.209836">
+        <ele>0.4</ele>
+        <time>2015-11-01T06:06:20Z</time>
+      </trkpt>
+      <trkpt lat="35.951936" lon="120.209957">
+        <ele>0.5</ele>
+        <time>2015-11-01T06:06:24Z</time>
+      </trkpt>
+      <trkpt lat="35.951965" lon="120.210071">
+        <ele>0.5</ele>
+        <time>2015-11-01T06:06:28Z</time>
+      </trkpt>
+      <trkpt lat="35.951996" lon="120.210183">
+        <ele>0.6</ele>
+        <time>2015-11-01T06:06:32Z</time>
+      </trkpt>
+      <trkpt lat="35.95202" lon="120.210289">
+        <ele>0.6</ele>
+        <time>2015-11-01T06:06:36Z</time>
+      </trkpt>
+      <trkpt lat="35.952029" lon="120.21036">
+        <ele>0.6</ele>
+        <time>2015-11-01T06:06:40Z</time>
+      </trkpt>
+      <trkpt lat="35.952012" lon="120.210372">
+        <ele>0.6</ele>
+        <time>2015-11-01T06:06:44Z</time>
+      </trkpt>
+      <trkpt lat="35.951944" lon="120.210386">
+        <ele>0.6</ele>
+        <time>2015-11-01T06:07:48Z</time>
+      </trkpt>
+      <trkpt lat="35.951889" lon="120.210396">
+        <ele>0.6</ele>
+        <time>2015-11-01T06:07:52Z</time>
+      </trkpt>
+      <trkpt lat="35.951868" lon="120.210405">
+        <ele>0.6</ele>
+        <time>2015-11-01T06:07:56Z</time>
+      </trkpt>
+      <trkpt lat="35.951794" lon="120.21044">
+        <ele>0.6</ele>
+        <time>2015-11-01T06:08:12Z</time>
+      </trkpt>
+      <trkpt lat="35.951709" lon="120.210432">
+        <ele>0.6</ele>
+        <time>2015-11-01T06:08:16Z</time>
+      </trkpt>
+      <trkpt lat="35.951662" lon="120.210362">
+        <ele>0.6</ele>
+        <time>2015-11-01T06:08:20Z</time>
+      </trkpt>
+      <trkpt lat="35.951637" lon="120.21025">
+        <ele>0.6</ele>
+        <time>2015-11-01T06:08:24Z</time>
+      </trkpt>
+      <trkpt lat="35.951623" lon="120.210124">
+        <ele>0.5</ele>
+        <time>2015-11-01T06:08:28Z</time>
+      </trkpt>
+      <trkpt lat="35.951605" lon="120.210004">
+        <ele>0.5</ele>
+        <time>2015-11-01T06:08:32Z</time>
+      </trkpt>
+      <trkpt lat="35.951578" lon="120.20988">
+        <ele>0.4</ele>
+        <time>2015-11-01T06:08:36Z</time>
+      </trkpt>
+      <trkpt lat="35.951552" lon="120.209746">
+        <ele>0.3</ele>
+        <time>2015-11-01T06:08:40Z</time>
+      </trkpt>
+      <trkpt lat="35.951525" lon="120.209615">
+        <ele>0.1</ele>
+        <time>2015-11-01T06:08:44Z</time>
+      </trkpt>
+      <trkpt lat="35.951496" lon="120.209485">
+        <ele>-0.0</ele>
+        <time>2015-11-01T06:08:48Z</time>
+      </trkpt>
+      <trkpt lat="35.951466" lon="120.209353">
+        <ele>-0.2</ele>
+        <time>2015-11-01T06:08:52Z</time>
+      </trkpt>
+      <trkpt lat="35.95144" lon="120.209229">
+        <ele>-0.4</ele>
+        <time>2015-11-01T06:08:56Z</time>
+      </trkpt>
+      <trkpt lat="35.951424" lon="120.209116">
+        <ele>-0.7</ele>
+        <time>2015-11-01T06:09:00Z</time>
+      </trkpt>
+      <trkpt lat="35.951412" lon="120.209015">
+        <ele>-0.9</ele>
+        <time>2015-11-01T06:09:04Z</time>
+      </trkpt>
+      <trkpt lat="35.951364" lon="120.208801">
+        <ele>-1.1</ele>
+        <time>2015-11-01T06:09:08Z</time>
+      </trkpt>
+      <trkpt lat="35.951339" lon="120.208685">
+        <ele>-1.3</ele>
+        <time>2015-11-01T06:09:16Z</time>
+      </trkpt>
+      <trkpt lat="35.951315" lon="120.208561">
+        <ele>-1.5</ele>
+        <time>2015-11-01T06:09:20Z</time>
+      </trkpt>
+      <trkpt lat="35.95129" lon="120.208444">
+        <ele>-1.7</ele>
+        <time>2015-11-01T06:09:24Z</time>
+      </trkpt>
+      <trkpt lat="35.951272" lon="120.208329">
+        <ele>-1.8</ele>
+        <time>2015-11-01T06:09:28Z</time>
+      </trkpt>
+      <trkpt lat="35.95125" lon="120.208214">
+        <ele>-2.0</ele>
+        <time>2015-11-01T06:09:32Z</time>
+      </trkpt>
+      <trkpt lat="35.951226" lon="120.208097">
+        <ele>-2.2</ele>
+        <time>2015-11-01T06:09:36Z</time>
+      </trkpt>
+      <trkpt lat="35.951201" lon="120.207986">
+        <ele>-2.3</ele>
+        <time>2015-11-01T06:09:40Z</time>
+      </trkpt>
+      <trkpt lat="35.951173" lon="120.207893">
+        <ele>-2.4</ele>
+        <time>2015-11-01T06:09:44Z</time>
+      </trkpt>
+      <trkpt lat="35.951132" lon="120.207806">
+        <ele>-2.5</ele>
+        <time>2015-11-01T06:09:48Z</time>
+      </trkpt>
+      <trkpt lat="35.951074" lon="120.207717">
+        <ele>-2.6</ele>
+        <time>2015-11-01T06:09:52Z</time>
+      </trkpt>
+      <trkpt lat="35.951004" lon="120.207632">
+        <ele>-2.7</ele>
+        <time>2015-11-01T06:09:56Z</time>
+      </trkpt>
+      <trkpt lat="35.950942" lon="120.207548">
+        <ele>-2.7</ele>
+        <time>2015-11-01T06:10:00Z</time>
+      </trkpt>
+      <trkpt lat="35.950878" lon="120.207455">
+        <ele>-2.7</ele>
+        <time>2015-11-01T06:10:04Z</time>
+      </trkpt>
+      <trkpt lat="35.950827" lon="120.207362">
+        <ele>-2.6</ele>
+        <time>2015-11-01T06:10:08Z</time>
+      </trkpt>
+      <trkpt lat="35.95078" lon="120.207272">
+        <ele>-2.5</ele>
+        <time>2015-11-01T06:10:12Z</time>
+      </trkpt>
+      <trkpt lat="35.950726" lon="120.207184">
+        <ele>-2.4</ele>
+        <time>2015-11-01T06:10:16Z</time>
+      </trkpt>
+      <trkpt lat="35.950669" lon="120.207106">
+        <ele>-2.2</ele>
+        <time>2015-11-01T06:10:20Z</time>
+      </trkpt>
+      <trkpt lat="35.950608" lon="120.207032">
+        <ele>-2.0</ele>
+        <time>2015-11-01T06:10:24Z</time>
+      </trkpt>
+      <trkpt lat="35.950538" lon="120.206957">
+        <ele>-1.9</ele>
+        <time>2015-11-01T06:10:28Z</time>
+      </trkpt>
+      <trkpt lat="35.950478" lon="120.206887">
+        <ele>-1.7</ele>
+        <time>2015-11-01T06:10:32Z</time>
+      </trkpt>
+      <trkpt lat="35.95042" lon="120.206814">
+        <ele>-1.5</ele>
+        <time>2015-11-01T06:10:36Z</time>
+      </trkpt>
+      <trkpt lat="35.950356" lon="120.206747">
+        <ele>-1.4</ele>
+        <time>2015-11-01T06:10:40Z</time>
+      </trkpt>
+      <trkpt lat="35.950295" lon="120.206678">
+        <ele>-1.2</ele>
+        <time>2015-11-01T06:10:44Z</time>
+      </trkpt>
+      <trkpt lat="35.950236" lon="120.206613">
+        <ele>-1.0</ele>
+        <time>2015-11-01T06:10:48Z</time>
+      </trkpt>
+      <trkpt lat="35.950178" lon="120.20655">
+        <ele>-0.9</ele>
+        <time>2015-11-01T06:10:52Z</time>
+      </trkpt>
+      <trkpt lat="35.950118" lon="120.206486">
+        <ele>-0.7</ele>
+        <time>2015-11-01T06:10:56Z</time>
+      </trkpt>
+      <trkpt lat="35.950056" lon="120.206418">
+        <ele>-0.5</ele>
+        <time>2015-11-01T06:11:00Z</time>
+      </trkpt>
+      <trkpt lat="35.949989" lon="120.206346">
+        <ele>-0.4</ele>
+        <time>2015-11-01T06:11:04Z</time>
+      </trkpt>
+      <trkpt lat="35.949923" lon="120.206275">
+        <ele>-0.3</ele>
+        <time>2015-11-01T06:11:08Z</time>
+      </trkpt>
+      <trkpt lat="35.949857" lon="120.206207">
+        <ele>-0.2</ele>
+        <time>2015-11-01T06:11:12Z</time>
+      </trkpt>
+      <trkpt lat="35.949719" lon="120.206059">
+        <ele>-0.1</ele>
+        <time>2015-11-01T06:11:16Z</time>
+      </trkpt>
+      <trkpt lat="35.949652" lon="120.206016">
+        <ele>0.0</ele>
+        <time>2015-11-01T06:11:24Z</time>
+      </trkpt>
+      <trkpt lat="35.949577" lon="120.205989">
+        <ele>0.0</ele>
+        <time>2015-11-01T06:11:28Z</time>
+      </trkpt>
+      <trkpt lat="35.949498" lon="120.205956">
+        <ele>0.0</ele>
+        <time>2015-11-01T06:11:32Z</time>
+      </trkpt>
+      <trkpt lat="35.949419" lon="120.205908">
+        <ele>0.0</ele>
+        <time>2015-11-01T06:11:36Z</time>
+      </trkpt>
+      <trkpt lat="35.949346" lon="120.20585">
+        <ele>0.0</ele>
+        <time>2015-11-01T06:11:40Z</time>
+      </trkpt>
+      <trkpt lat="35.949298" lon="120.205793">
+        <ele>0.0</ele>
+        <time>2015-11-01T06:11:44Z</time>
+      </trkpt>
+      <trkpt lat="35.949299" lon="120.205759">
+        <ele>0.0</ele>
+        <time>2015-11-01T06:11:48Z</time>
+      </trkpt>
+      <trkpt lat="35.949334" lon="120.205761">
+        <ele>0.0</ele>
+        <time>2015-11-01T06:15:24Z</time>
+      </trkpt>
+      <trkpt lat="35.949361" lon="120.205721">
+        <ele>0.0</ele>
+        <time>2015-11-01T06:15:28Z</time>
+      </trkpt>
+      <trkpt lat="35.949392" lon="120.205686">
+        <ele>0.0</ele>
+        <time>2015-11-01T06:15:32Z</time>
+      </trkpt>
+      <trkpt lat="35.94942" lon="120.205658">
+        <ele>0.0</ele>
+        <time>2015-11-01T06:15:36Z</time>
+      </trkpt>
+      <trkpt lat="35.949433" lon="120.205648">
+        <ele>0.0</ele>
+        <time>2015-11-01T06:15:40Z</time>
+      </trkpt>
+      <extensions>
+        <breaktype>2</breaktype>
+      </extensions>
+    </trkseg>
+  </trk>
+  <extensions>
+    <ssrlog>
+      <logseg>
+        <logpt time="2015-11-01T06:01:07Z">
+          <spd>7.2</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:11Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:15Z">
+          <spd>11.3</spd>
+          <str>32.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:19Z">
+          <spd>10.8</spd>
+          <str>51.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:23Z">
+          <spd>9.9</spd>
+          <str>58.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:27Z">
+          <spd>10.8</spd>
+          <str>63.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:31Z">
+          <spd>9.9</spd>
+          <str>66.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:35Z">
+          <spd>10.8</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:39Z">
+          <spd>9.9</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:43Z">
+          <spd>10.8</spd>
+          <str>74.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:47Z">
+          <spd>10.8</spd>
+          <str>75.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:51Z">
+          <spd>9.9</spd>
+          <str>76.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:55Z">
+          <spd>10.8</spd>
+          <str>77.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:01:59Z">
+          <spd>9.9</spd>
+          <str>78.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:03Z">
+          <spd>10.8</spd>
+          <str>79.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:07Z">
+          <spd>10.8</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:11Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:15Z">
+          <spd>10.8</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:19Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:23Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:27Z">
+          <spd>9.9</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:31Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:35Z">
+          <spd>10.8</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:39Z">
+          <spd>9.9</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:43Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:47Z">
+          <spd>9.0</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:51Z">
+          <spd>9.0</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:55Z">
+          <spd>9.9</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:02:59Z">
+          <spd>10.8</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:03Z">
+          <spd>9.9</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:07Z">
+          <spd>9.9</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:11Z">
+          <spd>5.8</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:15Z">
+          <spd>8.6</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:16Z">
+          <spd>9.4</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:20Z">
+          <spd>9.4</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:24Z">
+          <spd>9.4</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:28Z">
+          <spd>9.0</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:32Z">
+          <spd>9.4</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:36Z">
+          <spd>9.9</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:40Z">
+          <spd>9.9</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:44Z">
+          <spd>9.4</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:48Z">
+          <spd>9.4</spd>
+          <str>85.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:52Z">
+          <spd>9.4</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:03:56Z">
+          <spd>9.4</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:00Z">
+          <spd>9.4</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:04Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:08Z">
+          <spd>9.4</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:12Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:16Z">
+          <spd>9.9</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:20Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:24Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:28Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:32Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:36Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:40Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:44Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:48Z">
+          <spd>9.0</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:52Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:04:56Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:00Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:04Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:08Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:12Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:16Z">
+          <spd>10.3</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:20Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:24Z">
+          <spd>10.3</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:28Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:32Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:36Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:40Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:44Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:48Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:52Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:05:56Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:00Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:04Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:08Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:12Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:16Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:20Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:24Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:28Z">
+          <spd>9.9</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:32Z">
+          <spd>9.9</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:36Z">
+          <spd>9.4</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:40Z">
+          <spd>8.1</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:44Z">
+          <spd>0.0</spd>
+          <str>82.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:48Z">
+          <spd>0.0</spd>
+          <str>79.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:52Z">
+          <spd>0.0</spd>
+          <str>79.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:06:56Z">
+          <spd>0.0</spd>
+          <str>77.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:00Z">
+          <spd>0.0</spd>
+          <str>76.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:04Z">
+          <spd>0.0</spd>
+          <str>75.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:08Z">
+          <spd>0.0</spd>
+          <str>74.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:12Z">
+          <spd>0.0</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:16Z">
+          <spd>0.0</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:20Z">
+          <spd>0.0</spd>
+          <str>68.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:24Z">
+          <spd>0.0</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:28Z">
+          <spd>0.0</spd>
+          <str>63.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:32Z">
+          <spd>0.0</spd>
+          <str>61.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:36Z">
+          <spd>0.0</spd>
+          <str>59.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:40Z">
+          <spd>0.0</spd>
+          <str>59.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:44Z">
+          <spd>1.8</spd>
+          <str>62.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:48Z">
+          <spd>3.6</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:52Z">
+          <spd>4.5</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:07:56Z">
+          <spd>3.1</spd>
+          <str>63.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:00Z">
+          <spd>0.0</spd>
+          <str>59.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:04Z">
+          <spd>0.0</spd>
+          <str>59.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:08Z">
+          <spd>0.0</spd>
+          <str>55.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:12Z">
+          <spd>4.5</spd>
+          <str>56.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:16Z">
+          <spd>6.3</spd>
+          <str>59.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:20Z">
+          <spd>7.7</spd>
+          <str>61.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:24Z">
+          <spd>8.1</spd>
+          <str>62.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:28Z">
+          <spd>9.0</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:32Z">
+          <spd>9.4</spd>
+          <str>67.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:36Z">
+          <spd>10.3</spd>
+          <str>70.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:40Z">
+          <spd>10.8</spd>
+          <str>71.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:44Z">
+          <spd>10.8</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:48Z">
+          <spd>10.8</spd>
+          <str>72.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:52Z">
+          <spd>10.8</spd>
+          <str>74.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:08:56Z">
+          <spd>10.3</spd>
+          <str>79.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:00Z">
+          <spd>9.9</spd>
+          <str>86.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:04Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:08Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:12Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:16Z">
+          <spd>9.4</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:20Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:24Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:28Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:32Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:36Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:40Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:44Z">
+          <spd>9.0</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:48Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:52Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:09:56Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:00Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:04Z">
+          <spd>9.4</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:08Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:12Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:16Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:20Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:24Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:28Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:32Z">
+          <spd>9.0</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:36Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:40Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:44Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:48Z">
+          <spd>8.6</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:52Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:10:56Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:00Z">
+          <spd>8.1</spd>
+          <str>88.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:04Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:08Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:12Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:16Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:20Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:24Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:28Z">
+          <spd>8.1</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:32Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:36Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:40Z">
+          <spd>8.6</spd>
+          <str>87.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:44Z">
+          <spd>7.7</spd>
+          <str>84.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:48Z">
+          <spd>7.7</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:52Z">
+          <spd>0.0</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:11:56Z">
+          <spd>0.0</spd>
+          <str>83.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:00Z">
+          <spd>0.0</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:04Z">
+          <spd>0.0</spd>
+          <str>69.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:08Z">
+          <spd>0.0</spd>
+          <str>65.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:12Z">
+          <spd>0.0</spd>
+          <str>64.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:16Z">
+          <spd>0.0</spd>
+          <str>61.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:20Z">
+          <spd>0.0</spd>
+          <str>59.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:24Z">
+          <spd>0.0</spd>
+          <str>57.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:28Z">
+          <spd>0.0</spd>
+          <str>56.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:32Z">
+          <spd>0.0</spd>
+          <str>56.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:36Z">
+          <spd>0.0</spd>
+          <str>47.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:40Z">
+          <spd>0.0</spd>
+          <str>46.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:44Z">
+          <spd>0.0</spd>
+          <str>46.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:48Z">
+          <spd>0.0</spd>
+          <str>40.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:52Z">
+          <spd>0.0</spd>
+          <str>40.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:12:56Z">
+          <spd>0.0</spd>
+          <str>43.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:00Z">
+          <spd>0.0</spd>
+          <str>43.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:04Z">
+          <spd>0.0</spd>
+          <str>43.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:08Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:12Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:16Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:20Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:24Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:28Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:32Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:36Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:40Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:44Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:48Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:52Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:13:56Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:00Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:04Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:08Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:12Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:16Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:20Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:24Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:28Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:32Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:36Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:40Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:44Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:48Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:52Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:14:56Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:00Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:04Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:08Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:12Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:16Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:20Z">
+          <spd>0.5</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:24Z">
+          <spd>0.9</spd>
+          <str>13.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:28Z">
+          <spd>3.6</spd>
+          <str>31.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:32Z">
+          <spd>3.6</spd>
+          <str>37.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:36Z">
+          <spd>3.6</spd>
+          <str>36.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:40Z">
+          <spd>2.7</spd>
+          <str>37.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:44Z">
+          <spd>0.0</spd>
+          <str>37.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:48Z">
+          <spd>0.0</spd>
+          <str>37.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:52Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:15:56Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:00Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:04Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:08Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:12Z">
+          <spd>0.0</spd>
+          <str>23.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:16Z">
+          <spd>0.0</spd>
+          <str>23.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:20Z">
+          <spd>0.0</spd>
+          <str>23.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:24Z">
+          <spd>0.0</spd>
+          <str>23.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:28Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:32Z">
+          <spd>0.0</spd>
+          <str>14.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:36Z">
+          <spd>0.0</spd>
+          <str>13.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:40Z">
+          <spd>0.0</spd>
+          <str>24.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:44Z">
+          <spd>0.0</spd>
+          <str>28.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:48Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:52Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:16:56Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:00Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:04Z">
+          <spd>0.0</spd>
+          <str>27.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:08Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:12Z">
+          <spd>0.0</spd>
+          <str>31.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:16Z">
+          <spd>0.0</spd>
+          <str>30.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:20Z">
+          <spd>0.0</spd>
+          <str>30.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:24Z">
+          <spd>0.0</spd>
+          <str>30.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:28Z">
+          <spd>0.0</spd>
+          <str>30.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:32Z">
+          <spd>0.0</spd>
+          <str>30.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:36Z">
+          <spd>0.0</spd>
+          <str>28.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:40Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:44Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:48Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:52Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:17:56Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:00Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:04Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:08Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:12Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:16Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:20Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:24Z">
+          <spd>0.0</spd>
+          <str>8.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:28Z">
+          <spd>0.0</spd>
+          <str>12.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:32Z">
+          <spd>0.0</spd>
+          <str>13.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:36Z">
+          <spd>0.0</spd>
+          <str>13.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:40Z">
+          <spd>0.0</spd>
+          <str>40.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:44Z">
+          <spd>0.0</spd>
+          <str>39.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:48Z">
+          <spd>0.0</spd>
+          <str>37.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:52Z">
+          <spd>0.0</spd>
+          <str>37.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:18:56Z">
+          <spd>0.0</spd>
+          <str>36.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:00Z">
+          <spd>0.0</spd>
+          <str>33.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:04Z">
+          <spd>0.0</spd>
+          <str>34.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:08Z">
+          <spd>0.0</spd>
+          <str>34.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:12Z">
+          <spd>0.0</spd>
+          <str>34.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:16Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:20Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:24Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:28Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:32Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:36Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:40Z">
+          <spd>0.0</spd>
+          <str>19.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:44Z">
+          <spd>0.0</spd>
+          <str>19.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:48Z">
+          <spd>0.0</spd>
+          <str>21.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:52Z">
+          <spd>0.0</spd>
+          <str>21.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:19:56Z">
+          <spd>0.0</spd>
+          <str>22.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:00Z">
+          <spd>0.0</spd>
+          <str>22.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:04Z">
+          <spd>0.0</spd>
+          <str>18.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:08Z">
+          <spd>0.0</spd>
+          <str>18.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:12Z">
+          <spd>0.0</spd>
+          <str>18.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:16Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:20Z">
+          <spd>0.0</spd>
+          <str>19.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:24Z">
+          <spd>0.0</spd>
+          <str>19.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:28Z">
+          <spd>0.0</spd>
+          <str>19.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:32Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:36Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:40Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:44Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:48Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:52Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:20:56Z">
+          <spd>0.0</spd>
+          <str>4.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:00Z">
+          <spd>0.0</spd>
+          <str>4.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:04Z">
+          <spd>0.0</spd>
+          <str>6.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:08Z">
+          <spd>0.0</spd>
+          <str>6.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:12Z">
+          <spd>0.0</spd>
+          <str>6.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:16Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:20Z">
+          <spd>0.0</spd>
+          <str>7.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:24Z">
+          <spd>0.0</spd>
+          <str>7.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:28Z">
+          <spd>0.0</spd>
+          <str>7.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:32Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:36Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:40Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:44Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:48Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:52Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:21:56Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:00Z">
+          <spd>0.0</spd>
+          <str>5.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:04Z">
+          <spd>0.0</spd>
+          <str>5.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:08Z">
+          <spd>0.0</spd>
+          <str>5.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:12Z">
+          <spd>0.0</spd>
+          <str>8.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:16Z">
+          <spd>0.0</spd>
+          <str>12.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:20Z">
+          <spd>0.0</spd>
+          <str>44.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:24Z">
+          <spd>0.0</spd>
+          <str>45.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:28Z">
+          <spd>0.0</spd>
+          <str>45.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:32Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:36Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:40Z">
+          <spd>0.0</spd>
+          <str>30.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:44Z">
+          <spd>0.0</spd>
+          <str>32.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:48Z">
+          <spd>0.0</spd>
+          <str>33.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:52Z">
+          <spd>0.0</spd>
+          <str>33.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:22:56Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:00Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:04Z">
+          <spd>0.0</spd>
+          <str>32.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:08Z">
+          <spd>0.0</spd>
+          <str>32.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:12Z">
+          <spd>0.0</spd>
+          <str>28.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:16Z">
+          <spd>0.0</spd>
+          <str>26.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:20Z">
+          <spd>0.0</spd>
+          <str>25.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:24Z">
+          <spd>0.0</spd>
+          <str>31.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:28Z">
+          <spd>0.0</spd>
+          <str>32.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:32Z">
+          <spd>0.0</spd>
+          <str>32.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:36Z">
+          <spd>0.0</spd>
+          <str>34.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:40Z">
+          <spd>0.0</spd>
+          <str>34.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:44Z">
+          <spd>0.0</spd>
+          <str>34.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:48Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:52Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:23:56Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:00Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:04Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:08Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:12Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:16Z">
+          <spd>0.0</spd>
+          <str>18.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:20Z">
+          <spd>0.0</spd>
+          <str>19.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:24Z">
+          <spd>0.0</spd>
+          <str>19.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:28Z">
+          <spd>0.0</spd>
+          <str>13.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:32Z">
+          <spd>0.0</spd>
+          <str>13.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:36Z">
+          <spd>0.0</spd>
+          <str>13.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:40Z">
+          <spd>0.0</spd>
+          <str>13.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:44Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:48Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:52Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:24:56Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:00Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:04Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:08Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:12Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:16Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:20Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:24Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:28Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:32Z">
+          <spd>0.0</spd>
+          <str>5.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:36Z">
+          <spd>0.0</spd>
+          <str>5.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:40Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:44Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:48Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:52Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:25:56Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:00Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:04Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:08Z">
+          <spd>0.0</spd>
+          <str>6.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:12Z">
+          <spd>0.0</spd>
+          <str>9.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:16Z">
+          <spd>0.0</spd>
+          <str>9.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:20Z">
+          <spd>0.0</spd>
+          <str>9.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:24Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:28Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:32Z">
+          <spd>0.0</spd>
+          <str>8.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:36Z">
+          <spd>0.0</spd>
+          <str>8.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:40Z">
+          <spd>0.0</spd>
+          <str>8.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:44Z">
+          <spd>0.0</spd>
+          <str>18.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:48Z">
+          <spd>0.0</spd>
+          <str>18.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:52Z">
+          <spd>0.0</spd>
+          <str>18.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:26:56Z">
+          <spd>0.0</spd>
+          <str>16.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:00Z">
+          <spd>0.0</spd>
+          <str>16.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:04Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:08Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:12Z">
+          <spd>0.0</spd>
+          <str>13.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:16Z">
+          <spd>0.0</spd>
+          <str>20.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:20Z">
+          <spd>0.0</spd>
+          <str>23.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:24Z">
+          <spd>0.0</spd>
+          <str>23.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:28Z">
+          <spd>0.0</spd>
+          <str>24.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:32Z">
+          <spd>0.0</spd>
+          <str>24.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:36Z">
+          <spd>0.0</spd>
+          <str>23.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:40Z">
+          <spd>0.0</spd>
+          <str>24.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:44Z">
+          <spd>0.0</spd>
+          <str>23.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:48Z">
+          <spd>0.0</spd>
+          <str>23.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:52Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:27:56Z">
+          <spd>0.0</spd>
+          <str>26.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:00Z">
+          <spd>0.0</spd>
+          <str>26.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:04Z">
+          <spd>0.0</spd>
+          <str>25.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:08Z">
+          <spd>0.0</spd>
+          <str>25.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:12Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:16Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:20Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:24Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:28Z">
+          <spd>0.0</spd>
+          <str>13.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:32Z">
+          <spd>0.0</spd>
+          <str>14.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:36Z">
+          <spd>0.0</spd>
+          <str>14.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:40Z">
+          <spd>0.0</spd>
+          <str>14.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:44Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:48Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:52Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:28:56Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:00Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:04Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:08Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:12Z">
+          <spd>0.0</spd>
+          <str>9.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:16Z">
+          <spd>0.0</spd>
+          <str>9.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:20Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:24Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:28Z">
+          <spd>0.0</spd>
+          <str>0.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:32Z">
+          <spd>0.0</spd>
+          <str>7.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:36Z">
+          <spd>0.0</spd>
+          <str>7.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:40Z">
+          <spd>0.0</spd>
+          <str>7.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:44Z">
+          <spd>0.0</spd>
+          <str>13.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:48Z">
+          <spd>0.0</spd>
+          <str>16.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:52Z">
+          <spd>0.0</spd>
+          <str>15.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:29:56Z">
+          <spd>0.0</spd>
+          <str>16.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:30:00Z">
+          <spd>0.0</spd>
+          <str>16.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:30:04Z">
+          <spd>0.0</spd>
+          <str>18.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:30:08Z">
+          <spd>0.0</spd>
+          <str>20.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:30:12Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:30:16Z">
+          <spd>0.0</spd>
+          <str>30.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:30:20Z">
+          <spd>0.0</spd>
+          <str>29.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:30:24Z">
+          <spd>0.0</spd>
+          <str>31.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:30:28Z">
+          <spd>0.0</spd>
+          <str>33.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:30:32Z">
+          <spd>0.0</spd>
+          <str>32.0</str>
+        </logpt>
+        <logpt time="2015-11-01T06:30:36Z">
+          <spd>0.0</spd>
+          <str>36.0</str>
+        </logpt>
+        <breaktype>2</breaktype>
+      </logseg>
+    </ssrlog>
+    <laps>
+      <summary start="2015-11-01T06:01:07Z" type="0" end="2015-11-01T06:30:43Z" isautolap="0">
+        <distance>1452</distance>
+        <calorie>269</calorie>
+        <speed max="10.35" avg="9.0"/>
+        <cad max="88" avg="88"/>
+        <rtime>580</rtime>
+        <acttype subtype="0">1</acttype>
+      </summary>
+    </laps>
+  </extensions>
+</gpx>
