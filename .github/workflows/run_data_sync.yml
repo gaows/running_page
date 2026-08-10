@@ -28,7 +28,7 @@ env:
   # please change to your own config.
   RUN_TYPE: strava
   ATHLETE: Timothy
-  TITLE: "Timothy\'s running page"
+  TITLE: "Timothy's running page"
   MIN_GRID_DISTANCE: 10 # change min distance here
   TITLE_GRID: Over 10km Runs # also here
 
@@ -232,7 +232,7 @@ jobs:
       - name: Make svg GitHub profile
         if: env.RUN_TYPE != 'pass'
         env:
-          TITLE: "Timothy\'s running page"
+          TITLE: "Timothy's running page"
           TITLE_GRID: ${{ env.TITLE_GRID }}
           ATHLETE: Timothy
           MIN_GRID_DISTANCE: ${{ env.MIN_GRID_DISTANCE }}
