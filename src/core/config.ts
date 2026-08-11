@@ -20,6 +20,7 @@ interface AppConfig {
   goals: Record<string, GoalConfig>;
   avatar?: string;
   mapbox_token?: string;
+  maptiler_key?: string;
 }
 
 const config = rawConfig as unknown as AppConfig;
@@ -38,3 +39,5 @@ export const DEFAULT_GOAL: GoalConfig = GOALS.all ?? {
 export const AVATAR: string = config.avatar ?? '';
 export const MAPBOX_TOKEN: string =
   import.meta.env.VITE_MAPBOX_TOKEN || config.mapbox_token || '';
+export const MAPTILER_KEY: string =
+  import.meta.env.VITE_MAPTILER_KEY || config.maptiler_key || '';

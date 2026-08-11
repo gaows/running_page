@@ -1,9 +1,9 @@
 import { useEffect, useRef } from 'react';
-import mapboxgl from 'mapbox-gl';
-import 'mapbox-gl/dist/mapbox-gl.css';
+import * as maplibregl from 'maplibre-gl';
+import 'maplibre-gl/dist/maplibre-gl.css';
 import * as polyline from '@mapbox/polyline';
 import type { Activity } from '../types';
-import { MAPBOX_TOKEN } from '../config';
+import { MAPTILER_KEY } from '../config';
 
 interface RouteMapProps {
   activities: Activity[];
@@ -19,12 +19,12 @@ export function RouteMap({
   onClearSelection,
 }: RouteMapProps) {
   const mapContainer = useRef<HTMLDivElement>(null);
-  const map = useRef<mapboxgl.Map | null>(null);
+  const map = useRef<maplibregl.Map | null>(null);
 
   const style =
     dark !== false
-      ? 'mapbox://styles/mapbox/dark-v11'
-      : 'mapbox://styles/mapbox/light-v11';
+      ? `https://api.maptiler.com/maps/dataviz-dark/style.json?key=${MAPTILER_KEY}`
+      : `https://api.maptiler.com/maps/streets-v2/style.json?key=${MAPTILER_KEY}`;
 
   // Declared before the effects that reference it (react-hooks/immutability).
   function updateRoutes() {
@@ -56,13 +56,14 @@ export function RouteMap({
         type: 'line',
         source: 'selected',
         paint: {
-          'line-color': selectedActivity.type === 'Run' ? '#f97316' : '#3b82f6',
+          'line-color':
+            selectedActivity.type === 'Run' ? '#f97316' : '#3b82f6',
           'line-width': 3,
           'line-opacity': 0.9,
         },
       });
 
-      const bounds = new mapboxgl.LngLatBounds();
+      const bounds = new maplibregl.LngLatBounds();
       for (const c of coords) bounds.extend(c as [number, number]);
       map.current.fitBounds(bounds, { padding: 50, maxZoom: 14 });
       return;
@@ -133,7 +134,7 @@ export function RouteMap({
     const lngs = allCoords.map((c) => c[0]).sort((a, b) => a - b);
     const lats = allCoords.map((c) => c[1]).sort((a, b) => a - b);
 
-    const bounds = new mapboxgl.LngLatBounds(
+    const bounds = new maplibregl.LngLatBounds(
       [lngs[trimCount], lats[trimCount]],
       [lngs[lngs.length - 1 - trimCount], lats[lats.length - 1 - trimCount]]
     );
@@ -142,23 +143,22 @@ export function RouteMap({
   }
 
   useEffect(() => {
-    if (!mapContainer.current || !MAPBOX_TOKEN) return;
+    if (!mapContainer.current || !MAPTILER_KEY) return;
 
     if (map.current) {
       map.current.setStyle(style);
       return;
     }
 
-    mapboxgl.accessToken = MAPBOX_TOKEN;
-    map.current = new mapboxgl.Map({
+    map.current = new maplibregl.Map({
       container: mapContainer.current,
       style,
       center: [121.4, 31.2],
       zoom: 10,
     });
 
-    map.current.addControl(new mapboxgl.NavigationControl(), 'top-right');
-    map.current.addControl(new mapboxgl.FullscreenControl(), 'top-right');
+    map.current.addControl(new maplibregl.NavigationControl(), 'top-right');
+    map.current.addControl(new maplibregl.FullscreenControl(), 'top-right');
 
     map.current.on('style.load', () => {
       updateRoutes();
@@ -201,7 +201,7 @@ export function RouteMap({
           Overview
         </button>
       )}
-      {!MAPBOX_TOKEN && (
+      {!MAPTILER_KEY && (
         <div className="absolute inset-0 z-10 flex flex-col items-center justify-center gap-1 text-center text-[var(--color-muted)]">
           <svg
             className="h-6 w-6"
@@ -222,7 +222,7 @@ export function RouteMap({
       <div
         ref={mapContainer}
         className="h-full w-full"
-        style={!MAPBOX_TOKEN ? { visibility: 'hidden' } : undefined}
+        style={!MAPTILER_KEY ? { visibility: 'hidden' } : undefined}
       />
     </div>
   );
