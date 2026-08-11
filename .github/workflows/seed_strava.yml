@@ -1,0 +1,73 @@
+name: Seed Strava baseline into data.db (remove Nike GPX)
+
+on:
+  workflow_dispatch:
+
+env:
+  TITLE: "Timothy's running page"
+  TITLE_GRID: Over 10km Runs
+  ATHLETE: Timothy
+  MIN_GRID_DISTANCE: 10
+  BIRTHDAY_MONTH: 1989-03
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install "git+https://github.com/flopp/GpxTrackPoster.git"
+
+      - name: Remove Nike GPX (13-digit ids) from GPX_OUT
+        run: |
+          for f in GPX_OUT/*.gpx; do
+            b=$(basename "$f" .gpx)
+            if [ ${#b} -eq 13 ] && [[ "$b" =~ ^[0-9]+$ ]]; then
+              git rm "$f"
+            elif [ -z "$b" ]; then
+              git rm "$f"
+            fi
+          done
+
+      - name: Seed Strava into data.db via gpx_sync
+        run: |
+          python run_page/gpx_sync.py
+
+      - name: Verify activities count (expect 282)
+        run: |
+          python -c "import json; d=json.load(open('src/static/activities.json')); print('activities:', len(d))"
+
+      - name: Regenerate SVG posters from data.db (282 Strava baseline)
+        run: |
+          python run_page/gen_svg.py --from-db --title "$TITLE" --type github --github-style "align-firstday" --athlete "$ATHLETE" --special-distance 10 --special-distance2 20 --special-color yellow --special-color2 red --output assets/github.svg --use-localtime --min-distance 0.5
+          python run_page/gen_svg.py --from-db --title "$TITLE_GRID" --type grid --athlete "$ATHLETE" --output assets/grid.svg --special-color yellow --special-color2 red --special-distance 20 --special-distance2 40 --use-localtime --min-distance "$MIN_GRID_DISTANCE"
+          python run_page/gen_svg.py --from-db --type circular --use-localtime --output assets/circular.svg
+          python run_page/gen_svg.py --from-db --year $(date +"%Y") --language zh_CN --title "$(date +"%Y") Running" --type github --github-style "align-firstday" --athlete "$ATHLETE" --special-distance 10 --special-distance2 20 --special-color yellow --special-color2 red --output assets/github_$(date +"%Y").svg --use-localtime --min-distance 0.5
+          python run_page/gen_svg.py --from-db --type monthoflife --birth "$BIRTHDAY_MONTH" --special-color "#f9d367" --special-color2 "#f0a1a8" --output assets/mol_running.svg --use-localtime --athlete "$ATHLETE" --title "Runner Month of Life" --sport-type running
+          python run_page/gen_svg.py --from-db --type monthoflife --birth "$BIRTHDAY_MONTH" --special-color "#f9d367" --special-color2 "#f0a1a8" --output assets/mol_walking.svg --use-localtime --athlete "$ATHLETE" --title "Walker Month of Life" --sport-type walking
+          python run_page/gen_svg.py --from-db --type monthoflife --birth "$BIRTHDAY_MONTH" --special-color "#f9d367" --special-color2 "#f0a1a8" --output assets/mol_hiking.svg --use-localtime --athlete "$ATHLETE" --title "Hiker Month of Life" --sport-type hiking
+          python run_page/gen_svg.py --from-db --type monthoflife --birth "$BIRTHDAY_MONTH" --special-color "#f9d367" --special-color2 "#f0a1a8" --output assets/mol_cycling.svg --use-localtime --athlete "$ATHLETE" --title "Cyclist Month of Life" --sport-type cycling
+          python run_page/gen_svg.py --from-db --type monthoflife --birth "$BIRTHDAY_MONTH" --special-color "#f9d367" --special-color2 "#f0a1a8" --output assets/mol.svg --use-localtime --athlete "$ATHLETE" --title "Month of Life" --sport-type all
+          python run_page/gen_svg.py --from-db --type monthoflife --birth "$BIRTHDAY_MONTH" --special-color "#f9d367" --special-color2 "#f0a1a8" --output assets/mol_swimming.svg --use-localtime --athlete "$ATHLETE" --title "Swimmer Month of Life" --sport-type swimming
+          python run_page/gen_svg.py --from-db --type monthoflife --birth "$BIRTHDAY_MONTH" --special-color "#f9d367" --special-color2 "#f0a1a8" --output assets/mol_skiing.svg --use-localtime --athlete "$ATHLETE" --title "Skier Month of Life" --sport-type skiing
+          python run_page/gen_svg.py --from-db --type year_summary --output assets/year_summary.svg --athlete "$ATHLETE"
+
+      - name: Commit seeded data.db, cleaned GPX_OUT and regenerated SVGs
+        run: |
+          git config --local user.email 'action@github.com'
+          git config --local user.name 'GitHub Action'
+          git add -A
+          git commit -m 'seed: 282 Strava into data.db, remove Nike GPX' || echo 'nothing to commit'
+          git push || echo 'nothing to push'
