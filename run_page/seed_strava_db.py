@@ -66,10 +66,9 @@ class RunActivity:
 
 
 def is_nike(a):
-    if a.get("name") == "run from nike":
-        return True
-    rid = str(a.get("run_id", ""))
-    return len(rid) == 13 and rid.isdigit()
+    # Nike activities are unambiguously marked by this name; do NOT rely on
+    # run_id length (Strava ids in this dataset are also 13-digit timestamps).
+    return a.get("name") == "run from nike"
 
 
 def main():
@@ -80,6 +79,9 @@ def main():
     print(f"[seed] total in activities.json: {len(data)}, strava to seed: {len(strava)}")
 
     session = init_db(SQL_FILE)
+    # Rebuild the baseline from scratch so data.db never accumulates stale rows.
+    session.query(Activity).delete()
+    session.commit()
     new = 0
     for a in strava:
         try:
