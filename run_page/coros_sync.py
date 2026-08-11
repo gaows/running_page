@@ -10,10 +10,20 @@ import httpx
 from config import JSON_FILE, SQL_FILE, FOLDER_DICT
 from utils import make_activities_file
 
+# Coros servers: region "2" = China (teamcnapi.coros.com), "1" = international (teamapi.coros.com)
+# Default to international because this account is a global Coros account. Set COROS_REGION=2 for China.
+COROS_REGION = os.environ.get("COROS_REGION", "1")
+if COROS_REGION == "2":
+    _COROS_DOMAIN = "teamcnapi.coros.com"
+    _COROS_REGION_COOKIE = "2"
+else:
+    _COROS_DOMAIN = "teamapi.coros.com"
+    _COROS_REGION_COOKIE = "1"
+
 COROS_URL_DICT = {
-    "LOGIN_URL": "https://teamcnapi.coros.com/account/login",
-    "DOWNLOAD_URL": "https://teamcnapi.coros.com/activity/detail/download",
-    "ACTIVITY_LIST": "https://teamcnapi.coros.com/activity/query",
+    "LOGIN_URL": f"https://{_COROS_DOMAIN}/account/login",
+    "DOWNLOAD_URL": f"https://{_COROS_DOMAIN}/activity/detail/download",
+    "ACTIVITY_LIST": f"https://{_COROS_DOMAIN}/activity/query",
 }
 
 COROS_TYPE_DICT = {
@@ -36,7 +46,7 @@ class Coros:
     async def login(self):
         url = COROS_URL_DICT.get("LOGIN_URL")
         headers = {
-            "authority": "teamcnapi.coros.com",
+            "authority": _COROS_DOMAIN,
             "accept": "application/json, text/plain, */*",
             "accept-language": "zh-CN,zh;q=0.9",
             "content-type": "application/json;charset=UTF-8",
@@ -62,7 +72,7 @@ class Coros:
                 )
             self.headers = {
                 "accesstoken": access_token,
-                "cookie": f"CPL-coros-region=2; CPL-coros-token={access_token}",
+                "cookie": f"CPL-coros-region={_COROS_REGION_COOKIE}; CPL-coros-token={access_token}",
             }
             self.is_only_running = is_only_running
             self.req = httpx.AsyncClient(timeout=TIME_OUT, headers=self.headers)
