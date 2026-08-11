@@ -28,7 +28,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-          pip install gpxtrackposter
+          pip install "git+https://github.com/flopp/GpxTrackPoster.git"
 
       - name: Remove Nike GPX (13-digit ids) from local checkout
         run: |
