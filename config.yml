@@ -1,0 +1,39 @@
+# Running Page 3.0 配置文件
+# 修改此文件即可完成个性化设置，无需改动源代码。
+
+# ── 地图 ──────────────────────────────────────────────────────────────────────
+
+# Mapbox token 通过 GitHub Actions Secret (MAPBOX_TOKEN) 注入构建期环境变量
+# VITE_MAPBOX_TOKEN，避免明文写在仓库里。如需自有地图样式，请在该 Secret 中替换。
+# mapbox_token 留空，构建时回退到 VITE_MAPBOX_TOKEN。
+
+# ── 外观 ─────────────────────────────────────────────────────────────────────
+
+# 头像 URL（支持本地路径或远程图片链接）
+avatar: 'https://gaows.github.io/running_page/avatar.jpg'
+
+# 默认语言：zh（中文）| en（英文）
+locale: zh
+
+# 默认主题：system（跟随系统）| light（浅色）| dark（深色）
+theme: dark
+
+# ── 主题预设 ──────────────────────────────────────────────────────────────────
+# 可选值：dashboard（3.0 Dashboard 风格）| classic（旧版多页面风格）| 自定义主题名
+theme_preset: dashboard
+
+# ── 运动目标 ──────────────────────────────────────────────────────────────────
+# unit: distance → 单位 km
+
+goals:
+  all:
+    yearly: 2400
+    monthly: 200
+    weekly: 45
+    unit: distance
+
+  Run:
+    yearly: 2400
+    monthly: 200
+    weekly: 45
+    unit: distance

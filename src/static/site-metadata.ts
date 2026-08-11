@@ -15,18 +15,18 @@ const getBasePath = () => {
 };
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'The Flash',
+  siteTitle: "Timothy's Running Page",
   siteUrl: 'https://gaows.github.io/running_page/',
   logo: 'https://gaows.github.io/running_page/avatar.jpg',
-  description: 'Personal site and blog',
+  description: 'Timothy running page',
   navLinks: [
     {
       name: 'Home',
-      url: `${getBasePath()}/summary`,
+      url: `${getBasePath()}/`,
     },
     {
-      name: 'About',
-      url: 'https://about.me/gaows',
+      name: 'GitHub',
+      url: 'https://github.com/gaows',
     },
   ],
 };
