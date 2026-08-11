@@ -17,7 +17,7 @@ const getBasePath = () => {
 const data: ISiteMetadataResult = {
   siteTitle: "Timothy's Running Page",
   siteUrl: 'https://gaows.github.io/running_page/',
-  logo: 'https://gaows.github.io/running_page/avatar.jpg',
+  logo: 'avatar.jpg',
   description: 'Timothy running page',
   navLinks: [
     {

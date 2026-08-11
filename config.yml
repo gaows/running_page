@@ -16,7 +16,8 @@ maptiler_key: '2vWMzWMpWhWiZWDOeH32'
 # ── 外观 ─────────────────────────────────────────────────────────────────────
 
 # 头像 URL（支持本地路径或远程图片链接）
-avatar: 'https://gaows.github.io/running_page/avatar.jpg'
+# 本地图片放 public/avatar.jpg，这里填相对路径 'avatar.jpg' 即可（部署后跟随站点，不依赖外链）
+avatar: 'avatar.jpg'
 
 # 默认语言：zh（中文）| en（英文）
 locale: zh
