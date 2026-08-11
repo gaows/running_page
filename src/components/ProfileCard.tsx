@@ -50,6 +50,12 @@ export function ProfileCard({ activities, filter = 'all' }: ProfileCardProps) {
       countries.add('泰国');
     } else if (loc.includes('日本')) {
       countries.add('日本');
+    } else if (loc.includes('新加坡')) {
+      countries.add('新加坡');
+    } else if (loc.startsWith('::') || loc.split(':').length >= 3) {
+      // Foreign "city:province:country" or "::country" form (matches classic locationForRun)
+      const c = loc.split(':').filter(Boolean).pop();
+      if (c) countries.add(c);
     } else {
       countries.add('中国');
     }
