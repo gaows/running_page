@@ -1,7 +1,11 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { Activity, SportFilter } from '../types';
 import { useLocale } from '../hooks/useLocale';
-import { extractProvince } from '../hooks/useActivities';
+import {
+  getActivityProvince,
+  loadChinaFeatures,
+  type GeoFeature,
+} from '../utils/province';
 
 interface ChinaMapProps {
   activities: Activity[];
@@ -9,15 +13,6 @@ interface ChinaMapProps {
   onSelectProvince?: (province: string | null) => void;
   selectedProvince?: string | null;
 }
-
-type GeoFeature = {
-  type: 'Feature';
-  properties: { name: string; adcode: number };
-  geometry: {
-    type: 'Polygon' | 'MultiPolygon';
-    coordinates: number[][][][];
-  };
-};
 
 // Simple equirectangular projection bounded to China
 const BOUNDS = { minLng: 73, maxLng: 136, minLat: 15, maxLat: 54 };
@@ -72,20 +67,21 @@ export function ChinaMap({
 
   // Lazy-load GeoJSON to keep initial bundle small
   useEffect(() => {
-    import('../assets/china-provinces.json').then((mod) => {
-      setFeatures((mod.default as { features: GeoFeature[] }).features);
-    });
+    loadChinaFeatures().then(setFeatures);
   }, []);
 
-  // Build province → activity count map
+  // Build province → activity count map.
+  // Prefers stored location_country; falls back to GPS start point via
+  // point-in-polygon (so activities whose reverse-geocoding failed in CI
+  // still appear on the footprint map).
   const provinceCount = useMemo(() => {
     const map = new Map<string, number>();
     for (const a of activities) {
-      const p = extractProvince(a.location_country);
+      const p = getActivityProvince(a, features);
       if (p) map.set(p, (map.get(p) ?? 0) + 1);
     }
     return map;
-  }, [activities]);
+  }, [activities, features]);
 
   const visitedCount = provinceCount.size;
   const displayProvince = hoveredProvince ?? selectedProvince;

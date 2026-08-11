@@ -1,12 +1,16 @@
 import './index.css';
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import type { Activity } from '@/types';
 import {
   useFilteredActivities,
   getAvailableYears,
-  extractProvince,
   getActivityData,
 } from '@/hooks/useActivities';
+import {
+  getActivityProvince,
+  loadChinaFeatures,
+  type GeoFeature,
+} from '@/utils/province';
 import { useTheme } from '@/hooks/useTheme';
 import { Header } from '@/components/Header';
 import { StatsCards } from '@/components/StatsCards';
@@ -31,18 +35,28 @@ function Dashboard() {
   );
   const [selectedProvince, setSelectedProvince] = useState<string | null>(null);
   const [page, setPage] = useState<Page>('home');
+  const [provinceFeatures, setProvinceFeatures] = useState<GeoFeature[] | null>(
+    null
+  );
+
+  // Load province boundaries once so the GPS-based province fallback works
+  // for both the footprint map and the province filter.
+  useEffect(() => {
+    loadChinaFeatures().then(setProvinceFeatures);
+  }, []);
 
   const years = getAvailableYears(activities);
   const filtered = useFilteredActivities(activities, filter, year);
   const heatmapYear = year ?? years[0] ?? new Date().getFullYear();
 
-  // Activities filtered to the selected province (for RouteMap)
+  // Activities filtered to the selected province (for RouteMap). Uses the same
+  // province resolution as the footprint map (location_country, else GPS).
   const provinceFiltered = useMemo(() => {
     if (!selectedProvince) return filtered;
     return filtered.filter(
-      (a) => extractProvince(a.location_country) === selectedProvince
+      (a) => getActivityProvince(a, provinceFeatures) === selectedProvince
     );
-  }, [filtered, selectedProvince]);
+  }, [filtered, selectedProvince, provinceFeatures]);
 
   return (
     <div className="min-h-screen bg-[var(--color-bg)]" data-filter={filter}>
