@@ -25,10 +25,10 @@ on:
       - requirements.txt
 
 env:
-  # please change to your own config.
-  # 数据源 = 高驰(Coros)：账号+密码长效，无 token 过期问题，每日自动同步。
-  # 历史 282 条 Strava 已种入 data.db 作为基线，高驰同步会在此基础上累加（按各自 run_id/labelId 去重）。
-  RUN_TYPE: coros
+  # 已就绪：数据源切换至高驰(Coros)，历史 282 条 Strava 已种入 data.db 作为基线。
+  # 但因当前提供的高驰账号/密码登录失败(result 1030)，临时置为 pass 避免每日定时同步反复报错；
+  # 待用户提供正确凭据后改回 coros 并手动 dispatch 首次同步即可。
+  RUN_TYPE: pass
   ATHLETE: Timothy
   TITLE: "Timothy's running page"
   MIN_GRID_DISTANCE: 10 # change min distance here
