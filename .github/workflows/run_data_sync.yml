@@ -2,6 +2,8 @@ name: Run Data Sync
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
   push:
     branches:
       - master
@@ -24,9 +26,9 @@ on:
 
 env:
   # please change to your own config.
-  # 已冻结：Nike 数据源因 NRC 大陆停运、无长效 token，且 Nike 活动与高驰重复，已移出数据集。
-  # 历史数据（Strava 282 条）已固定，不再自动同步。如需切换数据源改此处并手动 dispatch。
-  RUN_TYPE: pass
+  # 数据源 = 高驰(Coros)：账号+密码长效，无 token 过期问题，每日自动同步。
+  # 历史 282 条 Strava 已种入 data.db 作为基线，高驰同步会在此基础上累加（按各自 run_id/labelId 去重）。
+  RUN_TYPE: coros
   ATHLETE: Timothy
   TITLE: "Timothy's running page"
   MIN_GRID_DISTANCE: 10 # change min distance here
