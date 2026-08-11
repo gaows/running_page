@@ -1,4 +1,5 @@
 import argparse
+from base64 import b64decode
 import json
 import logging
 import os.path
@@ -25,12 +26,40 @@ logger = logging.getLogger("nike_sync")
 
 BASE_URL = "https://api.nike.com/plus/v3"
 TOKEN_REFRESH_URL = "https://api.nike.com/idn/shim/oauth/2.0/token"
+# Nike OAuth 客户端常量（base64 编码，运行时解码），用于 refresh_token 换取 access_token
+NIKE_CLIENT_ID = "VmhBZWFmRUdKNkc4ZTlEeFJVejhpRTUwQ1o5TWlKTUc="
+NIKE_UX_ID = "Y29tLm5pa2Uuc3BvcnQucnVubmluZy5pb3MuNS4xNQ=="
+NIKE_HEADERS = {
+    "Host": "api.nike.com",
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+}
 
 
 class Nike:
-    def __init__(self, access_token):
+    def __init__(self, refresh_token):
         self.client = httpx.Client()
-
+        access_token = refresh_token
+        # 若传入的是长效 refresh_token，则先换取短期 access_token（避免每小时手动更新）
+        try:
+            resp = self.client.post(
+                TOKEN_REFRESH_URL,
+                headers=NIKE_HEADERS,
+                json={
+                    "refresh_token": refresh_token,
+                    "client_id": b64decode(NIKE_CLIENT_ID).decode(),
+                    "grant_type": "refresh_token",
+                    "ux_id": b64decode(NIKE_UX_ID).decode(),
+                },
+                timeout=60,
+            )
+            resp.raise_for_status()
+            access_token = resp.json()["access_token"]
+            logger.info("Nike refresh_token 换取 access_token 成功")
+        except Exception as e:
+            logger.warning(
+                f"refresh_token 换取失败（{e}），回退为直接以传入 token 作为 Bearer"
+            )
         self.client.headers.update({"Authorization": f"Bearer {access_token}"})
 
     def get_activities_before_id(self, activity_id):
