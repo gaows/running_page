@@ -158,9 +158,13 @@ export function StatsCards({
     return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
   }
 
-  // Streak calculation (consecutive days with activity)
+  // Streak calculation (consecutive days with RUNNING activity only)
   const sortedDates = [
-    ...new Set(activities.map((a) => a.start_date_local.slice(0, 10))),
+    ...new Set(
+      activities
+        .filter((a) => a.type === 'Run')
+        .map((a) => a.start_date_local.slice(0, 10))
+    ),
   ]
     .sort()
     .reverse();
@@ -193,10 +197,12 @@ export function StatsCards({
   }
 
   const weekSet = new Set(
-    activities.map((a) => {
-      const d = new Date(a.start_date_local);
-      return `${d.getFullYear()}-${getWeekNumber(d)}`;
-    })
+    activities
+      .filter((a) => a.type === 'Run')
+      .map((a) => {
+        const d = new Date(a.start_date_local);
+        return `${d.getFullYear()}-${getWeekNumber(d)}`;
+      })
   );
 
   let currentWeekStreak = 0;
