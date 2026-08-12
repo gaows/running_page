@@ -32,6 +32,7 @@ export function StatsCards({
   const now = new Date();
   const currentYear = year ?? now.getFullYear();
   const yearActivities = activities.filter((a) => {
+    if (a.type !== 'Run') return false;
     const d = new Date(a.start_date_local);
     return d.getFullYear() === currentYear;
   });
@@ -49,7 +50,7 @@ export function StatsCards({
   const lastYearActivities = allActivities.filter((a) => {
     const d = new Date(a.start_date_local);
     if (d.getFullYear() !== currentYear - 1) return false;
-    if (filter !== 'all' && a.type !== filter) return false;
+    if (a.type !== 'Run') return false;
     const aDayOfYear = Math.floor(
       (d.getTime() - new Date(d.getFullYear(), 0, 1).getTime()) / 86400000
     );
@@ -78,7 +79,7 @@ export function StatsCards({
       d.getMonth() !== now.getMonth()
     )
       return false;
-    if (filter !== 'all' && a.type !== filter) return false;
+    if (a.type !== 'Run') return false;
     return true;
   });
   const monthDistance = monthActivities.reduce((s, a) => s + a.distance, 0);
@@ -96,7 +97,7 @@ export function StatsCards({
       now.getMonth() === 0 ? now.getFullYear() - 1 : now.getFullYear();
     if (d.getFullYear() !== targetYear || d.getMonth() !== targetMonth)
       return false;
-    if (filter !== 'all' && a.type !== filter) return false;
+    if (a.type !== 'Run') return false;
     return d.getDate() <= now.getDate();
   });
   const lastMonthDistance = lastMonthActivities.reduce(
@@ -120,7 +121,7 @@ export function StatsCards({
   const weekActivities = allActivities.filter((a) => {
     const d = new Date(a.start_date_local);
     if (d < weekStart) return false;
-    if (filter !== 'all' && a.type !== filter) return false;
+    if (a.type !== 'Run') return false;
     return true;
   });
   const weekDistance = weekActivities.reduce((s, a) => s + a.distance, 0);
@@ -136,7 +137,7 @@ export function StatsCards({
   const lastWeekActivities = allActivities.filter((a) => {
     const d = new Date(a.start_date_local);
     if (d < lastWeekStart || d > lastWeekSamePoint) return false;
-    if (filter !== 'all' && a.type !== filter) return false;
+    if (a.type !== 'Run') return false;
     return true;
   });
   const lastWeekDistance = lastWeekActivities.reduce(
@@ -289,7 +290,7 @@ export function StatsCards({
     return `${h}h`;
   };
 
-  const unit = filter === 'Run' ? t('runs') : t('activities');
+  const unit = t('runs');
 
   return (
     <div className="grid grid-cols-1 gap-4 md:grid-cols-[1fr_1fr_1fr_1.6fr]">
